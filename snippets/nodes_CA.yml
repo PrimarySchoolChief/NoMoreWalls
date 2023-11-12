@@ -8,7 +8,7 @@ proxies:
   servername: ca04.abpilot.xyz
   tls: true
   type: vmess
-  uuid: 8d137323-11f2-466e-951c-5e07c5a17e17
+  uuid: 67c93948-7ae0-4fdc-9956-94aac0be91d5
 - alterId: 0
   cipher: auto
   name: 12|加拿大 078
@@ -328,20 +328,6 @@ proxies:
     path: linkvws
 - alterId: 0
   cipher: auto
-  name: 12|加拿大 235
-  network: ws
-  port: 443
-  server: 104.18.203.232
-  servername: ''
-  tls: true
-  type: vmess
-  uuid: 03fcc618-b93d-6796-6aed-8a38c975d581
-  ws-opts:
-    headers:
-      Host: edeen.makeup
-    path: linkvws
-- alterId: 0
-  cipher: auto
   name: 12|加拿大 074
   network: ws
   port: 8443
@@ -363,4 +349,4 @@ proxies:
   servername: ca04.lovemc.xyz
   tls: true
   type: vmess
-  uuid: 95ea65f2-98e7-4d40-8bfe-5df9984a9a43
+  uuid: 3f79b49b-2d71-4d77-8c8e-624b6794e8f5

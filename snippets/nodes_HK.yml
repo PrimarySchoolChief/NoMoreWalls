@@ -8,7 +8,7 @@ proxies:
   servername: hk04.abpilot.xyz
   tls: true
   type: vmess
-  uuid: 8d137323-11f2-466e-951c-5e07c5a17e17
+  uuid: 67c93948-7ae0-4fdc-9956-94aac0be91d5
 - alterId: 0
   cipher: auto
   name: 9|🇭🇰香港05
@@ -18,7 +18,7 @@ proxies:
   servername: hk05.abpilot.xyz
   tls: true
   type: vmess
-  uuid: 8d137323-11f2-466e-951c-5e07c5a17e17
+  uuid: 67c93948-7ae0-4fdc-9956-94aac0be91d5
 - alterId: 0
   cipher: auto
   name: 9|🇭🇰香港06
@@ -28,10 +28,23 @@ proxies:
   servername: hk06.abpilot.xyz
   tls: true
   type: vmess
-  uuid: 8d137323-11f2-466e-951c-5e07c5a17e17
+  uuid: 67c93948-7ae0-4fdc-9956-94aac0be91d5
 - alterId: 0
   cipher: auto
-  name: 10|香港 阿里云
+  name: 10,11|github.com/freefq - 香港阿里云 31
+  network: ws
+  port: 443
+  server: n1697685464.aaigefm.cn
+  tls: true
+  type: vmess
+  uuid: 187002fd-b8ad-4d36-b4fb-1a3224cc99e2
+  ws-opts:
+    headers:
+      Host: n1697685464.aaigefm.cn
+    path: /
+- alterId: 0
+  cipher: auto
+  name: 10,11|github.com/freefq - 香港阿里云 11
   network: ws
   port: '443'
   server: n1698814075.aaigefm.cn
@@ -45,44 +58,7 @@ proxies:
     path: /
 - alterId: 0
   cipher: auto
-  name: 10,12|🇨🇳|CN|中国|@wxgqlfx|33
-  network: tcp
-  port: 80
-  server: 194.156.98.179
-  servername: ''
-  tls: false
-  type: vmess
-  uuid: 0855b410-0e96-4d0a-9b6e-80830edec462
-- alterId: 0
-  cipher: auto
-  name: 10,11|github.com/freefq - 香港阿里云 4
-  network: ws
-  port: 443
-  server: n1697685464.aaigefm.cn
-  tls: true
-  type: vmess
-  uuid: 187002fd-b8ad-4d36-b4fb-1a3224cc99e2
-  ws-opts:
-    headers:
-      Host: n1697685464.aaigefm.cn
-    path: /
-- alterId: 0
-  cipher: auto
-  name: 10|香港阿里云 14
-  network: ws
-  port: '443'
-  server: n1698814076.izwhvan.cn
-  servername: ''
-  tls: true
-  type: vmess
-  uuid: 2484ab4b-e997-45f3-9f0d-456640d967ef
-  ws-opts:
-    headers:
-      Host: n1698814076.izwhvan.cn
-    path: /
-- alterId: 0
-  cipher: auto
-  name: 10,14,15|香港B|@ripaojiedian
+  name: 10,11,14,15|香港B|@ripaojiedian
   network: ws
   port: '443'
   server: n1699253769.aaigefm.cn
@@ -98,6 +74,20 @@ proxies:
     path: /
 - alterId: 0
   cipher: auto
+  name: 10,11|github.com/freefq - 香港阿里云 24
+  network: ws
+  port: '443'
+  server: n1698814076.izwhvan.cn
+  servername: ''
+  tls: true
+  type: vmess
+  uuid: 2484ab4b-e997-45f3-9f0d-456640d967ef
+  ws-opts:
+    headers:
+      Host: n1698814076.izwhvan.cn
+    path: /
+- alterId: 0
+  cipher: auto
   name: 12|🔒 VM-TCP-NA 🇭🇰 HK-47.242.249.1...
   network: tcp
   port: '10085'
@@ -107,20 +97,6 @@ proxies:
   uuid: 6e8a4e9d-bd95-4752-a20b-9a8839895fd1
 - alterId: 0
   cipher: auto
-  name: 12|🇭🇰香港12-临时
-  network: ws
-  port: '80'
-  server: zz.easylink.work
-  servername: ''
-  tls: false
-  type: vmess
-  uuid: eb9ddbdd-5923-422e-a4dd-5efb4fbf9dda
-  ws-opts:
-    headers:
-      Host: hkyd2.easylink.work
-    path: /easylink
-- alterId: 0
-  cipher: auto
   name: 13|香港 04 | 1x HK PRO
   network: tcp
   port: '31601'
@@ -128,7 +104,7 @@ proxies:
   servername: hk04.lovemc.xyz
   tls: true
   type: vmess
-  uuid: 95ea65f2-98e7-4d40-8bfe-5df9984a9a43
+  uuid: 3f79b49b-2d71-4d77-8c8e-624b6794e8f5
 - alterId: 0
   cipher: auto
   name: 13|香港 05 | 1x HK
@@ -138,7 +114,7 @@ proxies:
   servername: hk05.lovemc.xyz
   tls: true
   type: vmess
-  uuid: 95ea65f2-98e7-4d40-8bfe-5df9984a9a43
+  uuid: 3f79b49b-2d71-4d77-8c8e-624b6794e8f5
 - alterId: 0
   cipher: auto
   name: 13|香港 06 | 1x HK
@@ -148,7 +124,7 @@ proxies:
   servername: hk06.lovemc.xyz
   tls: true
   type: vmess
-  uuid: 95ea65f2-98e7-4d40-8bfe-5df9984a9a43
+  uuid: 3f79b49b-2d71-4d77-8c8e-624b6794e8f5
 - cipher: aes-128-gcm
   name: 14|🇭🇰 香港KT2|@ripaojiedian
   password: a-wym4ovY4Yw
