@@ -1,7 +1,7 @@
 proxies:
 - alterId: 64
   cipher: auto
-  name: '0,2,3,4,6,19|🇺🇸_US_美国->🇳🇱_NL_荷兰_由快嘴科技提供：kkz... #1'
+  name: '0,2,3,4,6,18|🇺🇸_US_美国->🇳🇱_NL_荷兰_由快嘴科技提供：kkz... #1'
   network: ws
   port: 30000
   server: 45.199.138.146
@@ -14,7 +14,7 @@ proxies:
     path: /path/1699193100388
 - alterId: 0
   cipher: auto
-  name: '0,3,10,11|github.com/freefq - 美国CloudFla... #6'
+  name: '0,3,10,11|github.com/freefq - 美国CloudFla... #5'
   network: ws
   port: '80'
   server: yhnsb3.shabijichang.com
@@ -28,10 +28,11 @@ proxies:
     path: /
 - alterId: 0
   cipher: auto
-  name: '0,3|🇸🇬 _SG_新加坡->🇺🇸_US_美国 #3'
+  name: 0,3,11|github.com/freefq - 中国阿里云 34
   network: ws
   port: '80'
   server: 8.222.235.92
+  servername: ''
   tls: false
   type: vmess
   uuid: ffffffff-ffff-ffff-ffff-ffffffffffff
@@ -41,7 +42,7 @@ proxies:
     path: /
 - alterId: 64
   cipher: auto
-  name: 0,3,19|🇺🇸_US_美国->🇳🇱_NL_荷兰_由快嘴科技提供：kkz...
+  name: 0,3,18|🇺🇸_US_美国->🇳🇱_NL_荷兰_由快嘴科技提供：kkz...
   network: ws
   port: 30000
   server: 45.199.138.191
@@ -54,7 +55,7 @@ proxies:
     path: /path/1699280099138
 - alterId: 0
   cipher: auto
-  name: 0,3,19|🇺🇸_US_美国->🇬🇧_GB_英国_2_9
+  name: 0,3,18|🇺🇸_US_美国->🇬🇧_GB_英国_2_9
   network: ws
   port: 80
   server: mrb2.shabijichang.com
@@ -67,7 +68,7 @@ proxies:
     path: /
 - alterId: 0
   cipher: auto
-  name: 0,3,10|中国阿里云 39
+  name: 0,3,10,11|github.com/freefq - 中国阿里云 33
   network: ws
   port: 80
   server: 8.222.198.105
@@ -80,7 +81,7 @@ proxies:
     path: /
 - alterId: 0
   cipher: auto
-  name: '0,3,6,19|🇺🇸_US_美国->🇬🇧_GB_英国_由快嘴科技提供：kkz... #1'
+  name: '0,3,6,18|🇺🇸_US_美国->🇬🇧_GB_英国_由快嘴科技提供：kkz... #1'
   network: ws
   port: 80
   server: ld2.shabijichang.com
@@ -93,7 +94,7 @@ proxies:
     path: /
 - alterId: 0
   cipher: auto
-  name: 0,3,19|🇺🇸_US_美国->🇮🇳_IN_印度_6
+  name: 0,3,18|🇺🇸_US_美国->🇮🇳_IN_印度_6
   network: ws
   port: 80
   server: mm2.shabijichang.com
@@ -106,7 +107,7 @@ proxies:
     path: /
 - alterId: 64
   cipher: auto
-  name: 0,1,2,3,4,6,10,15,19|🇨🇳_CN_中国->🇬🇧_GB_英国_2
+  name: 0,1,2,3,4,6,10,15,18|🇨🇳_CN_中国->🇬🇧_GB_英国_2
   network: tcp
   port: 49056
   server: 112.29.94.23
@@ -145,7 +146,7 @@ proxies:
     path: /
 - alterId: 0
   cipher: auto
-  name: 2,4,6,19|🇺🇸_US_美国->🇮🇳_IN_印度_由快嘴科技提供：kkz...
+  name: 2,4,6,18|🇺🇸_US_美国->🇮🇳_IN_印度_由快嘴科技提供：kkz...
   network: ws
   port: 80
   server: mm3.shabijichang.com
