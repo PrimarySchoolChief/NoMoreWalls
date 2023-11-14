@@ -8,7 +8,7 @@ proxies:
   servername: sg04.abpilot.xyz
   tls: true
   type: vmess
-  uuid: a893ac96-b02a-4870-b798-6e81abcb9f2c
+  uuid: 4db72d66-c96e-413b-9d11-52f8a296b61e
 - alterId: 0
   cipher: auto
   name: 9|🇸🇬新加坡05
@@ -18,7 +18,7 @@ proxies:
   servername: sg05.abpilot.xyz
   tls: true
   type: vmess
-  uuid: a893ac96-b02a-4870-b798-6e81abcb9f2c
+  uuid: 4db72d66-c96e-413b-9d11-52f8a296b61e
 - alterId: 0
   cipher: auto
   name: 9|🇸🇬新加坡06
@@ -28,10 +28,24 @@ proxies:
   servername: sg06.abpilot.xyz
   tls: true
   type: vmess
-  uuid: a893ac96-b02a-4870-b798-6e81abcb9f2c
+  uuid: 4db72d66-c96e-413b-9d11-52f8a296b61e
 - alterId: 0
   cipher: auto
-  name: 12|SG_speednode_0061
+  name: 12|🇸🇬TG频道 @oeo12  =SG_1
+  network: ws
+  port: 443
+  server: gg.looooooongnet.lol
+  servername: ''
+  tls: true
+  type: vmess
+  uuid: 102badbb-b5d2-4877-8e7d-5f351c3210a1
+  ws-opts:
+    headers:
+      Host: ''
+    path: /
+- alterId: 0
+  cipher: auto
+  name: 12|SG_speednode_0101
   network: ws
   port: 443
   server: 170.187.230.221
@@ -52,7 +66,7 @@ proxies:
   servername: sg04.lovemc.xyz
   tls: true
   type: vmess
-  uuid: b643b65a-1560-4873-adc2-6aa537075318
+  uuid: 3f09b082-1404-45e4-a11d-92f648f4c629
 - alterId: 0
   cipher: auto
   name: 13|新加坡 05 | 1x SG
@@ -62,7 +76,7 @@ proxies:
   servername: sg05.lovemc.xyz
   tls: true
   type: vmess
-  uuid: b643b65a-1560-4873-adc2-6aa537075318
+  uuid: 3f09b082-1404-45e4-a11d-92f648f4c629
 - alterId: 0
   cipher: auto
   name: 13|新加坡 06 | 1x SG
@@ -72,4 +86,4 @@ proxies:
   servername: sg06.lovemc.xyz
   tls: true
   type: vmess
-  uuid: b643b65a-1560-4873-adc2-6aa537075318
+  uuid: 3f09b082-1404-45e4-a11d-92f648f4c629
