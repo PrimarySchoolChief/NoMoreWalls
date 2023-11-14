@@ -8,7 +8,7 @@ proxies:
   servername: hk04.abpilot.xyz
   tls: true
   type: vmess
-  uuid: 4db72d66-c96e-413b-9d11-52f8a296b61e
+  uuid: 75c666a0-7ef3-4247-a7b6-6f09a1233fa4
 - alterId: 0
   cipher: auto
   name: 9|🇭🇰香港05
@@ -18,7 +18,7 @@ proxies:
   servername: hk05.abpilot.xyz
   tls: true
   type: vmess
-  uuid: 4db72d66-c96e-413b-9d11-52f8a296b61e
+  uuid: 75c666a0-7ef3-4247-a7b6-6f09a1233fa4
 - alterId: 0
   cipher: auto
   name: 9|🇭🇰香港06
@@ -28,7 +28,7 @@ proxies:
   servername: hk06.abpilot.xyz
   tls: true
   type: vmess
-  uuid: 4db72d66-c96e-413b-9d11-52f8a296b61e
+  uuid: 75c666a0-7ef3-4247-a7b6-6f09a1233fa4
 - alterId: 0
   cipher: auto
   name: 10|香港 阿里云
@@ -88,7 +88,7 @@ proxies:
   servername: hk04.lovemc.xyz
   tls: true
   type: vmess
-  uuid: 3f09b082-1404-45e4-a11d-92f648f4c629
+  uuid: c24388e3-6da8-4429-b5e0-adec9bf4cd9c
 - alterId: 0
   cipher: auto
   name: 13|香港 05 | 1x HK
@@ -98,7 +98,7 @@ proxies:
   servername: hk05.lovemc.xyz
   tls: true
   type: vmess
-  uuid: 3f09b082-1404-45e4-a11d-92f648f4c629
+  uuid: c24388e3-6da8-4429-b5e0-adec9bf4cd9c
 - alterId: 0
   cipher: auto
   name: 13|香港 06 | 1x HK
@@ -108,7 +108,7 @@ proxies:
   servername: hk06.lovemc.xyz
   tls: true
   type: vmess
-  uuid: 3f09b082-1404-45e4-a11d-92f648f4c629
+  uuid: c24388e3-6da8-4429-b5e0-adec9bf4cd9c
 - alterId: 0
   cipher: auto
   name: 14|纽约|浏览器输入 翻墙.com
