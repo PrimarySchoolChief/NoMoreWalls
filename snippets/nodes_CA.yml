@@ -1,7 +1,7 @@
 proxies:
 - alterId: 0
   cipher: auto
-  name: 0,6,12|加拿大 227
+  name: 0,3,6,12|加拿大 227
   network: ws
   port: 8080
   server: 23.227.38.86
@@ -633,4 +633,4 @@ proxies:
   servername: ca04.lovemc.xyz
   tls: true
   type: vmess
-  uuid: 56f94ad6-c422-4235-85ce-b75591a7bae7
+  uuid: ba063ee7-cfd4-45e7-b217-c0ad98324c67
