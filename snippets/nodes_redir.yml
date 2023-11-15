@@ -27,7 +27,7 @@ proxies:
     path: /
 - alterId: 64
   cipher: auto
-  name: 0,3,15|德国|@ripaojiedian
+  name: 0,3,11,15|德国|@ripaojiedian
   network: tcp
   port: '47009'
   server: 120.210.205.220
@@ -187,7 +187,7 @@ proxies:
     path: /path/1699280099138
 - alterId: 0
   cipher: auto
-  name: 2,4,19|🇺🇸_US_美国_由快嘴科技提供：kkzui.com_8
+  name: 2,4,18|🇺🇸_US_美国_由快嘴科技提供：kkzui.com_8
   network: ws
   port: 80
   server: mrb2.shabijichang.com
@@ -200,7 +200,7 @@ proxies:
     path: /
 - alterId: 0
   cipher: auto
-  name: 19|🇷🇴_RO_罗马尼亚->🇺🇦_UA_乌克兰_34
+  name: 18|🇷🇴_RO_罗马尼亚->🇺🇦_UA_乌克兰_34
   network: http
   port: 18785
   server: ss.wwww.htttbbx.alirezashhamraz.tk
