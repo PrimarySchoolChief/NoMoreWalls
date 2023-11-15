@@ -8,7 +8,7 @@ proxies:
   servername: tw04.abpilot.xyz
   tls: true
   type: vmess
-  uuid: 7fb97a8a-8723-4b29-b30c-4a11244c1870
+  uuid: eefe41cb-57f7-4b5b-a001-cab9ef34ce8e
 - alterId: 0
   cipher: auto
   name: 9|🇹🇼台湾05
@@ -18,7 +18,7 @@ proxies:
   servername: tw05.abpilot.xyz
   tls: true
   type: vmess
-  uuid: 7fb97a8a-8723-4b29-b30c-4a11244c1870
+  uuid: eefe41cb-57f7-4b5b-a001-cab9ef34ce8e
 - alterId: 0
   cipher: auto
   name: 9|🇹🇼台湾06
@@ -28,7 +28,7 @@ proxies:
   servername: tw06.abpilot.xyz
   tls: true
   type: vmess
-  uuid: 7fb97a8a-8723-4b29-b30c-4a11244c1870
+  uuid: eefe41cb-57f7-4b5b-a001-cab9ef34ce8e
 - alterId: 0
   cipher: auto
   name: 10,11,12,14|🇹🇼 台湾|@ripaojiedian
@@ -152,7 +152,7 @@ proxies:
   servername: tw04.lovemc.xyz
   tls: true
   type: vmess
-  uuid: d5c221e7-e750-4254-a13c-1adb69c452da
+  uuid: d98e8fb1-a08a-43c5-9b9b-5d38913005d7
 - alterId: 0
   cipher: auto
   name: 13|台湾 05  | 1x TWN
@@ -162,7 +162,7 @@ proxies:
   servername: tw05.lovemc.xyz
   tls: true
   type: vmess
-  uuid: d5c221e7-e750-4254-a13c-1adb69c452da
+  uuid: d98e8fb1-a08a-43c5-9b9b-5d38913005d7
 - alterId: 0
   cipher: auto
   name: 13|台湾 06  | 1x TWN
@@ -172,7 +172,7 @@ proxies:
   servername: tw06.lovemc.xyz
   tls: true
   type: vmess
-  uuid: d5c221e7-e750-4254-a13c-1adb69c452da
+  uuid: d98e8fb1-a08a-43c5-9b9b-5d38913005d7
 - cipher: aes-256-gcm
   name: 14|🇹🇼 台湾2|@ripaojiedian
   password: a0068c048cb0
