@@ -144,7 +144,7 @@ proxies:
   servername: us04.abpilot.xyz
   tls: true
   type: vmess
-  uuid: 0b2fb775-5322-4f32-8877-90b03559a4ae
+  uuid: d7f3e098-beb0-4ee7-92a8-fdaf3d2c276a
 - alterId: 0
   cipher: auto
   name: 9|🇺🇸美国05
@@ -154,7 +154,7 @@ proxies:
   servername: us05.abpilot.xyz
   tls: true
   type: vmess
-  uuid: 0b2fb775-5322-4f32-8877-90b03559a4ae
+  uuid: d7f3e098-beb0-4ee7-92a8-fdaf3d2c276a
 - alterId: 0
   cipher: auto
   name: 9|🇺🇸美国06
@@ -164,7 +164,7 @@ proxies:
   servername: us06.abpilot.xyz
   tls: true
   type: vmess
-  uuid: 0b2fb775-5322-4f32-8877-90b03559a4ae
+  uuid: d7f3e098-beb0-4ee7-92a8-fdaf3d2c276a
 - alterId: 0
   cipher: auto
   name: 10,12|加拿大 065
@@ -699,7 +699,7 @@ proxies:
   servername: us04.lovemc.xyz
   tls: true
   type: vmess
-  uuid: 5479470f-8090-43d6-a405-a2874987fc26
+  uuid: 405900a1-8395-4018-ba9a-44fee6b55d80
 - alterId: 0
   cipher: auto
   name: 13|美国 05 | 1x US
@@ -709,7 +709,7 @@ proxies:
   servername: us05.lovemc.xyz
   tls: true
   type: vmess
-  uuid: 5479470f-8090-43d6-a405-a2874987fc26
+  uuid: 405900a1-8395-4018-ba9a-44fee6b55d80
 - alterId: 0
   cipher: auto
   name: 13|美国 06 | 1x US
@@ -719,7 +719,7 @@ proxies:
   servername: us06.lovemc.xyz
   tls: true
   type: vmess
-  uuid: 5479470f-8090-43d6-a405-a2874987fc26
+  uuid: 405900a1-8395-4018-ba9a-44fee6b55d80
 - alterId: 64
   cipher: auto
   name: 14|🇺🇸 美国2|浏览器输入 翻墙.com
@@ -765,7 +765,7 @@ proxies:
   server: gdct003.jcnode.top
   tls: false
   type: vmess
-  uuid: 8ae80389-8c37-4f71-8a50-a748ff0a9e64
+  uuid: a4bf961b-21f1-4496-8080-0eb37dd2ae53
   ws-opts:
     headers:
       Host: ''
@@ -778,7 +778,7 @@ proxies:
   server: gdct002.jcnode.top
   tls: false
   type: vmess
-  uuid: 8ae80389-8c37-4f71-8a50-a748ff0a9e64
+  uuid: a4bf961b-21f1-4496-8080-0eb37dd2ae53
   ws-opts:
     headers:
       Host: ''
@@ -791,7 +791,7 @@ proxies:
   server: gdct001.jcnode.top
   tls: false
   type: vmess
-  uuid: 8ae80389-8c37-4f71-8a50-a748ff0a9e64
+  uuid: a4bf961b-21f1-4496-8080-0eb37dd2ae53
   ws-opts:
     headers:
       Host: ''
@@ -804,7 +804,7 @@ proxies:
   server: gdct003.jcnode.top
   tls: false
   type: vmess
-  uuid: 8ae80389-8c37-4f71-8a50-a748ff0a9e64
+  uuid: a4bf961b-21f1-4496-8080-0eb37dd2ae53
   ws-opts:
     headers:
       Host: ''
@@ -817,7 +817,7 @@ proxies:
   server: gdct002.jcnode.top
   tls: false
   type: vmess
-  uuid: 8ae80389-8c37-4f71-8a50-a748ff0a9e64
+  uuid: a4bf961b-21f1-4496-8080-0eb37dd2ae53
   ws-opts:
     headers:
       Host: ''
@@ -830,7 +830,7 @@ proxies:
   server: gdct001.jcnode.top
   tls: false
   type: vmess
-  uuid: 8ae80389-8c37-4f71-8a50-a748ff0a9e64
+  uuid: a4bf961b-21f1-4496-8080-0eb37dd2ae53
   ws-opts:
     headers:
       Host: ''

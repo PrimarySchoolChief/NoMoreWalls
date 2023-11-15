@@ -8,7 +8,7 @@ proxies:
   servername: hk04.abpilot.xyz
   tls: true
   type: vmess
-  uuid: 0b2fb775-5322-4f32-8877-90b03559a4ae
+  uuid: d7f3e098-beb0-4ee7-92a8-fdaf3d2c276a
 - alterId: 0
   cipher: auto
   name: 9|🇭🇰香港05
@@ -18,7 +18,7 @@ proxies:
   servername: hk05.abpilot.xyz
   tls: true
   type: vmess
-  uuid: 0b2fb775-5322-4f32-8877-90b03559a4ae
+  uuid: d7f3e098-beb0-4ee7-92a8-fdaf3d2c276a
 - alterId: 0
   cipher: auto
   name: 9|🇭🇰香港06
@@ -28,7 +28,7 @@ proxies:
   servername: hk06.abpilot.xyz
   tls: true
   type: vmess
-  uuid: 0b2fb775-5322-4f32-8877-90b03559a4ae
+  uuid: d7f3e098-beb0-4ee7-92a8-fdaf3d2c276a
 - alterId: 0
   cipher: auto
   name: 10,11|github.com/freefq - 香港阿里云 15
@@ -61,7 +61,7 @@ proxies:
   servername: hk04.lovemc.xyz
   tls: true
   type: vmess
-  uuid: 5479470f-8090-43d6-a405-a2874987fc26
+  uuid: 405900a1-8395-4018-ba9a-44fee6b55d80
 - alterId: 0
   cipher: auto
   name: 13|香港 05 | 1x HK
@@ -71,7 +71,7 @@ proxies:
   servername: hk05.lovemc.xyz
   tls: true
   type: vmess
-  uuid: 5479470f-8090-43d6-a405-a2874987fc26
+  uuid: 405900a1-8395-4018-ba9a-44fee6b55d80
 - alterId: 0
   cipher: auto
   name: 13|香港 06 | 1x HK
@@ -81,7 +81,7 @@ proxies:
   servername: hk06.lovemc.xyz
   tls: true
   type: vmess
-  uuid: 5479470f-8090-43d6-a405-a2874987fc26
+  uuid: 405900a1-8395-4018-ba9a-44fee6b55d80
 - cipher: aes-128-gcm
   name: 14|🇭🇰 香港KT1|@ripaojiedian
   password: a-wym4ovY4Yw
