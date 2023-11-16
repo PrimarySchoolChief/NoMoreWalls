@@ -1,22 +1,4 @@
 proxies:
-- name: 1|_CN__1
-  network: tcp
-  password: b7de227d-9f33-4edf-822d-9006a3b74787
-  port: 10838
-  server: other.kunlun-ppg.com
-  skip-cert-verify: true
-  sni: alibaba-node.cn
-  type: trojan
-  udp: true
-- name: 1|_CN__2
-  network: tcp
-  password: b7de227d-9f33-4edf-822d-9006a3b74787
-  port: 10837
-  server: other.kunlun-ppg.com
-  skip-cert-verify: true
-  sni: alibaba-node.cn
-  type: trojan
-  udp: true
 - alterId: 64
   cipher: auto
   name: 10,11,15|香港3|@ripaojiedian
