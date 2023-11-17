@@ -8,7 +8,7 @@ proxies:
   servername: ca04.abpilot.xyz
   tls: true
   type: vmess
-  uuid: 52f62dbe-046a-4fd7-8dda-36dadd0673c3
+  uuid: b66b8712-5c27-414d-a56b-5ec228dc9c06
 - alterId: 0
   cipher: auto
   name: 12|加拿大 227
@@ -753,3 +753,13 @@ proxies:
     headers:
       Host: octavi.cfd
     path: linkvws
+- alterId: 0
+  cipher: auto
+  name: 13|【BGP】加拿大 02 | 1x CA
+  network: tcp
+  port: '31701'
+  server: 3d1c4a04.mcfront.xyz
+  servername: ca04.lovemc.xyz
+  tls: true
+  type: vmess
+  uuid: 461ee47c-a140-4080-b467-e2a138fac032

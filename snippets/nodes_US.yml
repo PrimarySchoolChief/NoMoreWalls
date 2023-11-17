@@ -1,7 +1,7 @@
 proxies:
 - alterId: 0
   cipher: auto
-  name: '0,3,6|🇺🇸_US_美国 #10'
+  name: '0,3,6|🇺🇸_US_美国 #8'
   network: ws
   port: 80
   server: 104.21.75.246
@@ -24,10 +24,11 @@ proxies:
   uuid: 9c050a86-d612-48f1-ec32-e573df08a1b7
 - alterId: 0
   cipher: auto
-  name: '0,3,6|🇺🇸_US_美国 #9'
+  name: '0,1,2,3,4,6|🇺🇸_US_美国 #7'
   network: http
   port: 3389
   server: 5.161.86.165
+  skip-cert-verify: true
   tls: false
   type: vmess
   uuid: 9c050a86-d612-48f1-ec32-e573df08a1b7
@@ -36,41 +37,15 @@ proxies:
   name: 1|_US__1
   network: ws
   port: 80
-  server: mm3.shabijichang.com
+  server: 104.21.75.246
   skip-cert-verify: true
   tls: false
   type: vmess
   uuid: c458695d-6908-45c3-9512-e0c46418454c
   ws-opts:
     headers:
-      host: mm3.shabijichang.com
-    path: /
-- alterId: 0
-  cipher: auto
-  name: 1|_US__2
-  network: ws
-  port: 8880
-  server: cf2.trojan.tel
-  skip-cert-verify: true
-  tls: false
-  type: vmess
-  uuid: c78452f0-8489-43d8-87c6-68e55e3ce245
-  ws-opts:
-    headers:
-      host: ssrsub-cf-v2.trojan.tel
-    path: /api/v3/download.getFile
+      host: sbl2.shabijichang.com
 - name: 1|_US__3
-  network: ws
-  password: d2698cf9-c47e-455c-8384-12e642cbba15
-  port: 443
-  server: 167.68.5.183
-  skip-cert-verify: true
-  sni: 6us3.pqjc.buzz
-  type: trojan
-  udp: true
-  ws-opts:
-    path: /pq/us3
-- name: 1|_US__4
   network: ws
   password: d2698cf9-c47e-455c-8384-12e642cbba15
   port: 443
@@ -81,32 +56,32 @@ proxies:
   udp: true
   ws-opts:
     path: /pq/us4
-- alterId: 0
-  cipher: auto
-  name: '1,2,4|🇺🇸_US_美国 #6'
-  network: http
-  port: 3389
-  server: 5.161.67.68
-  skip-cert-verify: true
-  tls: false
-  type: vmess
-  uuid: 9c050a86-d612-48f1-ec32-e573df08a1b7
-- alterId: 0
-  cipher: auto
-  name: '2,4|🇺🇸_US_美国 #5'
+- name: 1|_US__4
   network: ws
-  port: 8880
-  server: cf2.trojan.tel
+  password: d2698cf9-c47e-455c-8384-12e642cbba15
+  port: 443
+  server: 167.68.5.183
+  skip-cert-verify: true
+  sni: 6us3.pqjc.buzz
+  type: trojan
+  udp: true
+  ws-opts:
+    path: /pq/us3
+- alterId: 0
+  cipher: auto
+  name: '2,4|🇺🇸_US_美国 #3'
+  network: ws
+  port: 80
+  server: 104.21.75.246
   tls: false
   type: vmess
-  uuid: c78452f0-8489-43d8-87c6-68e55e3ce245
+  uuid: c458695d-6908-45c3-9512-e0c46418454c
   ws-opts:
     headers:
-      Host: ssrsub-cf-v2.trojan.tel
-    path: /api/v3/download.getFile
+      Host: sbl2.shabijichang.com
 - alterId: 0
   cipher: auto
-  name: '6|🇺🇸_US_美国 #11'
+  name: '6|🇺🇸_US_美国 #9'
   network: ws
   port: 80
   server: ml2.shabijichang.com
@@ -141,7 +116,7 @@ proxies:
   servername: us04.abpilot.xyz
   tls: true
   type: vmess
-  uuid: 52f62dbe-046a-4fd7-8dda-36dadd0673c3
+  uuid: b66b8712-5c27-414d-a56b-5ec228dc9c06
 - alterId: 0
   cipher: auto
   name: 9|🇺🇸美国05
@@ -151,7 +126,7 @@ proxies:
   servername: us05.abpilot.xyz
   tls: true
   type: vmess
-  uuid: 52f62dbe-046a-4fd7-8dda-36dadd0673c3
+  uuid: b66b8712-5c27-414d-a56b-5ec228dc9c06
 - alterId: 0
   cipher: auto
   name: 9|🇺🇸美国06
@@ -161,7 +136,7 @@ proxies:
   servername: us06.abpilot.xyz
   tls: true
   type: vmess
-  uuid: 52f62dbe-046a-4fd7-8dda-36dadd0673c3
+  uuid: b66b8712-5c27-414d-a56b-5ec228dc9c06
 - alterId: 0
   cipher: auto
   name: 10|美国 CloudFlare节点
@@ -619,6 +594,36 @@ proxies:
   tls: false
   type: vmess
   uuid: 04621bae-ab36-11ec-b909-0242ac120002
+- alterId: 0
+  cipher: auto
+  name: 13|【BGP】美国 04 | 1x US
+  network: tcp
+  port: '31501'
+  server: 4a2u0a04.mcfront.xyz
+  servername: us04.lovemc.xyz
+  tls: true
+  type: vmess
+  uuid: 461ee47c-a140-4080-b467-e2a138fac032
+- alterId: 0
+  cipher: auto
+  name: 13|【BGP】美国 05 | 1x US
+  network: tcp
+  port: '31506'
+  server: 4a2u0a05.mcfront.xyz
+  servername: us05.lovemc.xyz
+  tls: true
+  type: vmess
+  uuid: 461ee47c-a140-4080-b467-e2a138fac032
+- alterId: 0
+  cipher: auto
+  name: 13|【BGP】美国 06 | 1x US
+  network: tcp
+  port: '31511'
+  server: 4a2u0a06.mcfront.xyz
+  servername: us06.lovemc.xyz
+  tls: true
+  type: vmess
+  uuid: 461ee47c-a140-4080-b467-e2a138fac032
 - cipher: aes-256-cfb
   name: 14|🇺🇸 美国3|@ripaojiedian
   password: f8f7aCzcPKbsF8p3
@@ -644,7 +649,7 @@ proxies:
   server: gdct003.jcnode.top
   tls: false
   type: vmess
-  uuid: a8e55035-9f1e-43ca-9627-9a6059cf539b
+  uuid: 3fe7a100-8d25-428e-8a44-e6744c968e73
   ws-opts:
     headers:
       Host: ''
@@ -657,7 +662,7 @@ proxies:
   server: gdct002.jcnode.top
   tls: false
   type: vmess
-  uuid: a8e55035-9f1e-43ca-9627-9a6059cf539b
+  uuid: 3fe7a100-8d25-428e-8a44-e6744c968e73
   ws-opts:
     headers:
       Host: ''
@@ -670,7 +675,7 @@ proxies:
   server: gdct001.jcnode.top
   tls: false
   type: vmess
-  uuid: a8e55035-9f1e-43ca-9627-9a6059cf539b
+  uuid: 3fe7a100-8d25-428e-8a44-e6744c968e73
   ws-opts:
     headers:
       Host: ''
@@ -683,7 +688,7 @@ proxies:
   server: gdct003.jcnode.top
   tls: false
   type: vmess
-  uuid: a8e55035-9f1e-43ca-9627-9a6059cf539b
+  uuid: 3fe7a100-8d25-428e-8a44-e6744c968e73
   ws-opts:
     headers:
       Host: ''
@@ -696,7 +701,7 @@ proxies:
   server: gdct002.jcnode.top
   tls: false
   type: vmess
-  uuid: a8e55035-9f1e-43ca-9627-9a6059cf539b
+  uuid: 3fe7a100-8d25-428e-8a44-e6744c968e73
   ws-opts:
     headers:
       Host: ''
@@ -709,7 +714,7 @@ proxies:
   server: gdct001.jcnode.top
   tls: false
   type: vmess
-  uuid: a8e55035-9f1e-43ca-9627-9a6059cf539b
+  uuid: 3fe7a100-8d25-428e-8a44-e6744c968e73
   ws-opts:
     headers:
       Host: ''
