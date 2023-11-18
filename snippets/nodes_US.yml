@@ -20,7 +20,7 @@ proxies:
   uuid: 061bd7f6-c628-4c71-b5e8-b4e3b83e6ef2
 - alterId: 0
   cipher: auto
-  name: 0,3,19|🇺🇸_US_美国_由快嘴科技提供：kkzui.com_19
+  name: 0,3,18|🇺🇸_US_美国_由快嘴科技提供：kkzui.com_19
   network: ws
   port: 80
   server: 104.21.75.246
@@ -465,7 +465,7 @@ proxies:
   servername: us04.lovemc.xyz
   tls: true
   type: vmess
-  uuid: 7cbed227-0503-49d5-8a41-1fcc6f23bf8a
+  uuid: c68bb6f4-18d2-4e87-b962-74502a86c6b3
 - alterId: 0
   cipher: auto
   name: 13|【BGP】美国 05 | 1x US
@@ -475,7 +475,7 @@ proxies:
   servername: us05.lovemc.xyz
   tls: true
   type: vmess
-  uuid: 7cbed227-0503-49d5-8a41-1fcc6f23bf8a
+  uuid: c68bb6f4-18d2-4e87-b962-74502a86c6b3
 - alterId: 0
   cipher: auto
   name: 13|【BGP】美国 06 | 1x US
@@ -485,7 +485,7 @@ proxies:
   servername: us06.lovemc.xyz
   tls: true
   type: vmess
-  uuid: 7cbed227-0503-49d5-8a41-1fcc6f23bf8a
+  uuid: c68bb6f4-18d2-4e87-b962-74502a86c6b3
 - cipher: aes-256-cfb
   name: 14|🇺🇸 美国3|@ripaojiedian
   password: f8f7aCzcPKbsF8p3
@@ -529,81 +529,3 @@ proxies:
   tls: false
   type: vmess
   uuid: 061bd7f6-c628-4c71-b5e8-b4e3b83e6ef2
-- alterId: 0
-  cipher: auto
-  name: 16|JCBB_ 美国01【vip1】
-  network: ws
-  port: '38381'
-  server: gdct003.jcnode.top
-  tls: false
-  type: vmess
-  uuid: 17b960b7-d0bf-4658-930e-0be3a26085a3
-  ws-opts:
-    headers:
-      Host: ''
-    path: ''
-- alterId: 0
-  cipher: auto
-  name: 16|JCBB_ 美国02_1【vip1】
-  network: ws
-  port: '20153'
-  server: gdct002.jcnode.top
-  tls: false
-  type: vmess
-  uuid: 17b960b7-d0bf-4658-930e-0be3a26085a3
-  ws-opts:
-    headers:
-      Host: ''
-    path: ''
-- alterId: 0
-  cipher: auto
-  name: 16|JCBB_ 美国02【vip1】
-  network: ws
-  port: '28204'
-  server: gdct001.jcnode.top
-  tls: false
-  type: vmess
-  uuid: 17b960b7-d0bf-4658-930e-0be3a26085a3
-  ws-opts:
-    headers:
-      Host: ''
-    path: ''
-- alterId: 0
-  cipher: auto
-  name: 16|JCBB_ 美国 03【vip1】
-  network: ws
-  port: '21036'
-  server: gdct003.jcnode.top
-  tls: false
-  type: vmess
-  uuid: 17b960b7-d0bf-4658-930e-0be3a26085a3
-  ws-opts:
-    headers:
-      Host: ''
-    path: ''
-- alterId: 0
-  cipher: auto
-  name: 16|JCBB_ 美国 04_1【vip1】
-  network: ws
-  port: '26611'
-  server: gdct002.jcnode.top
-  tls: false
-  type: vmess
-  uuid: 17b960b7-d0bf-4658-930e-0be3a26085a3
-  ws-opts:
-    headers:
-      Host: ''
-    path: ''
-- alterId: 0
-  cipher: auto
-  name: 16|JCBB_ 美国 04【vip1】
-  network: ws
-  port: '62684'
-  server: gdct001.jcnode.top
-  tls: false
-  type: vmess
-  uuid: 17b960b7-d0bf-4658-930e-0be3a26085a3
-  ws-opts:
-    headers:
-      Host: ''
-    path: ''
