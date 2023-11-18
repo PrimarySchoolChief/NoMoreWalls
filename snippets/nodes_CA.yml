@@ -1,7 +1,7 @@
 proxies:
 - alterId: 0
   cipher: auto
-  name: 0,19|🇨🇦_CA_加拿大_由快嘴科技提供：kkzui.com7
+  name: 0,3,6,19|🇨🇦_CA_加拿大_由快嘴科技提供：kkzui.com7
   network: http
   port: 8442
   server: ca-v2ray.freevmess.com
@@ -582,20 +582,6 @@ proxies:
     headers:
       Host: octavi.cfd
     path: linkvws
-- alterId: 0
-  cipher: auto
-  name: 12|加拿大 216
-  network: ws
-  port: 8880
-  server: 172.67.229.31
-  servername: ''
-  tls: false
-  type: vmess
-  uuid: 617c9bc4-4116-41c6-99e0-ace49a38fcdb
-  ws-opts:
-    headers:
-      Host: fr7.tehme100.fun
-    path: /Jnv8ViZOUVgijjOh0p5uGjHnXIiY
 - alterId: 1
   cipher: auto
   name: 12|加拿大 101
@@ -839,4 +825,4 @@ proxies:
   servername: ca04.lovemc.xyz
   tls: true
   type: vmess
-  uuid: 66c73243-e858-4aa1-812e-bfcf84df06d4
+  uuid: cdf34ab2-a36c-4c64-90e8-5ada34ca45f7

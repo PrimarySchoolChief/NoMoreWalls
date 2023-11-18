@@ -1,7 +1,7 @@
 proxies:
 - alterId: 0
   cipher: auto
-  name: '0,1,2,3,4,6|🇺🇸_US_美国 #7'
+  name: '0,1,2,3,4|🇺🇸_US_美国 #5'
   network: http
   port: 3389
   server: 5.161.86.165
@@ -11,7 +11,7 @@ proxies:
   uuid: 9c050a86-d612-48f1-ec32-e573df08a1b7
 - alterId: 0
   cipher: auto
-  name: 0,19|🇺🇸_US_美国_由快嘴科技提供：kkzui.com_7
+  name: 0,3,6,19|🇺🇸_US_美国_由快嘴科技提供：kkzui.com_7
   network: http
   port: 8442
   server: nl-v2ray.freevmess.com
@@ -20,9 +20,9 @@ proxies:
   uuid: 061bd7f6-c628-4c71-b5e8-b4e3b83e6ef2
 - alterId: 0
   cipher: auto
-  name: '0,3,6|🇺🇸_US_美国 #8'
+  name: '0,3|🇺🇸 _US_美国 #5'
   network: ws
-  port: 80
+  port: '80'
   server: 104.21.75.246
   tls: false
   type: vmess
@@ -46,7 +46,7 @@ proxies:
       host: sbl2.shabijichang.com
 - alterId: 0
   cipher: auto
-  name: 1,2,3,4,6,19|🇺🇸_US_美国_2_由快嘴科技提供：kkzui.com4
+  name: 1,2,4,19|🇺🇸_US_美国_2_由快嘴科技提供：kkzui.com4
   network: http
   port: 3389
   server: 5.161.68.48
@@ -90,17 +90,18 @@ proxies:
       Host: sbl2.shabijichang.com
 - alterId: 0
   cipher: auto
-  name: '6|🇺🇸_US_美国 #9'
+  name: 6,12|加拿大 216
   network: ws
-  port: 80
-  server: ml2.shabijichang.com
+  port: 8880
+  server: 172.67.229.31
+  servername: ''
   tls: false
   type: vmess
-  uuid: 10ea3b2a-b615-45f1-b1b7-c62bafe8c80c
+  uuid: 617c9bc4-4116-41c6-99e0-ace49a38fcdb
   ws-opts:
     headers:
-      Host: ml2.shabijichang.com
-    path: /
+      Host: fr7.tehme100.fun
+    path: /Jnv8ViZOUVgijjOh0p5uGjHnXIiY
 - alterId: 0
   cipher: auto
   name: '7,8|🇺🇸 United States 01 @nodpai #1'
@@ -577,7 +578,7 @@ proxies:
   servername: us04.lovemc.xyz
   tls: true
   type: vmess
-  uuid: 66c73243-e858-4aa1-812e-bfcf84df06d4
+  uuid: cdf34ab2-a36c-4c64-90e8-5ada34ca45f7
 - alterId: 0
   cipher: auto
   name: 13|【BGP】美国 05 | 1x US
@@ -587,7 +588,7 @@ proxies:
   servername: us05.lovemc.xyz
   tls: true
   type: vmess
-  uuid: 66c73243-e858-4aa1-812e-bfcf84df06d4
+  uuid: cdf34ab2-a36c-4c64-90e8-5ada34ca45f7
 - alterId: 0
   cipher: auto
   name: 13|【BGP】美国 06 | 1x US
@@ -597,7 +598,7 @@ proxies:
   servername: us06.lovemc.xyz
   tls: true
   type: vmess
-  uuid: 66c73243-e858-4aa1-812e-bfcf84df06d4
+  uuid: cdf34ab2-a36c-4c64-90e8-5ada34ca45f7
 - cipher: aes-256-cfb
   name: 14|🇺🇸 美国3|@ripaojiedian
   password: f8f7aCzcPKbsF8p3
@@ -649,7 +650,7 @@ proxies:
   server: gdct003.jcnode.top
   tls: false
   type: vmess
-  uuid: 3bb73c6b-4d87-4921-bc4f-2db4c935df44
+  uuid: d2afa9c0-f9b6-4fcc-ab3e-948cf9a0f6a3
   ws-opts:
     headers:
       Host: ''
@@ -662,7 +663,7 @@ proxies:
   server: gdct002.jcnode.top
   tls: false
   type: vmess
-  uuid: 3bb73c6b-4d87-4921-bc4f-2db4c935df44
+  uuid: d2afa9c0-f9b6-4fcc-ab3e-948cf9a0f6a3
   ws-opts:
     headers:
       Host: ''
@@ -675,7 +676,7 @@ proxies:
   server: gdct001.jcnode.top
   tls: false
   type: vmess
-  uuid: 3bb73c6b-4d87-4921-bc4f-2db4c935df44
+  uuid: d2afa9c0-f9b6-4fcc-ab3e-948cf9a0f6a3
   ws-opts:
     headers:
       Host: ''
@@ -688,7 +689,7 @@ proxies:
   server: gdct003.jcnode.top
   tls: false
   type: vmess
-  uuid: 3bb73c6b-4d87-4921-bc4f-2db4c935df44
+  uuid: d2afa9c0-f9b6-4fcc-ab3e-948cf9a0f6a3
   ws-opts:
     headers:
       Host: ''
@@ -701,7 +702,7 @@ proxies:
   server: gdct002.jcnode.top
   tls: false
   type: vmess
-  uuid: 3bb73c6b-4d87-4921-bc4f-2db4c935df44
+  uuid: d2afa9c0-f9b6-4fcc-ab3e-948cf9a0f6a3
   ws-opts:
     headers:
       Host: ''
@@ -714,7 +715,7 @@ proxies:
   server: gdct001.jcnode.top
   tls: false
   type: vmess
-  uuid: 3bb73c6b-4d87-4921-bc4f-2db4c935df44
+  uuid: d2afa9c0-f9b6-4fcc-ab3e-948cf9a0f6a3
   ws-opts:
     headers:
       Host: ''
