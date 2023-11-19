@@ -8,7 +8,7 @@ proxies:
   servername: jp04.abpilot.xyz
   tls: true
   type: vmess
-  uuid: 006b52d3-e9bc-4ac3-8849-292ed6d0d362
+  uuid: dcef87ef-72bc-4c6c-af6d-77cdd7ec172d
 - alterId: 0
   cipher: auto
   name: 9|🇯🇵日本05
@@ -18,7 +18,7 @@ proxies:
   servername: jp05.abpilot.xyz
   tls: true
   type: vmess
-  uuid: 006b52d3-e9bc-4ac3-8849-292ed6d0d362
+  uuid: dcef87ef-72bc-4c6c-af6d-77cdd7ec172d
 - alterId: 0
   cipher: auto
   name: 9|🇯🇵日本06
@@ -28,7 +28,7 @@ proxies:
   servername: jp06.abpilot.xyz
   tls: true
   type: vmess
-  uuid: 006b52d3-e9bc-4ac3-8849-292ed6d0d362
+  uuid: dcef87ef-72bc-4c6c-af6d-77cdd7ec172d
 - alterId: 0
   cipher: auto
   name: 10,11|github.com/freefq - 日本东京都Amazo...
@@ -95,7 +95,7 @@ proxies:
   servername: jp04.lovemc.xyz
   tls: true
   type: vmess
-  uuid: 72b1f76d-71cd-47f5-b26b-193187e14739
+  uuid: 69113411-7134-4f06-a871-09d5d0da1991
 - alterId: 0
   cipher: auto
   name: 13|【BGP】日本 05  | 1x JP
@@ -105,7 +105,7 @@ proxies:
   servername: jp05.lovemc.xyz
   tls: true
   type: vmess
-  uuid: 72b1f76d-71cd-47f5-b26b-193187e14739
+  uuid: 69113411-7134-4f06-a871-09d5d0da1991
 - alterId: 0
   cipher: auto
   name: 13|【BGP】日本 06  | 1x JP
@@ -115,7 +115,7 @@ proxies:
   servername: jp06.lovemc.xyz
   tls: true
   type: vmess
-  uuid: 72b1f76d-71cd-47f5-b26b-193187e14739
+  uuid: 69113411-7134-4f06-a871-09d5d0da1991
 - cipher: aes-128-gcm
   name: 14|🇯🇵 日本|付费版推荐 翻墙.com
   password: https://t.me/ssucn

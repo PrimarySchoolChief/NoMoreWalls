@@ -1,13 +1,14 @@
 proxies:
 - alterId: 0
   cipher: auto
-  name: 3,6|🇨🇦_CA_加拿大
-  network: http
-  port: 8442
-  server: ca-v2ray.freevmess.com
-  tls: false
+  name: 9|🇨🇦加拿大04
+  network: tcp
+  port: '36701'
+  server: 5c1a04.abzoones.xyz
+  servername: ca04.abpilot.xyz
+  tls: true
   type: vmess
-  uuid: 1742ace4-07bb-464e-ad66-0357345a538d
+  uuid: dcef87ef-72bc-4c6c-af6d-77cdd7ec172d
 - alterId: 0
   cipher: auto
   name: 12|加拿大 129
@@ -849,4 +850,4 @@ proxies:
   servername: ca04.lovemc.xyz
   tls: true
   type: vmess
-  uuid: 72b1f76d-71cd-47f5-b26b-193187e14739
+  uuid: 69113411-7134-4f06-a871-09d5d0da1991
