@@ -22,7 +22,7 @@ proxies:
   servername: jp04.abpilot.xyz
   tls: true
   type: vmess
-  uuid: d1b43fdb-e24b-4bd6-b69a-1a3f81e8a56b
+  uuid: a263bb82-c98e-44a9-a3e5-bc3ebe9778b0
 - alterId: 0
   cipher: auto
   name: 9,15|日本|付费版推荐 翻墙.com
@@ -42,7 +42,7 @@ proxies:
   servername: jp06.abpilot.xyz
   tls: true
   type: vmess
-  uuid: d1b43fdb-e24b-4bd6-b69a-1a3f81e8a56b
+  uuid: a263bb82-c98e-44a9-a3e5-bc3ebe9778b0
 - alterId: 64
   cipher: auto
   name: 12|🔒 VM-TCP-NA 🇯🇵 JP-138.2.44.211...
@@ -71,7 +71,7 @@ proxies:
   servername: jp04.lovemc.xyz
   tls: true
   type: vmess
-  uuid: 4ff85ad7-6295-4d7e-a224-70df44717060
+  uuid: 26c2b788-9365-4874-850a-39d780b2ed1a
 - alterId: 0
   cipher: auto
   name: 13|【BGP】日本 05  | 1x JP
@@ -81,7 +81,7 @@ proxies:
   servername: jp05.lovemc.xyz
   tls: true
   type: vmess
-  uuid: 4ff85ad7-6295-4d7e-a224-70df44717060
+  uuid: 26c2b788-9365-4874-850a-39d780b2ed1a
 - alterId: 0
   cipher: auto
   name: 13|【BGP】日本 06  | 1x JP
@@ -91,7 +91,7 @@ proxies:
   servername: jp06.lovemc.xyz
   tls: true
   type: vmess
-  uuid: 4ff85ad7-6295-4d7e-a224-70df44717060
+  uuid: 26c2b788-9365-4874-850a-39d780b2ed1a
 - alterId: 0
   cipher: auto
   name: 14|🇭🇰 香港4|浏览器输入 翻墙.com
