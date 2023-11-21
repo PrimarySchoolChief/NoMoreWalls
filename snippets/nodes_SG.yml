@@ -8,7 +8,7 @@ proxies:
   servername: sg04.abpilot.xyz
   tls: true
   type: vmess
-  uuid: 75bdb5c9-0da9-4103-9b34-cab7d4006823
+  uuid: 61a14374-159d-45be-9482-5144b4909e65
 - alterId: 0
   cipher: auto
   name: 9|🇸🇬新加坡05
@@ -18,7 +18,7 @@ proxies:
   servername: sg05.abpilot.xyz
   tls: true
   type: vmess
-  uuid: 75bdb5c9-0da9-4103-9b34-cab7d4006823
+  uuid: 61a14374-159d-45be-9482-5144b4909e65
 - alterId: 0
   cipher: auto
   name: 9|🇸🇬新加坡06
@@ -28,7 +28,7 @@ proxies:
   servername: sg06.abpilot.xyz
   tls: true
   type: vmess
-  uuid: 75bdb5c9-0da9-4103-9b34-cab7d4006823
+  uuid: 61a14374-159d-45be-9482-5144b4909e65
 - alterId: 0
   cipher: auto
   name: 13|【BGP】新加坡 04 | 1x SG
@@ -38,7 +38,7 @@ proxies:
   servername: sg04.lovemc.xyz
   tls: true
   type: vmess
-  uuid: 7fc7af25-21f7-4415-a71e-1e52f052838f
+  uuid: 1ac74d81-34dd-47b8-97d6-86bad7c3a8ab
 - alterId: 0
   cipher: auto
   name: 13|【BGP】新加坡 05 | 1x SG
@@ -48,7 +48,7 @@ proxies:
   servername: sg05.lovemc.xyz
   tls: true
   type: vmess
-  uuid: 7fc7af25-21f7-4415-a71e-1e52f052838f
+  uuid: 1ac74d81-34dd-47b8-97d6-86bad7c3a8ab
 - alterId: 0
   cipher: auto
   name: 13|【BGP】新加坡 06 | 1x SG
@@ -58,7 +58,7 @@ proxies:
   servername: sg06.lovemc.xyz
   tls: true
   type: vmess
-  uuid: 7fc7af25-21f7-4415-a71e-1e52f052838f
+  uuid: 1ac74d81-34dd-47b8-97d6-86bad7c3a8ab
 - alterId: 0
   cipher: auto
   name: 14,15|新加坡|@ripaojiedian
@@ -76,16 +76,16 @@ proxies:
       Host: 6666.golinkwuxian.top
     path: /apple
 - cipher: aes-256-cfb
-  name: 14|🇸🇬 狮城特殊|@ripaojiedian
+  name: 14|🇸🇬 新加坡特殊|浏览器输入 翻墙.com
   password: amazonskr05
   port: 443
-  server: 13.229.80.190
+  server: 13.212.62.87
   tfo: false
   type: ss
 - cipher: aes-256-cfb
-  name: 14|🇸🇬 新加坡特殊|@ripaojiedian
+  name: 14|🇸🇬 狮城特殊|@ripaojiedian
   password: amazonskr05
   port: 443
-  server: 3.1.195.164
+  server: 54.151.178.52
   tfo: false
   type: ss
