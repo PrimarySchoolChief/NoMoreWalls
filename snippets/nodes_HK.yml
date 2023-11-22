@@ -81,7 +81,7 @@ proxies:
   uuid: 562163eb-1b57-4e49-811f-b36584c5516a
 - cipher: chacha20-ietf-poly1305
   name: 14|🇭🇰 香港3|@ripaojiedian
-  password: cfa17a0d-5e7d-4871-976e-f116e0818123
+  password: 01358ab4-3522-4233-b6a6-c8edb073b9a1
   port: 20001
   server: service.ouluyun9803.com
   tfo: false
