@@ -99,7 +99,7 @@ proxies:
   servername: us04.abpilot.xyz
   tls: true
   type: vmess
-  uuid: 7258c115-c3c5-4f14-81b9-cc55d6ead72f
+  uuid: 0fed146c-b1a2-42ab-91ed-e94007505ee3
 - alterId: 0
   cipher: auto
   name: 9|🇺🇸美国05
@@ -109,7 +109,7 @@ proxies:
   servername: us05.abpilot.xyz
   tls: true
   type: vmess
-  uuid: 7258c115-c3c5-4f14-81b9-cc55d6ead72f
+  uuid: 0fed146c-b1a2-42ab-91ed-e94007505ee3
 - alterId: 0
   cipher: auto
   name: 9|🇺🇸美国06
@@ -119,7 +119,7 @@ proxies:
   servername: us06.abpilot.xyz
   tls: true
   type: vmess
-  uuid: 7258c115-c3c5-4f14-81b9-cc55d6ead72f
+  uuid: 0fed146c-b1a2-42ab-91ed-e94007505ee3
 - alterId: 0
   cipher: auto
   name: 10|美国 CloudFlare节点
@@ -191,7 +191,7 @@ proxies:
     path: /path/1699624723213
 - alterId: 0
   cipher: auto
-  name: 10,19|🇺🇸_US_美国_5_29
+  name: 10,18|🇺🇸_US_美国_5_29
   network: ws
   port: 80
   server: us01.xpoti.online
@@ -715,7 +715,7 @@ proxies:
   servername: us04.lovemc.xyz
   tls: true
   type: vmess
-  uuid: bd40ae04-b59a-4ab9-acef-96b1803a205a
+  uuid: c0aa7c2f-027a-47a8-8620-5eb85506fb75
 - alterId: 0
   cipher: auto
   name: 13|【BGP】美国 05 | 1x US
@@ -725,7 +725,7 @@ proxies:
   servername: us05.lovemc.xyz
   tls: true
   type: vmess
-  uuid: bd40ae04-b59a-4ab9-acef-96b1803a205a
+  uuid: c0aa7c2f-027a-47a8-8620-5eb85506fb75
 - alterId: 0
   cipher: auto
   name: 13|【BGP】美国 06 | 1x US
@@ -735,7 +735,7 @@ proxies:
   servername: us06.lovemc.xyz
   tls: true
   type: vmess
-  uuid: bd40ae04-b59a-4ab9-acef-96b1803a205a
+  uuid: c0aa7c2f-027a-47a8-8620-5eb85506fb75
 - alterId: 0
   cipher: auto
   name: 14|🇭🇰 香港5|@ripaojiedian
@@ -775,85 +775,7 @@ proxies:
   uuid: c17a31ce-d574-40c4-8d4e-07d8299c9fd7
 - alterId: 0
   cipher: auto
-  name: 16|JCBB_ 美国01【vip1】
-  network: ws
-  port: '38381'
-  server: gdct003.jcnode.top
-  tls: false
-  type: vmess
-  uuid: 8de39235-89f5-4152-bff9-cc72368b4e13
-  ws-opts:
-    headers:
-      Host: ''
-    path: ''
-- alterId: 0
-  cipher: auto
-  name: 16|JCBB_ 美国02_1【vip1】
-  network: ws
-  port: '20153'
-  server: gdct002.jcnode.top
-  tls: false
-  type: vmess
-  uuid: 8de39235-89f5-4152-bff9-cc72368b4e13
-  ws-opts:
-    headers:
-      Host: ''
-    path: ''
-- alterId: 0
-  cipher: auto
-  name: 16|JCBB_ 美国02【vip1】
-  network: ws
-  port: '28204'
-  server: gdct001.jcnode.top
-  tls: false
-  type: vmess
-  uuid: 8de39235-89f5-4152-bff9-cc72368b4e13
-  ws-opts:
-    headers:
-      Host: ''
-    path: ''
-- alterId: 0
-  cipher: auto
-  name: 16|JCBB_ 美国 03【vip1】
-  network: ws
-  port: '21036'
-  server: gdct003.jcnode.top
-  tls: false
-  type: vmess
-  uuid: 8de39235-89f5-4152-bff9-cc72368b4e13
-  ws-opts:
-    headers:
-      Host: ''
-    path: ''
-- alterId: 0
-  cipher: auto
-  name: 16|JCBB_ 美国 04_1【vip1】
-  network: ws
-  port: '26611'
-  server: gdct002.jcnode.top
-  tls: false
-  type: vmess
-  uuid: 8de39235-89f5-4152-bff9-cc72368b4e13
-  ws-opts:
-    headers:
-      Host: ''
-    path: ''
-- alterId: 0
-  cipher: auto
-  name: 16|JCBB_ 美国 04【vip1】
-  network: ws
-  port: '62684'
-  server: gdct001.jcnode.top
-  tls: false
-  type: vmess
-  uuid: 8de39235-89f5-4152-bff9-cc72368b4e13
-  ws-opts:
-    headers:
-      Host: ''
-    path: ''
-- alterId: 0
-  cipher: auto
-  name: 19|🇺🇸_US_美国_由快嘴科技提供：kkzui.com_11
+  name: 18|🇺🇸_US_美国_由快嘴科技提供：kkzui.com_11
   network: ws
   port: 80
   server: us04.xpoti.online
@@ -864,7 +786,7 @@ proxies:
     path: /
 - alterId: 0
   cipher: auto
-  name: 19|🇺🇸_US_美国_2_由快嘴科技提供：kkzui.com3
+  name: 18|🇺🇸_US_美国_2_由快嘴科技提供：kkzui.com3
   network: ws
   port: 80
   server: us05.xpoti.online
@@ -875,7 +797,7 @@ proxies:
     path: /
 - alterId: 0
   cipher: auto
-  name: 19|🇺🇸_US_美国_3_由快嘴科技提供：kkzui.com7
+  name: 18|🇺🇸_US_美国_3_由快嘴科技提供：kkzui.com7
   network: ws
   port: 80
   server: us02.xpoti.online
@@ -886,7 +808,7 @@ proxies:
     path: /
 - alterId: 0
   cipher: auto
-  name: 19|🇺🇸_US_美国_4_25
+  name: 18|🇺🇸_US_美国_4_25
   network: ws
   port: 80
   server: us03.xpoti.online
