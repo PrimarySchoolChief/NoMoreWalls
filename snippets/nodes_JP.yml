@@ -8,7 +8,7 @@ proxies:
   servername: jp04.abpilot.xyz
   tls: true
   type: vmess
-  uuid: 956f2283-51e6-40d3-81e5-1b8a103d1368
+  uuid: ea78ddcb-7ee0-4422-8fe5-7ceee343728a
 - alterId: 0
   cipher: auto
   name: 9|🇯🇵日本05
@@ -18,7 +18,7 @@ proxies:
   servername: jp05.abpilot.xyz
   tls: true
   type: vmess
-  uuid: 956f2283-51e6-40d3-81e5-1b8a103d1368
+  uuid: ea78ddcb-7ee0-4422-8fe5-7ceee343728a
 - alterId: 0
   cipher: auto
   name: 9|🇯🇵日本06
@@ -28,10 +28,24 @@ proxies:
   servername: jp06.abpilot.xyz
   tls: true
   type: vmess
-  uuid: 956f2283-51e6-40d3-81e5-1b8a103d1368
+  uuid: ea78ddcb-7ee0-4422-8fe5-7ceee343728a
 - alterId: 0
   cipher: auto
-  name: 11,12|隐姓埋名公益 小鬼子 🇯🇵 直连 01
+  name: 10,12|JP_speednode_0035
+  network: ws
+  port: 80
+  server: rbtow.yunjisuan.cf
+  servername: ''
+  tls: false
+  type: vmess
+  uuid: c75b345e-bb05-4a44-88e1-ca026ffe965d
+  ws-opts:
+    headers:
+      Host: tms.dingtalk.com
+    path: /
+- alterId: 0
+  cipher: auto
+  name: 10|日本 东京Amazon数据中心
   network: ws
   port: '443'
   server: jp3.jidexufei.top
@@ -45,30 +59,58 @@ proxies:
     path: /cctv13/hd.m3u8
 - alterId: 0
   cipher: auto
-  name: 12|[vmess]日本c5
+  name: 12|🇯🇵 _JP_日本
   network: ws
-  port: 443
-  server: c4.wuxianliulianng.xyz
-  servername: ''
-  tls: true
-  type: vmess
-  uuid: 4d7732ee-986a-4c25-8443-d6fefa8d2190
-  ws-opts:
-    headers:
-      Host: 4444.golinkwuxian.top
-    path: /apple
-- alterId: 0
-  cipher: auto
-  name: 12| 🇯🇵 日本 JP01
-  network: ws
-  port: '80'
-  server: jp01.xpoti.online
+  port: '443'
+  server: 103.35.190.65
   tls: false
   type: vmess
-  uuid: e0576cd3-4700-446e-8267-f6aa9b982989
+  uuid: ed531ebe-4971-47f9-a881-636d0b101a45
   ws-opts:
     headers:
       Host: ''
+    path: /
+- alterId: 64
+  cipher: auto
+  name: 12|🔒 VM-TCP-NA 🇯🇵 JP-138.2.44.211...
+  network: tcp
+  port: '20081'
+  server: 138.2.44.211
+  servername: ''
+  tls: false
+  type: vmess
+  uuid: 593b8525-0c48-4b0f-d9af-2d73a9148973
+- alterId: 64
+  cipher: auto
+  name: 12|🔒 VM-TCP-NA 🇯🇵 JP-45.88.43.143...
+  network: tcp
+  port: '51801'
+  server: 45.88.43.143
+  servername: ''
+  tls: false
+  type: vmess
+  uuid: 418048af-a293-4b99-9b0c-98ca3580dd24
+- alterId: 0
+  cipher: auto
+  name: 12|🔒 VM-TCP-NA 🇯🇵 JP-152.69.197.6...
+  network: tcp
+  port: 1069
+  server: 152.69.197.60
+  tls: false
+  type: vmess
+  uuid: ac8e26fe-8150-4b60-ae64-82fc77eba2cf
+- alterId: 0
+  cipher: auto
+  name: 12|JP-日本 03 | ws | 倍率x1
+  network: ws
+  port: '80'
+  server: rbthree.yunjisuan.cf
+  tls: false
+  type: vmess
+  uuid: c75b345e-bb05-4a44-88e1-ca026ffe965d
+  ws-opts:
+    headers:
+      Host: tms.dingtalk.com
     path: /
 - alterId: 0
   cipher: auto
@@ -83,99 +125,6 @@ proxies:
     headers:
       Host: tms.dingtalk.com
     path: /
-- alterId: 64
-  cipher: auto
-  name: 12|🔒 VM-TCP-NA 🇯🇵 JP-138.2.44.211...
-  network: tcp
-  port: '20081'
-  server: 138.2.44.211
-  servername: ''
-  tls: false
-  type: vmess
-  uuid: 593b8525-0c48-4b0f-d9af-2d73a9148973
-- alterId: 0
-  cipher: auto
-  name: 12|[vmess]日本b5
-  network: ws
-  port: 443
-  server: bb4.wuxianliulianng.xyz
-  servername: ''
-  tls: true
-  type: vmess
-  uuid: 4d7732ee-986a-4c25-8443-d6fefa8d2190
-  ws-opts:
-    headers:
-      Host: 4444.golinkwuxian.top
-    path: /apple
-- alterId: 0
-  cipher: auto
-  name: 12| 🇯🇵 日本 JP02
-  network: ws
-  port: '80'
-  server: jp02.xpoti.online
-  tls: false
-  type: vmess
-  uuid: e0576cd3-4700-446e-8267-f6aa9b982989
-  ws-opts:
-    headers:
-      Host: ''
-    path: /
-- alterId: 0
-  cipher: auto
-  name: 12|🔒 VM-TCP-NA 🇯🇵 JP-152.69.197.6...
-  network: tcp
-  port: 1069
-  server: 152.69.197.60
-  tls: false
-  type: vmess
-  uuid: ac8e26fe-8150-4b60-ae64-82fc77eba2cf
-- alterId: 0
-  cipher: auto
-  name: 12|JP-日本 02 | ws | 倍率x1
-  network: ws
-  port: '80'
-  server: rbtow.yunjisuan.cf
-  tls: false
-  type: vmess
-  uuid: c75b345e-bb05-4a44-88e1-ca026ffe965d
-  ws-opts:
-    headers:
-      Host: tms.dingtalk.com
-    path: /
-- alterId: 0
-  cipher: auto
-  name: 12|🇯🇵_JP_日本
-  network: ws
-  port: 443
-  server: 103.35.190.65
-  tls: false
-  type: vmess
-  uuid: ed531ebe-4971-47f9-a881-636d0b101a45
-  ws-opts:
-    path: /
-- alterId: 0
-  cipher: auto
-  name: 12|JP-日本 03 | ws | 倍率x1
-  network: ws
-  port: '80'
-  server: rbthree.yunjisuan.cf
-  tls: false
-  type: vmess
-  uuid: c75b345e-bb05-4a44-88e1-ca026ffe965d
-  ws-opts:
-    headers:
-      Host: tms.dingtalk.com
-    path: /
-- alterId: 64
-  cipher: auto
-  name: 12|🔒 VM-TCP-NA 🇯🇵 JP-45.88.43.143...
-  network: tcp
-  port: '51801'
-  server: 45.88.43.143
-  servername: ''
-  tls: false
-  type: vmess
-  uuid: 418048af-a293-4b99-9b0c-98ca3580dd24
 - alterId: 0
   cipher: auto
   name: 13|【BGP】日本 04  | 1x JP
@@ -185,7 +134,7 @@ proxies:
   servername: jp04.lovemc.xyz
   tls: true
   type: vmess
-  uuid: 69a0eaf3-d1a9-48d8-8c10-d6668a2c6640
+  uuid: 35ea7e9f-1c64-445f-be8e-48e2e0953964
 - alterId: 0
   cipher: auto
   name: 13|【BGP】日本 05  | 1x JP
@@ -195,7 +144,7 @@ proxies:
   servername: jp05.lovemc.xyz
   tls: true
   type: vmess
-  uuid: 69a0eaf3-d1a9-48d8-8c10-d6668a2c6640
+  uuid: 35ea7e9f-1c64-445f-be8e-48e2e0953964
 - alterId: 0
   cipher: auto
   name: 13|【BGP】日本 06  | 1x JP
@@ -205,7 +154,7 @@ proxies:
   servername: jp06.lovemc.xyz
   tls: true
   type: vmess
-  uuid: 69a0eaf3-d1a9-48d8-8c10-d6668a2c6640
+  uuid: 35ea7e9f-1c64-445f-be8e-48e2e0953964
 - cipher: aes-128-gcm
   name: 14|🇯🇵 日本KT|@ripaojiedian
   password: g12sQi#ss#&1
