@@ -8,7 +8,7 @@ proxies:
   servername: sg04.abpilot.xyz
   tls: true
   type: vmess
-  uuid: b4fafa86-eeab-48fe-bab6-787fb68c738e
+  uuid: 5dcaa81c-e501-4511-b9c4-494a0c051192
 - alterId: 0
   cipher: auto
   name: 9|🇸🇬新加坡05
@@ -18,7 +18,7 @@ proxies:
   servername: sg05.abpilot.xyz
   tls: true
   type: vmess
-  uuid: b4fafa86-eeab-48fe-bab6-787fb68c738e
+  uuid: 5dcaa81c-e501-4511-b9c4-494a0c051192
 - alterId: 0
   cipher: auto
   name: 9|🇸🇬新加坡06
@@ -28,7 +28,7 @@ proxies:
   servername: sg06.abpilot.xyz
   tls: true
   type: vmess
-  uuid: b4fafa86-eeab-48fe-bab6-787fb68c738e
+  uuid: 5dcaa81c-e501-4511-b9c4-494a0c051192
 - alterId: 0
   cipher: auto
   name: 13|【BGP】新加坡 04 | 1x SG
@@ -38,7 +38,7 @@ proxies:
   servername: sg04.lovemc.xyz
   tls: true
   type: vmess
-  uuid: e5ab269d-da07-4b16-b04d-590e418b9270
+  uuid: 3f4fc4b0-695a-4cd8-970d-178b9109db38
 - alterId: 0
   cipher: auto
   name: 13|【BGP】新加坡 05 | 1x SG
@@ -48,7 +48,7 @@ proxies:
   servername: sg05.lovemc.xyz
   tls: true
   type: vmess
-  uuid: e5ab269d-da07-4b16-b04d-590e418b9270
+  uuid: 3f4fc4b0-695a-4cd8-970d-178b9109db38
 - alterId: 0
   cipher: auto
   name: 13|【BGP】新加坡 06 | 1x SG
@@ -58,7 +58,7 @@ proxies:
   servername: sg06.lovemc.xyz
   tls: true
   type: vmess
-  uuid: e5ab269d-da07-4b16-b04d-590e418b9270
+  uuid: 3f4fc4b0-695a-4cd8-970d-178b9109db38
 - cipher: chacha20-ietf-poly1305
   name: 14|🇸🇬 新加坡3|浏览器输入 翻墙.com
   password: a58024d9-e277-49df-91aa-2fdad751f76d
