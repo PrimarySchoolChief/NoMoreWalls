@@ -1,7 +1,7 @@
 proxies:
 - alterId: 0
   cipher: auto
-  name: 0,1,2,3,4,6,18|🇨🇦_CA_加拿大_24
+  name: 0,1,2,3,4,6,19|🇨🇦_CA_加拿大_24
   network: http
   port: 2082
   server: 193.203.203.88
@@ -294,4 +294,4 @@ proxies:
   servername: ca04.lovemc.xyz
   tls: true
   type: vmess
-  uuid: 31c90132-4dca-41ff-8b6c-df9163ef9bbf
+  uuid: b42e8e2e-0239-49c5-a4f7-1ce38d572f48
