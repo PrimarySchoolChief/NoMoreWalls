@@ -987,7 +987,7 @@ proxies:
   servername: us04.lovemc.xyz
   tls: true
   type: vmess
-  uuid: 8b7cb3cd-df1f-45b6-a0b4-30ba054345bb
+  uuid: bf1f3bec-ff84-4494-aa20-fe492054b8b2
 - alterId: 0
   cipher: auto
   name: 13|【BGP】美国 05 | 1x US
@@ -997,7 +997,7 @@ proxies:
   servername: us05.lovemc.xyz
   tls: true
   type: vmess
-  uuid: 8b7cb3cd-df1f-45b6-a0b4-30ba054345bb
+  uuid: bf1f3bec-ff84-4494-aa20-fe492054b8b2
 - alterId: 0
   cipher: auto
   name: 13|【BGP】美国 06 | 1x US
@@ -1007,7 +1007,7 @@ proxies:
   servername: us06.lovemc.xyz
   tls: true
   type: vmess
-  uuid: 8b7cb3cd-df1f-45b6-a0b4-30ba054345bb
+  uuid: bf1f3bec-ff84-4494-aa20-fe492054b8b2
 - alterId: 0
   cipher: auto
   name: 14|🇹🇼 台湾3|@ripaojiedian
@@ -1052,7 +1052,7 @@ proxies:
   server: gdct003.jcnode.top
   tls: false
   type: vmess
-  uuid: 9d0dddb7-ea68-4e3f-b4b8-cdfca1811e3e
+  uuid: ac221acc-82ba-4faf-a409-5576b9ba883d
   ws-opts:
     headers:
       Host: ''
@@ -1065,7 +1065,7 @@ proxies:
   server: gdct002.jcnode.top
   tls: false
   type: vmess
-  uuid: 9d0dddb7-ea68-4e3f-b4b8-cdfca1811e3e
+  uuid: ac221acc-82ba-4faf-a409-5576b9ba883d
   ws-opts:
     headers:
       Host: ''
@@ -1078,7 +1078,7 @@ proxies:
   server: gdct001.jcnode.top
   tls: false
   type: vmess
-  uuid: 9d0dddb7-ea68-4e3f-b4b8-cdfca1811e3e
+  uuid: ac221acc-82ba-4faf-a409-5576b9ba883d
   ws-opts:
     headers:
       Host: ''
@@ -1091,7 +1091,7 @@ proxies:
   server: gdct003.jcnode.top
   tls: false
   type: vmess
-  uuid: 9d0dddb7-ea68-4e3f-b4b8-cdfca1811e3e
+  uuid: ac221acc-82ba-4faf-a409-5576b9ba883d
   ws-opts:
     headers:
       Host: ''
@@ -1104,7 +1104,7 @@ proxies:
   server: gdct002.jcnode.top
   tls: false
   type: vmess
-  uuid: 9d0dddb7-ea68-4e3f-b4b8-cdfca1811e3e
+  uuid: ac221acc-82ba-4faf-a409-5576b9ba883d
   ws-opts:
     headers:
       Host: ''
@@ -1117,7 +1117,7 @@ proxies:
   server: gdct001.jcnode.top
   tls: false
   type: vmess
-  uuid: 9d0dddb7-ea68-4e3f-b4b8-cdfca1811e3e
+  uuid: ac221acc-82ba-4faf-a409-5576b9ba883d
   ws-opts:
     headers:
       Host: ''
