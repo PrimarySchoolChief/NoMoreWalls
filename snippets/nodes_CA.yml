@@ -1,7 +1,7 @@
 proxies:
 - alterId: 0
   cipher: auto
-  name: 0,1,2,3,4,6,18|🇨🇦_CA_加拿大_24
+  name: 0,1,2,3,4,6,19|🇨🇦_CA_加拿大_24
   network: http
   port: 2082
   server: 193.203.203.88
@@ -18,7 +18,7 @@ proxies:
   servername: ca04.abpilot.xyz
   tls: true
   type: vmess
-  uuid: baa69847-bd5d-46d5-a37c-f38ff1c13531
+  uuid: 73a19200-b32a-4a44-bde4-a4ab6a5e3268
 - alterId: 0
   cipher: auto
   name: 12|加拿大 345
@@ -33,20 +33,6 @@ proxies:
     headers:
       Host: kansas.Kotick.site
     path: /speedtest?ed=2048
-- alterId: 0
-  cipher: auto
-  name: 12|加拿大 214
-  network: ws
-  port: 8080
-  server: 23.227.38.86
-  servername: ''
-  tls: false
-  type: vmess
-  uuid: 969f1909-c0d3-4c30-813d-3aec5c838b7d
-  ws-opts:
-    headers:
-      Host: dongtaiwang13.dtku47.xyz
-    path: /1IKYjV0r/
 - alterId: 0
   cipher: auto
   name: 12|加拿大 196
@@ -220,4 +206,4 @@ proxies:
   servername: ca04.lovemc.xyz
   tls: true
   type: vmess
-  uuid: a86cf227-1219-4ad2-b601-b10d3a9b7ce1
+  uuid: 9d4f1e46-67a7-4e0b-9c99-20d2673c2629
