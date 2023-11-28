@@ -14,7 +14,7 @@ proxies:
     path: /lonan
 - alterId: 0
   cipher: auto
-  name: '0,2,3,4,6|🇺🇸_US_美国->🇫🇷_FR_法国 #2'
+  name: 0,2,3,4,6,11,12,19|🇺🇸_US_美国->🇫🇷_FR_法国_27
   network: ws
   port: 2082
   server: fr-01.jikuai.xyz
@@ -38,11 +38,10 @@ proxies:
   uuid: 21a9bff2-72de-4e62-93ff-8b159f66d875
 - alterId: 0
   cipher: auto
-  name: '0,2,3,4,10,12|🇸🇨_SC_塞舌尔->🇫🇷_FR_法国 #2'
+  name: '0,2,3,4,12|🇸🇨_SC_塞舌尔->🇫🇷_FR_法国 #2'
   network: ws
   port: 2086
   server: 45.133.247.249
-  servername: ''
   tls: false
   type: vmess
   uuid: 617c9bc4-4116-41c6-99e0-ace49a38fcdb
@@ -52,7 +51,7 @@ proxies:
     path: /Jnv8ViZOUVgijjOh0p5uGjHnXIiY
 - alterId: 0
   cipher: auto
-  name: 0,2,3,4,6,19|🇺🇸_US_美国->🇮🇳_IN_印度_7
+  name: 0,2,3,4,6,19|🇺🇸_US_美国->🇮🇳_IN_印度_由快嘴科技提供：kkz...
   network: ws
   port: 80
   server: mm2.shabijichang.com
@@ -65,7 +64,7 @@ proxies:
     path: /
 - alterId: 0
   cipher: auto
-  name: '0,2,3,4,6|🇺🇸_US_美国->🇦🇺_AU_澳大利亚 #2'
+  name: 0,2,3,4,6,19|🇺🇸_US_美国->🇦🇺_AU_澳大利亚_由快嘴科技提供：k...
   network: ws
   port: 2082
   server: au-01.jikuai.xyz
@@ -78,7 +77,7 @@ proxies:
     path: /
 - alterId: 0
   cipher: auto
-  name: '0,2,3,4,6,12|🇺🇸_US_美国->🇬🇧_GB_英国 #4'
+  name: '0,2,3,4,6|🇺🇸_US_美国->🇬🇧_GB_英国 #3'
   network: ws
   port: 80
   server: ld2.shabijichang.com
@@ -211,7 +210,7 @@ proxies:
     path: /
 - alterId: 0
   cipher: auto
-  name: 6,19|🇺🇸_US_美国->🇬🇧_GB_英国_28
+  name: 6,19|🇺🇸_US_美国->🇬🇧_GB_英国_24
   network: ws
   port: 80
   server: mrb2.shabijichang.com
@@ -224,10 +223,14 @@ proxies:
     path: /
 - alterId: 0
   cipher: auto
-  name: 19|🇷🇴_RO_罗马尼亚->🇺🇦_UA_乌克兰_8
-  network: http
-  port: 18785
-  server: ss.wwww.htttbbx.alirezashhamraz.tk
+  name: 19|🇺🇸_US_美国->🇮🇳_IN_印度_2_4
+  network: ws
+  port: 80
+  server: mm3.shabijichang.com
   tls: false
   type: vmess
-  uuid: 4388d6ff-ef7e-4263-a91f-6db05bdc3d22
+  uuid: c458695d-6908-45c3-9512-e0c46418454c
+  ws-opts:
+    headers:
+      Host: mm3.shabijichang.com
+    path: /
