@@ -1,7 +1,7 @@
 proxies:
 - alterId: 0
   cipher: auto
-  name: 0,1,2,3,4,18|🇨🇦_CA_加拿大_8
+  name: 0,1,2,3,4,19|🇨🇦_CA_加拿大_8
   network: http
   port: 2082
   server: 193.203.203.88
@@ -18,7 +18,7 @@ proxies:
   servername: ca04.abpilot.xyz
   tls: true
   type: vmess
-  uuid: 96cfa6ca-54bb-4045-ac60-e6ff75e2032c
+  uuid: b1d5ccea-91b7-453b-b8ae-37ae6a906ca4
 - alterId: 0
   cipher: auto
   name: 12|加拿大 312
@@ -574,4 +574,4 @@ proxies:
   servername: ca04.lovemc.xyz
   tls: true
   type: vmess
-  uuid: 07d6ba27-c39f-4de6-80e7-8003a870ee68
+  uuid: 25a0269b-c443-4816-b14a-90aa8f2d9e17
