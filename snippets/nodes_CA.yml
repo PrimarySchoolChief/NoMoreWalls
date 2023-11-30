@@ -18,7 +18,7 @@ proxies:
   servername: ca04.abpilot.xyz
   tls: true
   type: vmess
-  uuid: 65586298-aaa3-4289-a5b2-a762b074734c
+  uuid: 86110312-f369-44cc-a5e8-e9545aaff0f1
 - alterId: 0
   cipher: auto
   name: 12|加拿大 273
@@ -47,20 +47,6 @@ proxies:
     headers:
       Host: odelia.autos
     path: linkvws
-- alterId: 0
-  cipher: auto
-  name: 12|加拿大 308
-  network: ws
-  port: 8443
-  server: 104.31.16.120
-  servername: ''
-  tls: true
-  type: vmess
-  uuid: aa0c4744-9568-4bee-a08b-73668a9b2a42
-  ws-opts:
-    headers:
-      Host: cloudconebbb.gorgorchicken.one
-    path: /cloudconebbb
 - alterId: 0
   cipher: auto
   name: 12|加拿大 056
@@ -448,4 +434,4 @@ proxies:
   servername: ca04.lovemc.xyz
   tls: true
   type: vmess
-  uuid: e25ae508-d1e7-4196-8974-f00c5a55a0c9
+  uuid: f75984c2-a229-43a4-b7af-3029722cc7f1
