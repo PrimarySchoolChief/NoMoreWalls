@@ -353,14 +353,12 @@ proxies:
     path: /FORWARDV2RAY
 - alterId: 0
   cipher: auto
-  name: '7,8|🇺🇸 United States 01 @nodpai #1'
+  name: 7|🇺🇸 United States 01 @nodpai
   network: ws
-  port: 8080
+  port: '8080'
   server: hytron.io
-  skip-cert-verify: true
   tls: false
   type: vmess
-  udp: true
   uuid: 9c4a3ad3-4f1d-4138-e7ee-8bb5325b411d
   ws-opts:
     headers:
@@ -375,7 +373,7 @@ proxies:
   servername: us04.abpilot.xyz
   tls: true
   type: vmess
-  uuid: aad0bea1-9d6b-478f-906e-525d40fbdd34
+  uuid: 21cd7499-22c8-48ac-85c6-cbb9f0b34030
 - alterId: 0
   cipher: auto
   name: 9|🇺🇸美国05
@@ -385,7 +383,7 @@ proxies:
   servername: us05.abpilot.xyz
   tls: true
   type: vmess
-  uuid: aad0bea1-9d6b-478f-906e-525d40fbdd34
+  uuid: 21cd7499-22c8-48ac-85c6-cbb9f0b34030
 - alterId: 0
   cipher: auto
   name: 9|🇺🇸美国06
@@ -395,7 +393,7 @@ proxies:
   servername: us06.abpilot.xyz
   tls: true
   type: vmess
-  uuid: aad0bea1-9d6b-478f-906e-525d40fbdd34
+  uuid: 21cd7499-22c8-48ac-85c6-cbb9f0b34030
 - alterId: 0
   cipher: auto
   name: '11,12|US美国(mibei77.com 米贝节点分享) #6'
@@ -837,7 +835,7 @@ proxies:
   servername: us04.lovemc.xyz
   tls: true
   type: vmess
-  uuid: bba10eb1-e4f9-439b-a98f-247fef19d4b3
+  uuid: ce854706-2c32-4784-943d-1627385cb38d
 - alterId: 0
   cipher: auto
   name: 13|【BGP】美国 05 | 1x US
@@ -847,7 +845,7 @@ proxies:
   servername: us05.lovemc.xyz
   tls: true
   type: vmess
-  uuid: bba10eb1-e4f9-439b-a98f-247fef19d4b3
+  uuid: ce854706-2c32-4784-943d-1627385cb38d
 - alterId: 0
   cipher: auto
   name: 13|【BGP】美国 06 | 1x US
@@ -857,7 +855,7 @@ proxies:
   servername: us06.lovemc.xyz
   tls: true
   type: vmess
-  uuid: bba10eb1-e4f9-439b-a98f-247fef19d4b3
+  uuid: ce854706-2c32-4784-943d-1627385cb38d
 - alterId: 0
   cipher: auto
   name: 14,15,19|🇺🇸_US_美国_7_26
@@ -904,7 +902,7 @@ proxies:
   server: gdct003.jcnode.top
   tls: false
   type: vmess
-  uuid: 27fdf138-6f95-45b4-9e86-8ab35e13ade0
+  uuid: db9b8169-3663-48c7-bd6d-c46a20ae0531
   ws-opts:
     headers:
       Host: ''
@@ -917,7 +915,7 @@ proxies:
   server: gdct002.jcnode.top
   tls: false
   type: vmess
-  uuid: 27fdf138-6f95-45b4-9e86-8ab35e13ade0
+  uuid: db9b8169-3663-48c7-bd6d-c46a20ae0531
   ws-opts:
     headers:
       Host: ''
@@ -930,7 +928,7 @@ proxies:
   server: gdct001.jcnode.top
   tls: false
   type: vmess
-  uuid: 27fdf138-6f95-45b4-9e86-8ab35e13ade0
+  uuid: db9b8169-3663-48c7-bd6d-c46a20ae0531
   ws-opts:
     headers:
       Host: ''
@@ -943,7 +941,7 @@ proxies:
   server: gdct003.jcnode.top
   tls: false
   type: vmess
-  uuid: 27fdf138-6f95-45b4-9e86-8ab35e13ade0
+  uuid: db9b8169-3663-48c7-bd6d-c46a20ae0531
   ws-opts:
     headers:
       Host: ''
@@ -956,7 +954,7 @@ proxies:
   server: gdct002.jcnode.top
   tls: false
   type: vmess
-  uuid: 27fdf138-6f95-45b4-9e86-8ab35e13ade0
+  uuid: db9b8169-3663-48c7-bd6d-c46a20ae0531
   ws-opts:
     headers:
       Host: ''
@@ -969,7 +967,7 @@ proxies:
   server: gdct001.jcnode.top
   tls: false
   type: vmess
-  uuid: 27fdf138-6f95-45b4-9e86-8ab35e13ade0
+  uuid: db9b8169-3663-48c7-bd6d-c46a20ae0531
   ws-opts:
     headers:
       Host: ''
