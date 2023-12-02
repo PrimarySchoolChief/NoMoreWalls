@@ -8,7 +8,7 @@ proxies:
   servername: sg04.abpilot.xyz
   tls: true
   type: vmess
-  uuid: ac3e787c-6e34-42c4-bbec-458cbeb34698
+  uuid: b0e1e0d5-eb06-4e64-a2a7-dfa5d5037a04
 - alterId: 0
   cipher: auto
   name: 9|🇸🇬新加坡05
@@ -18,7 +18,7 @@ proxies:
   servername: sg05.abpilot.xyz
   tls: true
   type: vmess
-  uuid: ac3e787c-6e34-42c4-bbec-458cbeb34698
+  uuid: b0e1e0d5-eb06-4e64-a2a7-dfa5d5037a04
 - alterId: 0
   cipher: auto
   name: 9|🇸🇬新加坡06
@@ -28,21 +28,30 @@ proxies:
   servername: sg06.abpilot.xyz
   tls: true
   type: vmess
-  uuid: ac3e787c-6e34-42c4-bbec-458cbeb34698
+  uuid: b0e1e0d5-eb06-4e64-a2a7-dfa5d5037a04
 - alterId: 0
   cipher: auto
-  name: 12|🔒 VM-WS-NONE 🇸🇬 SG-146.190.104...
+  name: 12|🇸🇬新加坡高速接入点-03
   network: ws
-  port: 35353
-  server: 146.190.104.50
+  port: '2052'
+  server: cfcdn2.sanfencdn9.com
+  tls: false
+  type: vmess
+  uuid: d1f7a92a-6927-467b-902c-c5b7b6213bf6
+  ws-opts:
+    headers:
+      Host: sg36c9974e4.qcryechvqw.xyz
+    path: /video/bFVDnAyn
+- alterId: 0
+  cipher: auto
+  name: 12|🔒 VM-TCP-NA 🇸🇬 SG-152.69.211.2...
+  network: tcp
+  port: '80'
+  server: 152.69.211.235
   servername: ''
   tls: false
   type: vmess
-  uuid: 40d08177-7358-4e46-b05a-7752d5d7619f
-  ws-opts:
-    headers:
-      Host: ''
-    path: /
+  uuid: d345916f-1673-4a98-f37d-49357c84ce03
 - alterId: 0
   cipher: auto
   name: 12|🔒 VM-WS-NA 🇸🇬 SG-207.148.69.12...
@@ -59,16 +68,6 @@ proxies:
     path: /
 - alterId: 0
   cipher: auto
-  name: 12|🔒 VM-TCP-NA 🇸🇬 SG-152.69.211.2...
-  network: tcp
-  port: '80'
-  server: 152.69.211.235
-  servername: ''
-  tls: false
-  type: vmess
-  uuid: d345916f-1673-4a98-f37d-49357c84ce03
-- alterId: 0
-  cipher: auto
   name: 13|【BGP】新加坡 04 | 1x SG
   network: tcp
   port: '31201'
@@ -76,7 +75,7 @@ proxies:
   servername: sg04.lovemc.xyz
   tls: true
   type: vmess
-  uuid: 969eea72-0fa3-4ed8-97f9-d4840a4b87a2
+  uuid: dac28b7c-3dab-4b82-873b-2aac7747fe2a
 - alterId: 0
   cipher: auto
   name: 13|【BGP】新加坡 05 | 1x SG
@@ -86,7 +85,7 @@ proxies:
   servername: sg05.lovemc.xyz
   tls: true
   type: vmess
-  uuid: 969eea72-0fa3-4ed8-97f9-d4840a4b87a2
+  uuid: dac28b7c-3dab-4b82-873b-2aac7747fe2a
 - alterId: 0
   cipher: auto
   name: 13|【BGP】新加坡 06 | 1x SG
@@ -96,7 +95,7 @@ proxies:
   servername: sg06.lovemc.xyz
   tls: true
   type: vmess
-  uuid: 969eea72-0fa3-4ed8-97f9-d4840a4b87a2
+  uuid: dac28b7c-3dab-4b82-873b-2aac7747fe2a
 - cipher: chacha20-ietf-poly1305
   name: 14|🇸🇬 新加坡3|浏览器输入 翻墙.com
   password: b9525800-9423-4322-a0e5-551f22314033
