@@ -1,7 +1,7 @@
 proxies:
 - alterId: 0
   cipher: auto
-  name: 0,1,2,3,4,19|🇨🇦_CA_加拿大_由快嘴科技提供：kkzui.com9
+  name: 0,1,2,3,4,6,19|🇨🇦_CA_加拿大_由快嘴科技提供：kkzui.com9
   network: http
   port: 2082
   server: 193.203.203.88
@@ -18,7 +18,7 @@ proxies:
   servername: ca04.abpilot.xyz
   tls: true
   type: vmess
-  uuid: 5db34bbb-4687-4fd3-b58a-efbf023a9946
+  uuid: 0ffc1734-f051-4f9d-95bd-7f043c8cc229
 - alterId: 0
   cipher: auto
   name: 12|🔒 VM-TCP-NA 🇨🇦 CA-178.128.237....
@@ -584,4 +584,4 @@ proxies:
   servername: ca04.lovemc.xyz
   tls: true
   type: vmess
-  uuid: 3bfb9ac0-1c0f-4633-a666-0fee44084124
+  uuid: b32f4774-52e8-4e37-9a12-eb64f6dd6f42
