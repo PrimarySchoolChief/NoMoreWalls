@@ -264,7 +264,7 @@ proxies:
     path: 9c906ced-40f7-48cf-b0d2-64b287f7bfcd-vm
 - alterId: 0
   cipher: auto
-  name: 19|🇺🇸_US_美国->🇷🇺_RU_俄罗斯联邦_2
+  name: 18|🇺🇸_US_美国->🇷🇺_RU_俄罗斯联邦_2
   network: ws
   port: 2086
   server: 162.159.143.45
@@ -277,7 +277,7 @@ proxies:
     path: /
 - alterId: 0
   cipher: auto
-  name: 19|🇺🇸_US_美国->🇮🇳_IN_印度_3
+  name: 18|🇺🇸_US_美国->🇮🇳_IN_印度_3
   network: ws
   port: 80
   server: mm2.shabijichang.com
