@@ -1,7 +1,7 @@
 proxies:
 - alterId: 0
   cipher: auto
-  name: '0,6,11,12|🇯🇵_JP_日本 #2'
+  name: '0,2,4,6,11,12|🇯🇵_JP_日本 #4'
   network: ws
   port: 80
   server: 103.35.188.226
@@ -15,7 +15,23 @@ proxies:
     path: /vmess
 - alterId: 0
   cipher: auto
-  name: '6,12|🇯🇵_JP_日本 #3'
+  name: 1,14,15|日本2|付费版推荐 翻墙.com
+  network: ws
+  port: '80'
+  server: 103.35.188.226
+  servername: ''
+  skip-cert-verify: false
+  tfo: false
+  tls: false
+  type: vmess
+  uuid: 098e7cdd-03b4-435d-8c41-ea608fa637c2
+  ws-opts:
+    headers:
+      Host: ''
+    path: /vmess
+- alterId: 0
+  cipher: auto
+  name: '6,12|🇯🇵_JP_日本 #5'
   network: ws
   port: 443
   server: 103.35.190.65
@@ -33,7 +49,7 @@ proxies:
   servername: jp04.abpilot.xyz
   tls: true
   type: vmess
-  uuid: 6e71c542-cb80-42f5-b6c1-13b54e505785
+  uuid: 14ab0dd7-0f34-499d-a188-7ad68a593249
 - alterId: 0
   cipher: auto
   name: 9|🇯🇵日本05
@@ -43,7 +59,7 @@ proxies:
   servername: jp05.abpilot.xyz
   tls: true
   type: vmess
-  uuid: 6e71c542-cb80-42f5-b6c1-13b54e505785
+  uuid: 14ab0dd7-0f34-499d-a188-7ad68a593249
 - alterId: 0
   cipher: auto
   name: 9|🇯🇵日本06
@@ -53,7 +69,7 @@ proxies:
   servername: jp06.abpilot.xyz
   tls: true
   type: vmess
-  uuid: 6e71c542-cb80-42f5-b6c1-13b54e505785
+  uuid: 14ab0dd7-0f34-499d-a188-7ad68a593249
 - alterId: 64
   cipher: auto
   name: 12|🔒 VM-TCP-NA 🇯🇵 JP-45.88.43.143...
@@ -92,7 +108,7 @@ proxies:
   servername: jp04.lovemc.xyz
   tls: true
   type: vmess
-  uuid: c0f21e32-1f1e-43e7-8c50-c24089eaf92f
+  uuid: 5885c76d-e758-4492-9dec-e85e0d9fdb9c
 - alterId: 0
   cipher: auto
   name: 13|【BGP】日本 05  | 1x JP
@@ -102,7 +118,7 @@ proxies:
   servername: jp05.lovemc.xyz
   tls: true
   type: vmess
-  uuid: c0f21e32-1f1e-43e7-8c50-c24089eaf92f
+  uuid: 5885c76d-e758-4492-9dec-e85e0d9fdb9c
 - alterId: 0
   cipher: auto
   name: 13|【BGP】日本 06  | 1x JP
@@ -112,23 +128,7 @@ proxies:
   servername: jp06.lovemc.xyz
   tls: true
   type: vmess
-  uuid: c0f21e32-1f1e-43e7-8c50-c24089eaf92f
-- alterId: 0
-  cipher: auto
-  name: 14,15|日本2|付费版推荐 翻墙.com
-  network: ws
-  port: '80'
-  server: 103.35.188.226
-  servername: ''
-  skip-cert-verify: false
-  tfo: false
-  tls: false
-  type: vmess
-  uuid: 098e7cdd-03b4-435d-8c41-ea608fa637c2
-  ws-opts:
-    headers:
-      Host: ''
-    path: /vmess
+  uuid: 5885c76d-e758-4492-9dec-e85e0d9fdb9c
 - cipher: aes-128-gcm
   name: 14|🇯🇵 日本KT|@ripaojiedian
   password: g12sQi#ss#&1
