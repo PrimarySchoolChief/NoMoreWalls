@@ -8,7 +8,7 @@ proxies:
   servername: ca04.abpilot.xyz
   tls: true
   type: vmess
-  uuid: 54947a52-7b43-43f1-9e60-c6357b54d4d9
+  uuid: f2765c20-bcde-4555-8386-a497adeb7551
 - alterId: 0
   cipher: auto
   name: 10,11,12|美国 -> 中国China Telecom_10
@@ -372,4 +372,4 @@ proxies:
   servername: ca04.lovemc.xyz
   tls: true
   type: vmess
-  uuid: 834334cf-3011-4ac2-960d-4daae0ea264b
+  uuid: 34f048b7-12e2-4658-ae56-540bcc53ee7d
