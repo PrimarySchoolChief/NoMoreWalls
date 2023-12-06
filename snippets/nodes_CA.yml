@@ -8,7 +8,7 @@ proxies:
   servername: ca04.abpilot.xyz
   tls: true
   type: vmess
-  uuid: b804de6c-ff3f-4a15-9ff4-14788bf0a522
+  uuid: c4fec387-c048-4d84-bcd1-3129110f32f3
 - alterId: 0
   cipher: auto
   name: 12|رایگان | VMESS | @nofiltering2...
@@ -546,4 +546,4 @@ proxies:
   servername: ca04.lovemc.xyz
   tls: true
   type: vmess
-  uuid: 2571e3af-fb25-4e28-b188-c026d9c7458c
+  uuid: b261a531-9390-4eaa-b3b0-e303f39d9aff
