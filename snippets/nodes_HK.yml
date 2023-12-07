@@ -1,19 +1,6 @@
 proxies:
 - alterId: 0
   cipher: auto
-  name: 0,2,3,4,6,19|🇭🇰_HK_香港_4由快嘴科技提供;kkzui.com
-  network: ws
-  port: 80
-  server: cm3.xn-w1yu8o.xyz
-  tls: false
-  type: vmess
-  uuid: e759eadc-8e71-47b0-874e-871e3d8dc31e
-  ws-opts:
-    headers:
-      Host: icu3.mac2win.top
-    path: /
-- alterId: 0
-  cipher: auto
   name: 1|_HK_
   network: ws
   port: 80
@@ -28,182 +15,39 @@ proxies:
     path: /
 - alterId: 0
   cipher: auto
-  name: 10,12|🇭🇰|HK|香港|@wxgqlfx|16
+  name: 12|🇭🇰香港3丨白嫖机场.com
+  network: ws
+  port: '80'
+  server: 162.159.142.213
+  tls: false
+  type: vmess
+  uuid: c0b72149-1064-400f-acb4-ec9fa76c78aa
+  ws-opts:
+    headers:
+      Host: hk3.889611.com
+    path: /
+- alterId: 0
+  cipher: auto
+  name: 12|🇭🇰|HK|香港|@wxgqlfx|16
   network: tcp
   port: 443
   server: 45.135.117.116
-  servername: ''
   tls: false
   type: vmess
   uuid: 205475cd-d5dd-4dca-b865-ab05aed39417
 - alterId: 0
   cipher: auto
-  name: 10|香港Microsoft数据中心 6
+  name: 12|🇭🇰香港1丨白嫖机场.com
   network: ws
-  port: 48156
-  server: 20.189.73.85
-  servername: ''
+  port: '80'
+  server: 162.159.142.211
   tls: false
   type: vmess
-  uuid: cbb6f155-9492-4056-9e32-b66cc2a8740e
+  uuid: c0b72149-1064-400f-acb4-ec9fa76c78aa
   ws-opts:
     headers:
-      Host: ''
-    path: ''
-- alterId: 0
-  cipher: auto
-  name: 10,12|澳门 -> 中国China Telecom
-  network: tcp
-  port: 10065
-  server: 163.53.246.239
-  servername: ''
-  tls: false
-  type: vmess
-  uuid: 1f308996-7fa6-46ac-8700-7d766eae084b
-- alterId: 0
-  cipher: auto
-  name: 10|香港ADCDATA数据中心 22
-  network: tcp
-  port: 80
-  server: 194.156.98.179
-  servername: ''
-  tls: false
-  type: vmess
-  uuid: 0855b410-0e96-4d0a-9b6e-80830edec462
-- alterId: 0
-  cipher: auto
-  name: 11,12|️‍🌈 【TG：@ccbaohe】定时更新节点订阅_244
-  network: ws
-  port: '443'
-  server: n1700029696.izwhvan.cn
-  servername: ''
-  tls: true
-  type: vmess
-  uuid: 1f574157-76f0-488c-9fbb-5b5b375ba9a4
-  ws-opts:
-    headers:
-      Host: n1700029696.izwhvan.cn
+      Host: hk3.889611.com
     path: /
-- alterId: 0
-  cipher: auto
-  name: 12|🇭🇰|HK|香港|@wxgqlfx|9
-  network: ws
-  port: 20006
-  server: hkali.yongdong.xyz
-  tls: false
-  type: vmess
-  uuid: 2d9bdfc5-95ba-4e2c-b680-db96e2affee5
-  ws-opts:
-    headers:
-      Host: yongdong.xyz
-    path: /yongdong
-- alterId: 0
-  cipher: auto
-  name: '12|🔒 VM-WS-NA 🇭🇰 HK-123.58.220.84... #1'
-  network: ws
-  port: '20008'
-  server: 123.58.220.84
-  servername: ''
-  tls: false
-  type: vmess
-  uuid: 2d9bdfc5-95ba-4e2c-b680-db96e2affee5
-  ws-opts:
-    headers:
-      Host: yongdong.xyz
-    path: /yongdong
-- alterId: 0
-  cipher: auto
-  name: 12|🇭🇰|HK|香港|@wxgqlfx|3
-  network: ws
-  port: 20008
-  server: hkali.yongdong.xyz
-  tls: false
-  type: vmess
-  uuid: 2d9bdfc5-95ba-4e2c-b680-db96e2affee5
-  ws-opts:
-    headers:
-      Host: yongdong.xyz
-    path: /yongdong
-- alterId: 0
-  cipher: auto
-  name: 12|🇭🇰|HK|香港|@wxgqlfx|2
-  network: ws
-  port: 20003
-  server: hkali.yongdong.xyz
-  tls: false
-  type: vmess
-  uuid: 2d9bdfc5-95ba-4e2c-b680-db96e2affee5
-  ws-opts:
-    headers:
-      Host: yongdong.xyz
-    path: /yongdong
-- alterId: 0
-  cipher: auto
-  name: 12|🇭🇰|HK|香港|@wxgqlfx|8
-  network: ws
-  port: 20007
-  server: hkali.yongdong.xyz
-  tls: false
-  type: vmess
-  uuid: 2d9bdfc5-95ba-4e2c-b680-db96e2affee5
-  ws-opts:
-    headers:
-      Host: yongdong.xyz
-    path: /yongdong
-- alterId: 0
-  cipher: auto
-  name: '12|🔒 VM-WS-NA 🇭🇰 HK-123.58.220.84... #2'
-  network: ws
-  port: '20006'
-  server: 123.58.220.84
-  servername: ''
-  tls: false
-  type: vmess
-  uuid: 2d9bdfc5-95ba-4e2c-b680-db96e2affee5
-  ws-opts:
-    headers:
-      Host: yongdong.xyz
-    path: /yongdong
-- alterId: 0
-  cipher: auto
-  name: '12|🔒 VM-WS-NA 🇭🇰 HK-123.58.220.84... #3'
-  network: ws
-  port: '20009'
-  server: 123.58.220.84
-  servername: ''
-  tls: false
-  type: vmess
-  uuid: 2d9bdfc5-95ba-4e2c-b680-db96e2affee5
-  ws-opts:
-    headers:
-      Host: yongdong.xyz
-    path: /yongdong
-- alterId: 0
-  cipher: auto
-  name: 12|🇭🇰|HK|香港|@wxgqlfx|6
-  network: ws
-  port: 20004
-  server: hkali.yongdong.xyz
-  tls: false
-  type: vmess
-  uuid: 2d9bdfc5-95ba-4e2c-b680-db96e2affee5
-  ws-opts:
-    headers:
-      Host: yongdong.xyz
-    path: /yongdong
-- alterId: 0
-  cipher: auto
-  name: 12|🇭🇰|HK|香港|@wxgqlfx|12
-  network: ws
-  port: 20009
-  server: hkali.yongdong.xyz
-  tls: false
-  type: vmess
-  uuid: 2d9bdfc5-95ba-4e2c-b680-db96e2affee5
-  ws-opts:
-    headers:
-      Host: yongdong.xyz
-    path: /yongdong
 - cipher: aes-128-gcm
   name: 14|🇭🇰 香港KT1|@ripaojiedian
   password: a-wym4ovY4Yw
@@ -232,7 +76,7 @@ proxies:
   type: ss
 - cipher: chacha20-ietf-poly1305
   name: 14|🇭🇰 香港3|@ripaojiedian
-  password: 12d29bd8-3461-42c8-81af-897cf3dc15b0
+  password: 2062c83d-425d-43a6-ac99-78fbb1ed5db4
   port: 20001
   server: service.ouluyun9803.com
   tfo: false
