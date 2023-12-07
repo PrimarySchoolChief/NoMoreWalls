@@ -8,7 +8,7 @@ proxies:
   servername: jp04.abpilot.xyz
   tls: true
   type: vmess
-  uuid: b9d8b62b-e2e1-4aad-8abc-cdbe3e4072c1
+  uuid: a06d6cb7-c09b-428b-a3f8-92efe98b7629
 - alterId: 0
   cipher: auto
   name: 9|🇯🇵日本05
@@ -18,7 +18,7 @@ proxies:
   servername: jp05.abpilot.xyz
   tls: true
   type: vmess
-  uuid: b9d8b62b-e2e1-4aad-8abc-cdbe3e4072c1
+  uuid: a06d6cb7-c09b-428b-a3f8-92efe98b7629
 - alterId: 0
   cipher: auto
   name: 9|🇯🇵日本06
@@ -28,21 +28,29 @@ proxies:
   servername: jp06.abpilot.xyz
   tls: true
   type: vmess
-  uuid: b9d8b62b-e2e1-4aad-8abc-cdbe3e4072c1
+  uuid: a06d6cb7-c09b-428b-a3f8-92efe98b7629
 - alterId: 0
   cipher: auto
-  name: 12|🔒 VM-WS-NA 🇯🇵 JP-178.157.58.94...
-  network: ws
-  port: '39495'
-  server: 178.157.58.94
-  servername: ''
+  name: 10|日本东京 Oracle Cloud
+  network: tcp
+  port: 20202
+  server: jpdj6.ip8.shop
   tls: false
   type: vmess
-  uuid: 95822f3c-42a5-4f35-b9ed-edd67a4724d0
+  uuid: a5de5eb3-5760-488a-9211-e5fbd9388905
+- alterId: 0
+  cipher: auto
+  name: 10|日本 东京Amazon数据中心
+  network: ws
+  port: '80'
+  server: us1.c8898496-adb6-4073-9ee4-ff4e4984415b.polycdn.com
+  tls: false
+  type: vmess
+  uuid: 71d5d969-1c58-4bc9-b36c-111616f03c03
   ws-opts:
     headers:
-      Host: ''
-    path: /?ed=2048
+      Host: dl.delivery.mp.microsoft.com
+    path: /
 - alterId: 64
   cipher: auto
   name: 12|🔒 VM-TCP-NA 🇯🇵 JP-45.88.43.143...
@@ -62,7 +70,7 @@ proxies:
   servername: jp04.lovemc.xyz
   tls: true
   type: vmess
-  uuid: cada94c1-3727-4a4e-b674-b4790c74b495
+  uuid: b275e93a-9526-4260-9c02-c419e5800bcd
 - alterId: 0
   cipher: auto
   name: 13|【BGP】日本 05  | 1x JP
@@ -72,7 +80,7 @@ proxies:
   servername: jp05.lovemc.xyz
   tls: true
   type: vmess
-  uuid: cada94c1-3727-4a4e-b674-b4790c74b495
+  uuid: b275e93a-9526-4260-9c02-c419e5800bcd
 - alterId: 0
   cipher: auto
   name: 13|【BGP】日本 06  | 1x JP
@@ -82,7 +90,7 @@ proxies:
   servername: jp06.lovemc.xyz
   tls: true
   type: vmess
-  uuid: cada94c1-3727-4a4e-b674-b4790c74b495
+  uuid: b275e93a-9526-4260-9c02-c419e5800bcd
 - cipher: aes-128-gcm
   name: 14|🇯🇵 日本KT|@ripaojiedian
   password: g12sQi#ss#&1
