@@ -36,7 +36,7 @@ proxies:
   uuid: 922eeb53-8f01-3d66-8b5d-02052a5fd392
 - alterId: 0
   cipher: auto
-  name: 0,2,3,4,6,10|印度 v2rayfree.eu.org
+  name: 0,2,3,4,6,10,11|github.com/freefq - 亚太地区  29
   network: ws
   port: '80'
   server: nice2.xn-w1yu8o.xyz
@@ -50,7 +50,7 @@ proxies:
     path: /
 - alterId: 0
   cipher: auto
-  name: 0,2,3,4,6,12|🇺🇸|US|美国|@wxgqlfx|61
+  name: '0,2,3,4,6,11|github.com/freefq - 美国CloudFla... #8'
   network: ws
   port: 8080
   server: moon.chanell.mci.v-x4ssd.space
@@ -124,7 +124,7 @@ proxies:
     path: /
 - alterId: 0
   cipher: auto
-  name: '1,10,11|github.com/freefq - 美国CloudFla... #5'
+  name: '1,10,11|github.com/freefq - 美国CloudFla... #4'
   network: ws
   port: '8080'
   server: moon.chanell.mci.v-x4ssd.space
@@ -137,17 +137,6 @@ proxies:
     headers:
       Host: ''
     path: /
-- alterId: 0
-  cipher: auto
-  name: '12,19|🇳🇱_NL_荷兰->🇫🇷_FR_法国_24 #1'
-  network: ws
-  port: 80
-  server: eu-2.0rd.net
-  tls: false
-  type: vmess
-  uuid: ee80a700-9295-11ee-b833-205c6d5f5d78
-  ws-opts:
-    path: /7tx2lbmf
 - alterId: 0
   cipher: auto
   name: '12,19|🇺🇸_US_美国->🇷🇺_RU_俄罗斯联邦_由快嘴科技提供：... #1'
@@ -163,6 +152,20 @@ proxies:
     path: /vmess
 - alterId: 0
   cipher: auto
+  name: 12|德国 -> 中国China Telecom
+  network: ws
+  port: 8880
+  server: 217.160.45.31
+  servername: ''
+  tls: false
+  type: vmess
+  uuid: 4e186678-fcca-4325-e4bc-b2916bdf6708
+  ws-opts:
+    headers:
+      Host: ''
+    path: ''
+- alterId: 0
+  cipher: auto
   name: 12|🇺🇸_US_美国->🇱🇺_LU_卢森堡_由快嘴科技提供：kk...
   network: ws
   port: 443
@@ -176,18 +179,15 @@ proxies:
     path: /azumase.ren
 - alterId: 0
   cipher: auto
-  name: 12|德国 -> 中国China Telecom
+  name: '12,19|🇳🇱_NL_荷兰->🇫🇷_FR_法国_24 #1'
   network: ws
-  port: 8880
-  server: 217.160.45.31
-  servername: ''
+  port: 80
+  server: eu-2.0rd.net
   tls: false
   type: vmess
-  uuid: 4e186678-fcca-4325-e4bc-b2916bdf6708
+  uuid: ee80a700-9295-11ee-b833-205c6d5f5d78
   ws-opts:
-    headers:
-      Host: ''
-    path: ''
+    path: /7tx2lbmf
 - alterId: 0
   cipher: auto
   name: 19|🇺🇸_US_美国->🇬🇧_GB_英国_由快嘴科技提供：kkz...
