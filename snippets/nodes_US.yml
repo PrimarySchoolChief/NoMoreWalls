@@ -267,7 +267,7 @@ proxies:
   servername: us04.abpilot.xyz
   tls: true
   type: vmess
-  uuid: c29a94fe-982c-47a0-9085-20ebd505c5fb
+  uuid: 93b6e7c9-0061-45c7-a6b1-47cf3881b7c2
 - alterId: 0
   cipher: auto
   name: 9|🇺🇸美国05
@@ -277,7 +277,7 @@ proxies:
   servername: us05.abpilot.xyz
   tls: true
   type: vmess
-  uuid: c29a94fe-982c-47a0-9085-20ebd505c5fb
+  uuid: 93b6e7c9-0061-45c7-a6b1-47cf3881b7c2
 - alterId: 0
   cipher: auto
   name: 9|🇺🇸美国06
@@ -287,7 +287,7 @@ proxies:
   servername: us06.abpilot.xyz
   tls: true
   type: vmess
-  uuid: c29a94fe-982c-47a0-9085-20ebd505c5fb
+  uuid: 93b6e7c9-0061-45c7-a6b1-47cf3881b7c2
 - alterId: 0
   cipher: auto
   name: 10|美国 CloudFlare节点
@@ -1157,7 +1157,7 @@ proxies:
   server: gdct003.jcnode.top
   tls: false
   type: vmess
-  uuid: c08dc5c1-9711-463f-8d6a-c350b1ae1903
+  uuid: f491006a-81b1-4a83-874e-52ca7437777b
   ws-opts:
     headers:
       Host: ''
@@ -1170,7 +1170,7 @@ proxies:
   server: gdct002.jcnode.top
   tls: false
   type: vmess
-  uuid: c08dc5c1-9711-463f-8d6a-c350b1ae1903
+  uuid: f491006a-81b1-4a83-874e-52ca7437777b
   ws-opts:
     headers:
       Host: ''
@@ -1183,7 +1183,7 @@ proxies:
   server: gdct001.jcnode.top
   tls: false
   type: vmess
-  uuid: c08dc5c1-9711-463f-8d6a-c350b1ae1903
+  uuid: f491006a-81b1-4a83-874e-52ca7437777b
   ws-opts:
     headers:
       Host: ''
@@ -1196,7 +1196,7 @@ proxies:
   server: gdct003.jcnode.top
   tls: false
   type: vmess
-  uuid: c08dc5c1-9711-463f-8d6a-c350b1ae1903
+  uuid: f491006a-81b1-4a83-874e-52ca7437777b
   ws-opts:
     headers:
       Host: ''
@@ -1209,7 +1209,7 @@ proxies:
   server: gdct002.jcnode.top
   tls: false
   type: vmess
-  uuid: c08dc5c1-9711-463f-8d6a-c350b1ae1903
+  uuid: f491006a-81b1-4a83-874e-52ca7437777b
   ws-opts:
     headers:
       Host: ''
@@ -1222,7 +1222,7 @@ proxies:
   server: gdct001.jcnode.top
   tls: false
   type: vmess
-  uuid: c08dc5c1-9711-463f-8d6a-c350b1ae1903
+  uuid: f491006a-81b1-4a83-874e-52ca7437777b
   ws-opts:
     headers:
       Host: ''
