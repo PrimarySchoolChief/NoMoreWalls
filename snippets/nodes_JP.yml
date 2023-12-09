@@ -8,7 +8,7 @@ proxies:
   servername: jp04.abpilot.xyz
   tls: true
   type: vmess
-  uuid: 5c7ec943-cc77-4e68-b133-29d57cd71c4a
+  uuid: 6420d084-e18d-451b-b03c-cf993843c981
 - alterId: 0
   cipher: auto
   name: 9|🇯🇵日本05
@@ -18,7 +18,7 @@ proxies:
   servername: jp05.abpilot.xyz
   tls: true
   type: vmess
-  uuid: 5c7ec943-cc77-4e68-b133-29d57cd71c4a
+  uuid: 6420d084-e18d-451b-b03c-cf993843c981
 - alterId: 0
   cipher: auto
   name: 9|🇯🇵日本06
@@ -28,7 +28,7 @@ proxies:
   servername: jp06.abpilot.xyz
   tls: true
   type: vmess
-  uuid: 5c7ec943-cc77-4e68-b133-29d57cd71c4a
+  uuid: 6420d084-e18d-451b-b03c-cf993843c981
 - alterId: 0
   cipher: auto
   name: 10|日本  4
