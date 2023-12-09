@@ -1,9 +1,9 @@
 proxies:
 - alterId: 0
   cipher: auto
-  name: 0|🇺🇸 _US_美国->🇳🇱_NL_荷兰
+  name: '0,2,3,4,6|🇺🇸_US_美国->🇳🇱_NL_荷兰 #2'
   network: ws
-  port: '2096'
+  port: 2096
   server: 162.159.129.87
   tls: true
   type: vmess
@@ -14,7 +14,7 @@ proxies:
     path: /
 - alterId: 0
   cipher: auto
-  name: 0,10,11|github.com/freefq - 伊朗  66
+  name: 0,2,3,4,6,10,11|github.com/freefq - 伊朗  66
   network: tcp
   port: '18904'
   server: 193.151.151.227
@@ -24,7 +24,7 @@ proxies:
   uuid: 270ce474-6850-4102-85af-5a77fc660350
 - alterId: 0
   cipher: auto
-  name: '0,10|印度 v2rayfree.eu.org #2'
+  name: '0,2,3,4,6,10|印度 v2rayfree.eu.org #2'
   network: ws
   port: '80'
   server: cm1.xn-w1yu8o.xyz
@@ -65,7 +65,7 @@ proxies:
     path: /
 - alterId: 0
   cipher: auto
-  name: 1,2,4,6,19|🇯🇵_JP_日本->🇺🇸_US_美国_45
+  name: 1,19|🇯🇵_JP_日本->🇺🇸_US_美国_45
   network: ''
   port: 30501
   server: dir01.netorigins2u.site
@@ -113,67 +113,6 @@ proxies:
     path: /
 - alterId: 0
   cipher: auto
-  name: 2,3,4,6,12,19|🇺🇸_US_美国->🇬🇧_GB_英国_36
-  network: ws
-  port: 8080
-  server: polouk.yj2022.gq
-  tls: false
-  type: vmess
-  uuid: 4b5e4565-322f-4223-a891-78a84f189726
-  ws-opts:
-    headers:
-      Host: polouk.yj2022.gq
-    path: /r8ykwif5rffiqJeJ49zLka7PbhWz3wiHs8cSeiRyZL
-- alterId: 0
-  cipher: auto
-  name: 2,3,4,6,19|🇺🇸_US_美国->🇮🇳_IN_印度_由快嘴科技提供：kkz...
-  network: ws
-  port: 80
-  server: mm3.shabijichang.com
-  tls: false
-  type: vmess
-  uuid: c458695d-6908-45c3-9512-e0c46418454c
-  ws-opts:
-    headers:
-      Host: mm3.shabijichang.com
-    path: /
-- alterId: 0
-  cipher: auto
-  name: 2,3,4,6,19|🇭🇰_HK_香港->🇺🇸_US_美国_53
-  network: ws
-  port: 80
-  server: nice2.xn-w1yu8o.xyz
-  tls: false
-  type: vmess
-  uuid: a5319baa-e846-43c7-91c2-d67a1e307c8b
-  ws-opts:
-    headers:
-      Host: icu2.mac2win.top
-    path: /
-- alterId: 0
-  cipher: auto
-  name: 2,3,4,6,19|🇺🇸_US_美国->🇱🇹_LT_立陶宛_30
-  network: ws
-  port: 8080
-  server: moon.chanell.mci.v-x4ssd.space
-  tls: false
-  type: vmess
-  uuid: 97bba5ca-185c-4e6a-ac64-96e920d4eeda
-  ws-opts:
-    headers:
-      Host: moon.chanell.mci.v-x4ssd.space
-    path: /
-- alterId: 0
-  cipher: auto
-  name: 3|🇯🇵 _JP_日本->🇺🇸_US_美国
-  network: tcp
-  port: '30501'
-  server: dir01.netorigins2u.site
-  tls: true
-  type: vmess
-  uuid: 922eeb53-8f01-3d66-8b5d-02052a5fd392
-- alterId: 0
-  cipher: auto
   name: 12|德国 -> 中国China Telecom
   network: ws
   port: 8880
@@ -199,6 +138,19 @@ proxies:
     headers:
       Host: xsasowspdqz.site
     path: /kwhmvws
+- alterId: 0
+  cipher: auto
+  name: 12,19|🇺🇸_US_美国->🇬🇧_GB_英国_36
+  network: ws
+  port: 8080
+  server: polouk.yj2022.gq
+  tls: false
+  type: vmess
+  uuid: 4b5e4565-322f-4223-a891-78a84f189726
+  ws-opts:
+    headers:
+      Host: polouk.yj2022.gq
+    path: /r8ykwif5rffiqJeJ49zLka7PbhWz3wiHs8cSeiRyZL
 - alterId: 0
   cipher: auto
   name: 12|🇺🇸_US_美国->🇱🇺_LU_卢森堡_由快嘴科技提供：kk...
@@ -227,6 +179,19 @@ proxies:
     path: /kwhmvws
 - alterId: 0
   cipher: auto
+  name: 19|🇺🇸_US_美国->🇮🇳_IN_印度_由快嘴科技提供：kkz...
+  network: ws
+  port: 80
+  server: mm3.shabijichang.com
+  tls: false
+  type: vmess
+  uuid: c458695d-6908-45c3-9512-e0c46418454c
+  ws-opts:
+    headers:
+      Host: mm3.shabijichang.com
+    path: /
+- alterId: 0
+  cipher: auto
   name: 19|🇺🇸_US_美国->🇳🇱_NL_荷兰_由快嘴科技提供：kkz...
   network: ws
   port: 443
@@ -238,3 +203,29 @@ proxies:
     headers:
       Host: software.myftp.biz
     path: /MEHDI
+- alterId: 0
+  cipher: auto
+  name: 19|🇺🇸_US_美国->🇱🇹_LT_立陶宛_30
+  network: ws
+  port: 8080
+  server: moon.chanell.mci.v-x4ssd.space
+  tls: false
+  type: vmess
+  uuid: 97bba5ca-185c-4e6a-ac64-96e920d4eeda
+  ws-opts:
+    headers:
+      Host: moon.chanell.mci.v-x4ssd.space
+    path: /
+- alterId: 0
+  cipher: auto
+  name: 19|🇭🇰_HK_香港->🇺🇸_US_美国_53
+  network: ws
+  port: 80
+  server: nice2.xn-w1yu8o.xyz
+  tls: false
+  type: vmess
+  uuid: a5319baa-e846-43c7-91c2-d67a1e307c8b
+  ws-opts:
+    headers:
+      Host: icu2.mac2win.top
+    path: /
