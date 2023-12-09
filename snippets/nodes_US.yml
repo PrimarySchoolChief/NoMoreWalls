@@ -1,7 +1,7 @@
 proxies:
 - alterId: 0
   cipher: auto
-  name: 0,2,3,4,6,18|🇺🇸_US_美国_由快嘴科技提供：kkzui.com2_49
+  name: 0,2,3,4,6,19|🇺🇸_US_美国_由快嘴科技提供：kkzui.com2_49
   network: ws
   port: 8080
   server: cfzl2.freeapp.buzz
@@ -14,7 +14,7 @@ proxies:
     path: /
 - alterId: 0
   cipher: auto
-  name: 0,2,3,4,6,18|🇺🇸_US_美国_由快嘴科技提供：kkzui.com8_57
+  name: 0,2,3,4,6,19|🇺🇸_US_美国_由快嘴科技提供：kkzui.com8_57
   network: ws
   port: 8080
   server: cloudflare-cmi1.shaniugpt.top
@@ -38,7 +38,7 @@ proxies:
   uuid: 119a25bf-e35e-44c2-8b81-287ea8b2cac0
 - alterId: 0
   cipher: auto
-  name: 0,2,3,4,6,18|🇺🇸_US_美国_由快嘴科技提供：kkzui.com3_50
+  name: 0,2,3,4,6,19|🇺🇸_US_美国_由快嘴科技提供：kkzui.com3_50
   network: ws
   port: 8880
   server: cf-lt.sharecentre.online
@@ -51,7 +51,7 @@ proxies:
     path: /api/v3/download.getFile
 - alterId: 0
   cipher: auto
-  name: 0,2,3,4,6,18|🇺🇸_US_美国_由快嘴科技提供：kkzui.com7_54
+  name: 0,2,3,4,6,19|🇺🇸_US_美国_由快嘴科技提供：kkzui.com7_54
   network: ws
   port: 8080
   server: cfzl1.freeapp.buzz
@@ -77,7 +77,7 @@ proxies:
     path: /api/v3/download.getFile
 - alterId: 0
   cipher: auto
-  name: 0,2,3,4,6,18|🇺🇸_US_美国_由快嘴科技提供：kkzui.com5_52
+  name: 0,2,3,4,6,19|🇺🇸_US_美国_由快嘴科技提供：kkzui.com5_52
   network: ws
   port: 8880
   server: ns1.v2-vip.fun
@@ -90,7 +90,7 @@ proxies:
     path: /api/v3/download.getFile
 - alterId: 0
   cipher: auto
-  name: 0,1,2,3,4,6,18|🇺🇸_US_美国_3_23
+  name: 0,1,2,3,4,6,19|🇺🇸_US_美国_3_23
   network: http
   port: 444
   server: 2.58.85.44
@@ -115,7 +115,7 @@ proxies:
     path: /
 - alterId: 0
   cipher: auto
-  name: 0,2,3,4,6,18|🇺🇸_US_美国_由快嘴科技提供：kkzui.com4_51
+  name: 0,2,3,4,6,19|🇺🇸_US_美国_由快嘴科技提供：kkzui.com4_51
   network: ws
   port: 80
   server: ns1.v2-vip.fun
@@ -141,7 +141,7 @@ proxies:
     path: /api/v3/download.getFile
 - alterId: 0
   cipher: auto
-  name: 0,1,2,3,4,6,18|🇺🇸_US_美国_由快嘴科技提供：kkzui.com_27
+  name: 0,1,2,3,4,6,19|🇺🇸_US_美国_由快嘴科技提供：kkzui.com_27
   network: tcp
   port: 38461
   server: 157.254.231.45
@@ -151,7 +151,7 @@ proxies:
   uuid: 8f53d96b-cb13-4197-cd44-37db95809de5
 - alterId: 0
   cipher: auto
-  name: 0,2,3,4,6,10,11,18|🇺🇸_US_美国_由快嘴科技提供：kkzui.com6_53
+  name: 0,2,3,4,6,10,11,19|🇺🇸_US_美国_由快嘴科技提供：kkzui.com6_53
   network: ws
   port: 8880
   server: singapore.com
@@ -164,7 +164,7 @@ proxies:
     path: /api/v3/download.getFile
 - alterId: 0
   cipher: auto
-  name: 0,1,2,3,4,6,18|🇺🇸_US_美国_由快嘴科技提供：kkzui.com1_48
+  name: 0,1,2,3,4,6,19|🇺🇸_US_美国_由快嘴科技提供：kkzui.com1_48
   network: tcp
   port: 30823
   server: 147.189.161.106
@@ -322,7 +322,7 @@ proxies:
     path: /api/v3/download.getFile
 - alterId: 0
   cipher: auto
-  name: 6,10,11,18|🇺🇸_US_美国_9_45
+  name: 6,10,11,19|🇺🇸_US_美国_9_45
   network: ws
   port: 80
   server: 104.21.75.246
@@ -335,7 +335,7 @@ proxies:
     path: /
 - alterId: 0
   cipher: auto
-  name: 6,12,18|🇺🇸_US_美国_由快嘴科技提供：kkzui.com9_58
+  name: 6,12,19|🇺🇸_US_美国_由快嘴科技提供：kkzui.com9_58
   network: ws
   port: 8080
   server: c.mac2win.top
@@ -348,7 +348,7 @@ proxies:
     path: /argox-vm?ed=2048
 - alterId: 0
   cipher: auto
-  name: 6,18|🇺🇸_US_美国_20_60
+  name: 6,19|🇺🇸_US_美国_20_60
   network: ws
   port: 80
   server: sbl2.shabijichang.com
@@ -383,7 +383,7 @@ proxies:
   servername: us04.abpilot.xyz
   tls: true
   type: vmess
-  uuid: a0d03941-992a-4fe2-a292-f04569b6e33d
+  uuid: bf406ba3-e750-4364-a543-cd1a83a7ddff
 - alterId: 0
   cipher: auto
   name: 9|🇺🇸美国05
@@ -393,7 +393,7 @@ proxies:
   servername: us05.abpilot.xyz
   tls: true
   type: vmess
-  uuid: a0d03941-992a-4fe2-a292-f04569b6e33d
+  uuid: bf406ba3-e750-4364-a543-cd1a83a7ddff
 - alterId: 0
   cipher: auto
   name: 9|🇺🇸美国06
@@ -403,7 +403,7 @@ proxies:
   servername: us06.abpilot.xyz
   tls: true
   type: vmess
-  uuid: a0d03941-992a-4fe2-a292-f04569b6e33d
+  uuid: bf406ba3-e750-4364-a543-cd1a83a7ddff
 - alterId: 0
   cipher: auto
   name: '10,11|github.com/freefq - 美国CloudFla... #4'
@@ -420,7 +420,7 @@ proxies:
     path: /
 - alterId: 0
   cipher: auto
-  name: 10,18|🇺🇸_US_美国->🇱🇹_LT_立陶宛_由快嘴科技提供：kk...
+  name: 10,19|🇺🇸_US_美国->🇱🇹_LT_立陶宛_由快嘴科技提供：kk...
   network: ws
   port: 8080
   server: moon.chanell.mci.v-x4ssd.space
@@ -1013,7 +1013,7 @@ proxies:
   servername: us04.lovemc.xyz
   tls: true
   type: vmess
-  uuid: af87ab6c-9f0a-45dc-b2ae-ae36786c7b24
+  uuid: 9f440baf-0725-4152-938f-f9983a57cee1
 - alterId: 0
   cipher: auto
   name: 13|【BGP】美国 05 | 1x US
@@ -1023,7 +1023,7 @@ proxies:
   servername: us05.lovemc.xyz
   tls: true
   type: vmess
-  uuid: af87ab6c-9f0a-45dc-b2ae-ae36786c7b24
+  uuid: 9f440baf-0725-4152-938f-f9983a57cee1
 - alterId: 0
   cipher: auto
   name: 13|【BGP】美国 06 | 1x US
@@ -1033,7 +1033,7 @@ proxies:
   servername: us06.lovemc.xyz
   tls: true
   type: vmess
-  uuid: af87ab6c-9f0a-45dc-b2ae-ae36786c7b24
+  uuid: 9f440baf-0725-4152-938f-f9983a57cee1
 - cipher: chacha20-ietf-poly1305
   name: 14|🇺🇸 美国5|频道:@ripaojiedian
   password: d89ca371-e94b-4dfe-ad6f-02bd13edf7c4
@@ -1059,7 +1059,85 @@ proxies:
     path: /
 - alterId: 0
   cipher: auto
-  name: 18|🇺🇸_US_美国_由快嘴科技提供：kkzui.com_11
+  name: 16|JCBB_ 美国01【vip1】
+  network: ws
+  port: '38381'
+  server: gdct003.jcnode.top
+  tls: false
+  type: vmess
+  uuid: 523c4e72-8b5b-46a4-a68c-de6a59e4f383
+  ws-opts:
+    headers:
+      Host: ''
+    path: ''
+- alterId: 0
+  cipher: auto
+  name: 16|JCBB_ 美国02_1【vip1】
+  network: ws
+  port: '20153'
+  server: gdct002.jcnode.top
+  tls: false
+  type: vmess
+  uuid: 523c4e72-8b5b-46a4-a68c-de6a59e4f383
+  ws-opts:
+    headers:
+      Host: ''
+    path: ''
+- alterId: 0
+  cipher: auto
+  name: 16|JCBB_ 美国02【vip1】
+  network: ws
+  port: '28204'
+  server: gdct001.jcnode.top
+  tls: false
+  type: vmess
+  uuid: 523c4e72-8b5b-46a4-a68c-de6a59e4f383
+  ws-opts:
+    headers:
+      Host: ''
+    path: ''
+- alterId: 0
+  cipher: auto
+  name: 16|JCBB_ 美国 03【vip1】
+  network: ws
+  port: '21036'
+  server: gdct003.jcnode.top
+  tls: false
+  type: vmess
+  uuid: 523c4e72-8b5b-46a4-a68c-de6a59e4f383
+  ws-opts:
+    headers:
+      Host: ''
+    path: ''
+- alterId: 0
+  cipher: auto
+  name: 16|JCBB_ 美国 04_1【vip1】
+  network: ws
+  port: '26611'
+  server: gdct002.jcnode.top
+  tls: false
+  type: vmess
+  uuid: 523c4e72-8b5b-46a4-a68c-de6a59e4f383
+  ws-opts:
+    headers:
+      Host: ''
+    path: ''
+- alterId: 0
+  cipher: auto
+  name: 16|JCBB_ 美国 04【vip1】
+  network: ws
+  port: '62684'
+  server: gdct001.jcnode.top
+  tls: false
+  type: vmess
+  uuid: 523c4e72-8b5b-46a4-a68c-de6a59e4f383
+  ws-opts:
+    headers:
+      Host: ''
+    path: ''
+- alterId: 0
+  cipher: auto
+  name: 19|🇺🇸_US_美国_由快嘴科技提供：kkzui.com_11
   network: ws
   port: 80
   server: ns1.v2-vip.fun
@@ -1072,7 +1150,7 @@ proxies:
     path: /api/v3/download.getFile
 - alterId: 0
   cipher: auto
-  name: 18|🇺🇸_US_美国_4_24
+  name: 19|🇺🇸_US_美国_4_24
   network: ws
   port: 80
   server: cf-lt.sharecentre.online

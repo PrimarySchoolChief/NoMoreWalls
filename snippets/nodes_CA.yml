@@ -1,7 +1,7 @@
 proxies:
 - alterId: 0
   cipher: auto
-  name: 0,1,2,3,4,10,11,12,18|🇨🇦_CA_加拿大_2_25
+  name: 0,1,2,3,4,10,11,12,19|🇨🇦_CA_加拿大_2_25
   network: ws
   port: 40310
   server: 74.48.183.246
@@ -14,7 +14,7 @@ proxies:
     path: /
 - alterId: 0
   cipher: auto
-  name: 0,1,2,3,4,6,10,18|🇨🇦_CA_加拿大_由快嘴科技提供：kkzui.com_29
+  name: 0,1,2,3,4,6,10,19|🇨🇦_CA_加拿大_由快嘴科技提供：kkzui.com_29
   network: tcp
   port: 20426
   server: 74.48.130.248
@@ -25,7 +25,7 @@ proxies:
   uuid: 67234df6-8d1d-409e-c263-f17742a6151c
 - alterId: 0
   cipher: auto
-  name: 0,1,2,3,4,6,18|🇨🇦_CA_加拿大_3_38
+  name: 0,1,2,3,4,6,19|🇨🇦_CA_加拿大_3_38
   network: http
   port: 2082
   server: 193.203.203.88
@@ -52,7 +52,7 @@ proxies:
   servername: ca04.abpilot.xyz
   tls: true
   type: vmess
-  uuid: a0d03941-992a-4fe2-a292-f04569b6e33d
+  uuid: bf406ba3-e750-4364-a543-cd1a83a7ddff
 - alterId: 0
   cipher: auto
   name: 12|⚡️@DeamNet_🔻 🇨🇦Canada 2
@@ -667,4 +667,4 @@ proxies:
   servername: ca04.lovemc.xyz
   tls: true
   type: vmess
-  uuid: af87ab6c-9f0a-45dc-b2ae-ae36786c7b24
+  uuid: 9f440baf-0725-4152-938f-f9983a57cee1
