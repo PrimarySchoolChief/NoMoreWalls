@@ -15,7 +15,7 @@ proxies:
     path: /
 - alterId: 0
   cipher: auto
-  name: 10,11,12|🔒 VM-WS-NONE 🇺🇸 US-107.151.250...
+  name: 10|香港亿万数据中心 5
   network: ws
   port: 8888
   server: 107.151.250.29

@@ -15,14 +15,14 @@ proxies:
     path: /b12
 - alterId: 0
   cipher: auto
-  name: '10,11|github.com/freefq - 台湾省中华电信(Hi... #1'
+  name: 10,11,12|TW_speednode_0078
   network: ws
   port: 443
   server: b22.ntbq.dynu.net
   servername: ''
   tls: true
   type: vmess
-  uuid: 8e53b838-e5a4-45fb-94c2-f5dd7f7f729a
+  uuid: 445405e7-8cb2-4a0f-be48-7714c8f233e2
   ws-opts:
     headers:
       Host: b22.ntbq.dynu.net
@@ -43,9 +43,9 @@ proxies:
     path: /b13
 - alterId: 0
   cipher: auto
-  name: 10,11|github.com/freefq - 台湾省台北市中华电信...
+  name: 10,11,12|台湾(yudou66.com 玉豆免费节点)
   network: ws
-  port: 443
+  port: '443'
   server: b24.ntbq.dynu.net
   servername: ''
   tls: true
@@ -71,6 +71,34 @@ proxies:
     headers:
       Host: b23.ntbq.dynu.net
     path: /b23
+- alterId: 0
+  cipher: auto
+  name: 12|TW_speednode_0083
+  network: ws
+  port: 443
+  server: b24.ntbq.dynu.net
+  servername: ''
+  tls: true
+  type: vmess
+  uuid: 8e53b838-e5a4-45fb-94c2-f5dd7f7f729a
+  ws-opts:
+    headers:
+      Host: ''
+    path: /b24
+- alterId: 0
+  cipher: auto
+  name: 12|🇹🇼|TW|台湾|@wxgqlfx|28
+  network: ws
+  port: 443
+  server: b21.ntbq.dynu.net
+  servername: ''
+  tls: true
+  type: vmess
+  uuid: 8e53b838-e5a4-45fb-94c2-f5dd7f7f729a
+  ws-opts:
+    headers:
+      Host: b21.ntbq.dynu.net
+    path: /b21
 - cipher: chacha20-ietf-poly1305
   name: 14|🇹🇼 台湾3|@ripaojiedian
   password: 4d1e8cd03847

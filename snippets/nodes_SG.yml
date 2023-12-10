@@ -8,7 +8,7 @@ proxies:
   servername: sg04.abpilot.xyz
   tls: true
   type: vmess
-  uuid: 640ab97d-88f2-45b3-9bd9-6e68a3ddc805
+  uuid: 9a57dfab-b1d1-4a9e-868a-07eaae687e72
 - alterId: 0
   cipher: auto
   name: 9|🇸🇬新加坡05
@@ -18,7 +18,7 @@ proxies:
   servername: sg05.abpilot.xyz
   tls: true
   type: vmess
-  uuid: 640ab97d-88f2-45b3-9bd9-6e68a3ddc805
+  uuid: 9a57dfab-b1d1-4a9e-868a-07eaae687e72
 - alterId: 0
   cipher: auto
   name: 9|🇸🇬新加坡06
@@ -28,7 +28,7 @@ proxies:
   servername: sg06.abpilot.xyz
   tls: true
   type: vmess
-  uuid: 640ab97d-88f2-45b3-9bd9-6e68a3ddc805
+  uuid: 9a57dfab-b1d1-4a9e-868a-07eaae687e72
 - alterId: 0
   cipher: auto
   name: 10|新加坡 腾讯云
@@ -40,7 +40,7 @@ proxies:
   uuid: 34a2f093-c236-4edc-eb6a-663f1bfaa136
 - alterId: 0
   cipher: auto
-  name: 10,11|github.com/freefq - 新加坡亚马逊(Ama...
+  name: 10|新加坡亚马逊(Amazon)公司数据中心 47
   network: ws
   port: '80'
   server: us1.c8898496-adb6-4073-9ee4-ff4e4984415b.polycdn.com
@@ -53,6 +53,16 @@ proxies:
     path: /
 - alterId: 0
   cipher: auto
+  name: 12|🔒 VM-TCP-NA 🇸🇬 SG-8.219.240.12...
+  network: tcp
+  port: '32969'
+  server: 8.219.240.120
+  servername: ''
+  tls: false
+  type: vmess
+  uuid: 95249020-fbb7-4592-efce-6ad3954c3fad
+- alterId: 0
+  cipher: auto
   name: 13|【BGP】新加坡 04 | 1x SG
   network: tcp
   port: '31201'
@@ -60,7 +70,7 @@ proxies:
   servername: sg04.lovemc.xyz
   tls: true
   type: vmess
-  uuid: 9430cce5-bcc3-42bf-bb37-68792c274e9f
+  uuid: b7f1d491-1c0d-43ab-8346-c52c7f090204
 - alterId: 0
   cipher: auto
   name: 13|【BGP】新加坡 05 | 1x SG
@@ -70,7 +80,7 @@ proxies:
   servername: sg05.lovemc.xyz
   tls: true
   type: vmess
-  uuid: 9430cce5-bcc3-42bf-bb37-68792c274e9f
+  uuid: b7f1d491-1c0d-43ab-8346-c52c7f090204
 - alterId: 0
   cipher: auto
   name: 13|【BGP】新加坡 06 | 1x SG
@@ -80,7 +90,7 @@ proxies:
   servername: sg06.lovemc.xyz
   tls: true
   type: vmess
-  uuid: 9430cce5-bcc3-42bf-bb37-68792c274e9f
+  uuid: b7f1d491-1c0d-43ab-8346-c52c7f090204
 - cipher: chacha20-ietf-poly1305
   name: 14|🇸🇬 新加坡3|浏览器输入 翻墙.com
   password: d89ca371-e94b-4dfe-ad6f-02bd13edf7c4

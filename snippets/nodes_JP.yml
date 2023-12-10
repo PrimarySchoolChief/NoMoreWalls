@@ -8,7 +8,7 @@ proxies:
   servername: jp04.abpilot.xyz
   tls: true
   type: vmess
-  uuid: 640ab97d-88f2-45b3-9bd9-6e68a3ddc805
+  uuid: 9a57dfab-b1d1-4a9e-868a-07eaae687e72
 - alterId: 0
   cipher: auto
   name: 9|🇯🇵日本05
@@ -18,7 +18,7 @@ proxies:
   servername: jp05.abpilot.xyz
   tls: true
   type: vmess
-  uuid: 640ab97d-88f2-45b3-9bd9-6e68a3ddc805
+  uuid: 9a57dfab-b1d1-4a9e-868a-07eaae687e72
 - alterId: 0
   cipher: auto
   name: 9|🇯🇵日本06
@@ -28,7 +28,7 @@ proxies:
   servername: jp06.abpilot.xyz
   tls: true
   type: vmess
-  uuid: 640ab97d-88f2-45b3-9bd9-6e68a3ddc805
+  uuid: 9a57dfab-b1d1-4a9e-868a-07eaae687e72
 - alterId: 0
   cipher: auto
   name: 12|日本 - 东京 - Akamai Technologies
@@ -39,6 +39,16 @@ proxies:
   tls: false
   type: vmess
   uuid: 5de808d1-b707-462c-83f3-68739504ad70
+- alterId: 64
+  cipher: auto
+  name: 12|🔒 VM-TCP-NA 🇯🇵 JP-138.2.44.211...
+  network: tcp
+  port: '20081'
+  server: 138.2.44.211
+  servername: ''
+  tls: false
+  type: vmess
+  uuid: 593b8525-0c48-4b0f-d9af-2d73a9148973
 - alterId: 0
   cipher: auto
   name: 13|【BGP】日本 04  | 1x JP
@@ -48,7 +58,7 @@ proxies:
   servername: jp04.lovemc.xyz
   tls: true
   type: vmess
-  uuid: 9430cce5-bcc3-42bf-bb37-68792c274e9f
+  uuid: b7f1d491-1c0d-43ab-8346-c52c7f090204
 - alterId: 0
   cipher: auto
   name: 13|【BGP】日本 05  | 1x JP
@@ -58,7 +68,7 @@ proxies:
   servername: jp05.lovemc.xyz
   tls: true
   type: vmess
-  uuid: 9430cce5-bcc3-42bf-bb37-68792c274e9f
+  uuid: b7f1d491-1c0d-43ab-8346-c52c7f090204
 - alterId: 0
   cipher: auto
   name: 13|【BGP】日本 06  | 1x JP
@@ -68,7 +78,7 @@ proxies:
   servername: jp06.lovemc.xyz
   tls: true
   type: vmess
-  uuid: 9430cce5-bcc3-42bf-bb37-68792c274e9f
+  uuid: b7f1d491-1c0d-43ab-8346-c52c7f090204
 - cipher: aes-128-gcm
   name: 14|🇯🇵 日本KT|@ripaojiedian
   password: g12sQi#ss#&1
