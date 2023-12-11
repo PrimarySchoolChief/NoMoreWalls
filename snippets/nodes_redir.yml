@@ -1,7 +1,7 @@
 proxies:
 - alterId: 0
   cipher: auto
-  name: '0,2,3,4,6,12|🇮🇹_IT_意大利->🇳🇱_NL_荷兰 #3'
+  name: '0,2,3,4,6|🇮🇹_IT_意大利->🇳🇱_NL_荷兰 #2'
   network: ws
   port: 443
   server: 45.82.101.6
@@ -40,7 +40,7 @@ proxies:
     path: /@FORWARDV2RAY
 - alterId: 0
   cipher: auto
-  name: 0,2,3,4,6,10,18|🇺🇸_US_美国->🇬🇧_GB_英国_3_由快嘴科技提供：k...
+  name: 0,2,3,4,6,10,17|🇺🇸_US_美国->🇬🇧_GB_英国_3_由快嘴科技提供：k...
   network: ws
   port: 80
   server: ld2.shabijichang.com
@@ -92,11 +92,10 @@ proxies:
     path: /@FORWARDV2RAY
 - alterId: 0
   cipher: auto
-  name: '0,2,3,4,12|US美国(mibei77.com 米贝节点分享) #4'
+  name: '0,2,3,4,12|🇺🇸_US_美国->🇬🇮_GI_直布罗陀 #2'
   network: ws
-  port: '80'
+  port: 80
   server: 104.21.75.79
-  servername: ''
   tls: false
   type: vmess
   uuid: 5c6f16ce-6a20-41e5-9274-06b4c45051b5
@@ -119,7 +118,7 @@ proxies:
     path: /@FORWARDV2RAY
 - alterId: 0
   cipher: auto
-  name: '0,2,3,4,6,12|🇺🇸_US_美国->🇳🇱_NL_荷兰 #6'
+  name: '0,2,3,4,6|🇺🇸_US_美国->🇳🇱_NL_荷兰 #5'
   network: ws
   port: 443
   server: 92.38.168.7
@@ -285,7 +284,7 @@ proxies:
     path: /azumase.ren
 - alterId: 0
   cipher: auto
-  name: 18|🇮🇷_IR_伊朗->🇩🇪_DE_德国_由快嘴科技提供：kkz...
+  name: 17|🇮🇷_IR_伊朗->🇩🇪_DE_德国_由快嘴科技提供：kkz...
   network: tcp
   port: 443
   server: 185.206.95.48
@@ -294,7 +293,7 @@ proxies:
   uuid: df092af6-5f7b-4705-98e0-79cb982ca049
 - alterId: 0
   cipher: auto
-  name: 18|🇺🇸_US_美国->🇷🇺_RU_俄罗斯联邦_7
+  name: 17|🇺🇸_US_美国->🇷🇺_RU_俄罗斯联邦_7
   network: ws
   port: 443
   server: xyfxhiogo.site
@@ -304,7 +303,7 @@ proxies:
   ws-opts: {}
 - alterId: 0
   cipher: auto
-  name: 18|🇺🇸_US_美国->🇨🇦_CA_加拿大_由快嘴科技提供：kk...
+  name: 17|🇺🇸_US_美国->🇨🇦_CA_加拿大_由快嘴科技提供：kk...
   network: ws
   port: 80
   server: 162.159.142.215
@@ -317,7 +316,7 @@ proxies:
     path: /
 - alterId: 0
   cipher: auto
-  name: 18|🇺🇸_US_美国->🇨🇦_CA_加拿大_2_由快嘴科技提供：...
+  name: 17|🇺🇸_US_美国->🇨🇦_CA_加拿大_2_由快嘴科技提供：...
   network: ws
   port: 80
   server: 162.159.142.216
@@ -330,7 +329,7 @@ proxies:
     path: /
 - alterId: 0
   cipher: auto
-  name: 18|🇺🇸_US_美国->🇬🇧_GB_英国_由快嘴科技提供：kkz...
+  name: 17|🇺🇸_US_美国->🇬🇧_GB_英国_由快嘴科技提供：kkz...
   network: ws
   port: 80
   server: 162.159.142.245
@@ -343,7 +342,7 @@ proxies:
     path: /
 - alterId: 0
   cipher: auto
-  name: 18|🇺🇸_US_美国->🇬🇧_GB_英国_2_由快嘴科技提供：k...
+  name: 17|🇺🇸_US_美国->🇬🇧_GB_英国_2_由快嘴科技提供：k...
   network: ws
   port: 80
   server: 162.159.142.241
@@ -356,16 +355,7 @@ proxies:
     path: /
 - alterId: 0
   cipher: auto
-  name: 18|🇮🇷_IR_伊朗->🇫🇷_FR_法国_由快嘴科技提供：kkz...
-  network: tcp
-  port: 58768
-  server: 81.12.27.2
-  tls: false
-  type: vmess
-  uuid: 324d3868-cfef-4bd4-ab44-1776a406635f
-- alterId: 0
-  cipher: auto
-  name: 18|🇺🇸_US_美国->🇬🇧_GB_英国_4_20
+  name: 17|🇺🇸_US_美国->🇬🇧_GB_英国_4_20
   network: ws
   port: 80
   server: 162.159.142.242
@@ -378,7 +368,7 @@ proxies:
     path: /
 - alterId: 0
   cipher: auto
-  name: 18|🇺🇸_US_美国->🇨🇦_CA_加拿大_3_22
+  name: 17|🇺🇸_US_美国->🇨🇦_CA_加拿大_3_22
   network: ws
   port: 80
   server: 162.159.142.214
@@ -391,7 +381,7 @@ proxies:
     path: /
 - alterId: 0
   cipher: auto
-  name: 18|🇺🇸_US_美国->🇬🇧_GB_英国_5_25
+  name: 17|🇺🇸_US_美国->🇬🇧_GB_英国_5_25
   network: ws
   port: 80
   server: 162.159.142.244
@@ -404,7 +394,7 @@ proxies:
     path: /
 - alterId: 0
   cipher: auto
-  name: 18|🇺🇸_US_美国->🇨🇦_CA_加拿大_4_34
+  name: 17|🇺🇸_US_美国->🇨🇦_CA_加拿大_4_34
   network: ws
   port: 80
   server: 162.159.142.211
