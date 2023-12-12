@@ -8,7 +8,7 @@ proxies:
   servername: jp04.abpilot.xyz
   tls: true
   type: vmess
-  uuid: 97862905-d290-4667-88f5-2ff031050cad
+  uuid: 315a403b-7972-4f53-a7e4-475f5ea2b4cc
 - alterId: 0
   cipher: auto
   name: 9|🇯🇵日本05
@@ -18,7 +18,7 @@ proxies:
   servername: jp05.abpilot.xyz
   tls: true
   type: vmess
-  uuid: 97862905-d290-4667-88f5-2ff031050cad
+  uuid: 315a403b-7972-4f53-a7e4-475f5ea2b4cc
 - alterId: 0
   cipher: auto
   name: 9|🇯🇵日本06
@@ -28,26 +28,13 @@ proxies:
   servername: jp06.abpilot.xyz
   tls: true
   type: vmess
-  uuid: 97862905-d290-4667-88f5-2ff031050cad
+  uuid: 315a403b-7972-4f53-a7e4-475f5ea2b4cc
 - alterId: 0
   cipher: auto
-  name: 10|日本东京Amazon数据中心 19
+  name: 10|日本 东京Amazon数据中心
   network: ws
   port: '80'
   server: us1.c8898496-adb6-4073-9ee4-ff4e4984415b.polycdn.com
-  tls: false
-  type: vmess
-  uuid: 71d5d969-1c58-4bc9-b36c-111616f03c03
-  ws-opts:
-    headers:
-      Host: dl.delivery.mp.microsoft.com
-    path: /
-- alterId: 0
-  cipher: auto
-  name: '10|日本 东京Amazon数据中心 #1'
-  network: ws
-  port: '80'
-  server: hk1.c8898496-adb6-4073-9ee4-ff4e4984415b.polycdn.com
   tls: false
   type: vmess
   uuid: 71d5d969-1c58-4bc9-b36c-111616f03c03
@@ -140,7 +127,7 @@ proxies:
   servername: jp04.lovemc.xyz
   tls: true
   type: vmess
-  uuid: c29a6f1d-952c-4cf6-a039-5992f4e684f6
+  uuid: 75a631e5-f635-4cbd-bc57-e5a8431a084f
 - alterId: 0
   cipher: auto
   name: 13|【BGP】日本 05  | 1x JP
@@ -150,7 +137,7 @@ proxies:
   servername: jp05.lovemc.xyz
   tls: true
   type: vmess
-  uuid: c29a6f1d-952c-4cf6-a039-5992f4e684f6
+  uuid: 75a631e5-f635-4cbd-bc57-e5a8431a084f
 - alterId: 0
   cipher: auto
   name: 13|【BGP】日本 06  | 1x JP
@@ -160,7 +147,7 @@ proxies:
   servername: jp06.lovemc.xyz
   tls: true
   type: vmess
-  uuid: c29a6f1d-952c-4cf6-a039-5992f4e684f6
+  uuid: 75a631e5-f635-4cbd-bc57-e5a8431a084f
 - cipher: aes-128-gcm
   name: 14|🇯🇵 日本KT|@ripaojiedian
   password: g12sQi#ss#&1
