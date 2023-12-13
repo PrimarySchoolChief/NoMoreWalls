@@ -28,19 +28,6 @@ proxies:
     path: /
 - alterId: 0
   cipher: auto
-  name: 14|🇺🇸_US_美国->🇱🇺_LU_卢森堡_由快嘴科技提供：kk...
-  network: ws
-  port: 443
-  server: 56c5d2b1-575f-4718-ad37-4cb1fb0d44dc.asoul-ava.top
-  tls: true
-  type: vmess
-  uuid: 5f726fe3-d82e-4da5-a711-8af0cbb2b682
-  ws-opts:
-    headers:
-      Host: 56c5d2b1-575f-4718-ad37-4cb1fb0d44dc.asoul-ava.top
-    path: /azumase.ren
-- alterId: 0
-  cipher: auto
   name: 20|🇺🇸_US_美国->🇦🇺_AU_澳大利亚_35
   network: ws
   port: 443
