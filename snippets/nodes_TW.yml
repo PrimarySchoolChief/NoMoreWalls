@@ -1,7 +1,7 @@
 proxies:
 - alterId: 0
   cipher: auto
-  name: 10,11|github.com/freefq - 台湾省中华电信(Hi...
+  name: 10,11|github.com/freefq - 台湾省新北市中华电信...
   network: ws
   port: 443
   server: nb24.ntbq.dynu.net
@@ -28,6 +28,20 @@ proxies:
     path: /b37
 - alterId: 0
   cipher: auto
+  name: 11,12|TW-板桥1-1 - 麻雀加速器 Sparrow〖电报：@c...
+  network: ws
+  port: '443'
+  server: b11.ntbq.dynu.net
+  servername: ''
+  tls: true
+  type: vmess
+  uuid: 14327f86-7734-4d5b-9561-b58ad95cbcfb
+  ws-opts:
+    headers:
+      Host: b11.ntbq.dynu.net
+    path: /b11
+- alterId: 0
+  cipher: auto
   name: 12|-1252-TW【ccbaohe.com〗 永久免费节点机场
   network: ws
   port: 443
@@ -40,20 +54,6 @@ proxies:
     headers:
       Host: b23.ntbq.dynu.net
     path: /b23
-- alterId: 0
-  cipher: auto
-  name: 12|TW-板桥1-1 - 麻雀加速器 Sparrow〖电报：@c...
-  network: ws
-  port: '443'
-  server: b11.ntbq.dynu.net
-  servername: ''
-  tls: true
-  type: vmess
-  uuid: 14327f86-7734-4d5b-9561-b58ad95cbcfb
-  ws-opts:
-    headers:
-      Host: b11.ntbq.dynu.net
-    path: /b11
 - alterId: 0
   cipher: auto
   name: 12|TW-板桥2-2 - 麻雀加速器 Sparrow〖电报：@c...

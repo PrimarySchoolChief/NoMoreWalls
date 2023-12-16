@@ -59,19 +59,6 @@ proxies:
     path: /Shalana
 - alterId: 0
   cipher: auto
-  name: 12|🔒 VM-WS-NONE 🇸🇬 SG-146.190.108...
-  network: ws
-  port: 30976
-  server: 146.190.108.95
-  tls: false
-  type: vmess
-  uuid: d2a14469-8e8e-44da-8001-7864bd3f7121
-  ws-opts:
-    headers:
-      Host: m.licdn.com
-    path: /
-- alterId: 0
-  cipher: auto
   name: 12|🔒 VM-WS-NA 🇸🇬 SG-146.190.109.2...
   network: ws
   port: '50007'

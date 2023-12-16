@@ -190,7 +190,7 @@ proxies:
   uuid: a759293e-2c47-4a58-ab37-374fe8b42b99
 - alterId: 0
   cipher: auto
-  name: 10,12|美国new04（1x） - 快狗云〖电报：@ccbaohe】...
+  name: 10,11,12|美国new04（1x） - 快狗云〖电报：@ccbaohe】...
   network: ws
   port: '8080'
   server: us-new04.gujuji.top
@@ -225,7 +225,7 @@ proxies:
   uuid: 69510633-6acb-4291-a98e-0cdcc9bd5c51
 - alterId: 0
   cipher: auto
-  name: 10,11|github.com/freefq - 美国CloudFla...
+  name: '10,11|github.com/freefq - 美国CloudFla... #3'
   network: ws
   port: '2082'
   server: us-02.jikuai.xyz
@@ -304,6 +304,47 @@ proxies:
     headers:
       Host: eu4.openxai.link
     path: /
+- alterId: 0
+  cipher: auto
+  name: 11,12|🔒 VM-WS-NONE 🇸🇬 SG-146.190.108...
+  network: ws
+  port: 30976
+  server: 146.190.108.95
+  tls: false
+  type: vmess
+  uuid: d2a14469-8e8e-44da-8001-7864bd3f7121
+  ws-opts:
+    headers:
+      Host: m.licdn.com
+    path: /
+- alterId: 0
+  cipher: chacha20-poly1305
+  name: 11,12|🔒 VM-WS-NA 🇨🇷 CR-190.93.246.11...
+  network: ws
+  port: '80'
+  server: 190.93.246.119
+  servername: ''
+  tls: false
+  type: vmess
+  uuid: b7fdc31a-3f0b-45f1-aa0e-d5d883ac5c4e
+  ws-opts:
+    headers:
+      Host: m.iranspeed.shop
+    path: /QUeMEWutZAndOVVMwhRJqh28
+- alterId: 0
+  cipher: auto
+  name: 11,12|🟪12@oneclickvpnkeys
+  network: ws
+  port: '2083'
+  server: amini2.ddns.net
+  servername: PAneljadid.mookoMEilz.homes
+  tls: true
+  type: vmess
+  uuid: 9e9b80f1-5555-4f7d-a209-d23b9d9dc047
+  ws-opts:
+    headers:
+      Host: PAneljadid.mookoMEilz.homes
+    path: /snsk
 - alterId: 0
   cipher: auto
   name: 12|🔒 VM-WS-TLS 🇺🇸 US-172.67.70.14...
@@ -485,7 +526,7 @@ proxies:
   server: gdct003.jcnode.top
   tls: false
   type: vmess
-  uuid: 96165a00-4619-4173-b0cf-f6d495efa0f3
+  uuid: b6fd178f-6cab-4344-861a-33ed102b7996
   ws-opts:
     headers:
       Host: ''
@@ -498,7 +539,7 @@ proxies:
   server: gdct002.jcnode.top
   tls: false
   type: vmess
-  uuid: 96165a00-4619-4173-b0cf-f6d495efa0f3
+  uuid: b6fd178f-6cab-4344-861a-33ed102b7996
   ws-opts:
     headers:
       Host: ''
@@ -511,7 +552,7 @@ proxies:
   server: gdct001.jcnode.top
   tls: false
   type: vmess
-  uuid: 96165a00-4619-4173-b0cf-f6d495efa0f3
+  uuid: b6fd178f-6cab-4344-861a-33ed102b7996
   ws-opts:
     headers:
       Host: ''
@@ -524,7 +565,7 @@ proxies:
   server: gdct003.jcnode.top
   tls: false
   type: vmess
-  uuid: 96165a00-4619-4173-b0cf-f6d495efa0f3
+  uuid: b6fd178f-6cab-4344-861a-33ed102b7996
   ws-opts:
     headers:
       Host: ''
@@ -537,7 +578,7 @@ proxies:
   server: gdct002.jcnode.top
   tls: false
   type: vmess
-  uuid: 96165a00-4619-4173-b0cf-f6d495efa0f3
+  uuid: b6fd178f-6cab-4344-861a-33ed102b7996
   ws-opts:
     headers:
       Host: ''
@@ -550,7 +591,7 @@ proxies:
   server: gdct001.jcnode.top
   tls: false
   type: vmess
-  uuid: 96165a00-4619-4173-b0cf-f6d495efa0f3
+  uuid: b6fd178f-6cab-4344-861a-33ed102b7996
   ws-opts:
     headers:
       Host: ''
