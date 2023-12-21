@@ -1,7 +1,7 @@
 proxies:
 - alterId: 64
   cipher: auto
-  name: 1,2,4,12,18|🇨🇦_CA_加拿大_4
+  name: 1,2,4,12,17|🇨🇦_CA_加拿大_4
   network: ws
   port: 443
   server: 142.171.202.130
@@ -21,7 +21,7 @@ proxies:
   servername: ca04.abpilot.xyz
   tls: true
   type: vmess
-  uuid: 20631aad-badb-4b21-b994-76e40703eebc
+  uuid: 53d60ed2-954b-4be4-9345-9d94aa3c1a8d
 - alterId: 0
   cipher: auto
   name: 12|加拿大 170
@@ -50,20 +50,6 @@ proxies:
     headers:
       Host: v118a.ai88888.top
     path: /526-dekDP6Otf
-- alterId: 0
-  cipher: auto
-  name: 12|加拿大 209
-  network: ws
-  port: 2086
-  server: 172.67.229.34
-  servername: ''
-  tls: false
-  type: vmess
-  uuid: 58fe1542-5290-40ad-815a-77707a81afe5
-  ws-opts:
-    headers:
-      Host: ca6.tehme100.fun
-    path: /IOebhLMhl1CTbFHbL95myfRX2
 - alterId: 0
   cipher: auto
   name: 12|加拿大 187
@@ -191,4 +177,4 @@ proxies:
   servername: ca04.lovemc.xyz
   tls: true
   type: vmess
-  uuid: 1536bbd0-d5ac-49bc-9018-453b94486381
+  uuid: 6c20a232-b0de-4e59-b7db-06aa2fcc93c8
