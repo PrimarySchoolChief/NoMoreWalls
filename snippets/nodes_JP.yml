@@ -8,7 +8,7 @@ proxies:
   servername: jp04.abpilot.xyz
   tls: true
   type: vmess
-  uuid: cd542806-3710-4e5a-a9b9-4152532491a6
+  uuid: 042b0705-52be-4730-a15b-5ae09f790bd2
 - alterId: 0
   cipher: auto
   name: 9|🇯🇵日本05
@@ -18,7 +18,7 @@ proxies:
   servername: jp05.abpilot.xyz
   tls: true
   type: vmess
-  uuid: cd542806-3710-4e5a-a9b9-4152532491a6
+  uuid: 042b0705-52be-4730-a15b-5ae09f790bd2
 - alterId: 0
   cipher: auto
   name: 9|🇯🇵日本06
@@ -28,17 +28,7 @@ proxies:
   servername: jp06.abpilot.xyz
   tls: true
   type: vmess
-  uuid: cd542806-3710-4e5a-a9b9-4152532491a6
-- alterId: 0
-  cipher: auto
-  name: 10|日本 东京Linode数据中心
-  network: tcp
-  port: '36173'
-  server: 172.105.226.166
-  servername: ''
-  tls: false
-  type: vmess
-  uuid: 5de808d1-b707-462c-83f3-68739504ad70
+  uuid: 042b0705-52be-4730-a15b-5ae09f790bd2
 - alterId: 0
   cipher: auto
   name: 12|🇯🇵日本6丨电报群@bp520
@@ -107,19 +97,6 @@ proxies:
   uuid: 1f57a1cc-d395-4bde-bfcf-f62a8a4f9559
 - alterId: 0
   cipher: auto
-  name: 12|🇯🇵日本3丨电报群@bp520
-  network: ws
-  port: '80'
-  server: 162.159.142.233
-  tls: false
-  type: vmess
-  uuid: a5e17ba4-db0b-4096-b051-6160b4930f58
-  ws-opts:
-    headers:
-      Host: jp3.889611.com
-    path: /
-- alterId: 0
-  cipher: auto
   name: 12|🇯🇵日本1丨电报群@bp520
   network: ws
   port: '80'
@@ -173,7 +150,7 @@ proxies:
   servername: jp04.lovemc.xyz
   tls: true
   type: vmess
-  uuid: 44621b6a-9ad3-42cf-b8c3-e2f398947256
+  uuid: a5409af9-3454-4b28-81f9-1fabf1796a56
 - alterId: 0
   cipher: auto
   name: 13|【BGP】日本 05  | 1x JP
@@ -183,7 +160,7 @@ proxies:
   servername: jp05.lovemc.xyz
   tls: true
   type: vmess
-  uuid: 44621b6a-9ad3-42cf-b8c3-e2f398947256
+  uuid: a5409af9-3454-4b28-81f9-1fabf1796a56
 - alterId: 0
   cipher: auto
   name: 13|【BGP】日本 06  | 1x JP
@@ -193,7 +170,7 @@ proxies:
   servername: jp06.lovemc.xyz
   tls: true
   type: vmess
-  uuid: 44621b6a-9ad3-42cf-b8c3-e2f398947256
+  uuid: a5409af9-3454-4b28-81f9-1fabf1796a56
 - cipher: aes-128-gcm
   client-fingerprint: chrome
   name: 14|🇯🇵 日本KT|@ripaojiedian
