@@ -41,7 +41,7 @@ proxies:
     path: /path/1702650992491
 - alterId: 64
   cipher: auto
-  name: 1,10,11|github.com/freefq - 加拿大  8
+  name: 1,10,11|github.com/freefq - 加拿大  15
   network: ws
   port: 443
   server: 142.171.122.68
@@ -63,7 +63,7 @@ proxies:
   servername: ca04.abpilot.xyz
   tls: true
   type: vmess
-  uuid: e0cce370-bed9-4c3c-a372-674755c9d5f8
+  uuid: 987b9603-6e37-4637-8290-7aa68b2556d5
 - alterId: 0
   cipher: auto
   name: 12|加拿大 349
@@ -135,4 +135,4 @@ proxies:
   servername: ca04.lovemc.xyz
   tls: true
   type: vmess
-  uuid: 52ba407d-85e7-42ae-8e78-20518ec82f61
+  uuid: 379208b2-e375-445e-9b5f-d43a3776cf93
