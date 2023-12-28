@@ -27,7 +27,7 @@ proxies:
     path: /
 - alterId: 0
   cipher: auto
-  name: 10,11|github.com/freefq - 广东省广州市移动 3...
+  name: 10,11,17|🇨🇳_CN_中国->🇺🇸_US_美国_由快嘴科技提供：kkz...
   network: ws
   port: 25257
   server: us2.awslcn.info
@@ -136,7 +136,30 @@ proxies:
   uuid: cc58cbdc-c36f-42f4-9254-8f4fc564246b
 - alterId: 0
   cipher: auto
-  name: 11|github.com/freefq - 广东省广州市移动 4...
+  name: 11,12|麦块云-新加坡03
+  network: tcp
+  port: '44606'
+  server: zz101.maikcloud.com
+  tls: false
+  type: vmess
+  uuid: d81a4bd4-ba86-49ad-b6bd-6d57e6b07577
+- alterId: 0
+  cipher: auto
+  name: 11,12|speednode_0125
+  network: ws
+  port: 32205
+  server: free-relay.themars.top
+  servername: ''
+  tls: false
+  type: vmess
+  uuid: 4b05ea31-f4bd-44a7-873f-94ebbe1ee941
+  ws-opts:
+    headers:
+      Host: www.cctv.com
+    path: /cctv1.m3u8
+- alterId: 0
+  cipher: auto
+  name: '11|github.com/freefq - 广东省广州市移动 7... #1'
   network: ws
   port: '25286'
   server: cm1.awslcn.info
