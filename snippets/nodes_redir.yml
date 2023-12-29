@@ -1,16 +1,51 @@
 proxies:
 - alterId: 0
   cipher: auto
-  name: 0|🇺🇸 _US_美国->🇫🇷_FR_法国
-  network: ws
-  port: '2082'
-  server: fr-01.jikuai.xyz
+  name: 0|🇩🇪 _FI_芬兰->🇩🇪_DE_德国
+  network: tcp
+  port: '809'
+  server: phvray.purplrose.ir
   tls: false
   type: vmess
-  uuid: 70666776-4e9f-4350-b3f0-afaff6a70db0
+  uuid: 1e4b4ad6-d778-4933-8640-64264b32d0ab
+- alterId: 0
+  cipher: auto
+  name: 0|🇵🇰 _CN_中国->🇵🇰_PK_巴基斯坦
+  network: ws
+  port: '64002'
+  server: 112.26.46.141
+  tls: false
+  type: vmess
+  uuid: e3abb42a-5fff-3ad9-ba7b-1900b9ef43ab
   ws-opts:
     headers:
-      Host: fr-01.jikuai.xyz
+      Host: cache-hk-1.cn-db.top
+    path: /db00
+- alterId: 0
+  cipher: auto
+  name: '0|🇵🇰 _CN_中国->🇵🇰_PK_巴基斯坦 #1'
+  network: ws
+  port: '61001'
+  server: 112.26.46.141
+  tls: false
+  type: vmess
+  uuid: e3abb42a-5fff-3ad9-ba7b-1900b9ef43ab
+  ws-opts:
+    headers:
+      Host: cache-hk-2.cn-db.top
+    path: /db00
+- alterId: 0
+  cipher: auto
+  name: 0|🇺🇸 _US_美国->🇩🇪_DE_德国
+  network: ws
+  port: '80'
+  server: Node.Vazhegan.shop
+  tls: false
+  type: vmess
+  uuid: 2ba4548e-7abf-4305-bc7a-29c79ec80121
+  ws-opts:
+    headers:
+      Host: CDN.Vazhegan.shop
     path: /
 - alterId: 0
   cipher: auto
@@ -109,7 +144,7 @@ proxies:
     path: /
 - alterId: 0
   cipher: auto
-  name: 2,3,4,10,11|github.com/freefq - 湖南省联通 27
+  name: 2,3,4,10,11|github.com/freefq - 湖南省联通 24
   network: ws
   port: '16626'
   server: yes.cnmjcn.net
@@ -122,7 +157,7 @@ proxies:
     path: /
 - alterId: 0
   cipher: auto
-  name: 17|🇨🇳_CN_中国->🇲🇽_MX_墨西哥_由快嘴科技提供：kk...
+  name: 18|🇨🇳_CN_中国->🇲🇽_MX_墨西哥_由快嘴科技提供：kk...
   network: ws
   port: 25284
   server: cu.awslcn.info
@@ -135,7 +170,7 @@ proxies:
     path: /
 - alterId: 0
   cipher: auto
-  name: 17|🇭🇰_HK_香港->🇱🇺_LU_卢森堡_29
+  name: 18|🇭🇰_HK_香港->🇱🇺_LU_卢森堡_29
   network: ws
   port: 80
   server: 154.194.2.28
@@ -148,7 +183,7 @@ proxies:
     path: /0ece175a
 - alterId: 0
   cipher: auto
-  name: 17|🇨🇳_CN_中国->🇷🇺_RU_俄罗斯联邦_37
+  name: 18|🇨🇳_CN_中国->🇷🇺_RU_俄罗斯联邦_37
   network: ws
   port: 25230
   server: cm1.awslcn.info
