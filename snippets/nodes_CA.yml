@@ -1,7 +1,7 @@
 proxies:
 - alterId: 64
   cipher: auto
-  name: 0,2,3,4,10,11,12,18|🇨🇦_CA_加拿大_由快嘴科技提供：kkzui.com_1
+  name: 0,2,3,4,10,11,12,17|🇨🇦_CA_加拿大_由快嘴科技提供：kkzui.com_1
   network: ws
   port: 443
   server: 142.171.202.130
@@ -14,7 +14,7 @@ proxies:
     path: /path/1702650992491
 - alterId: 0
   cipher: auto
-  name: 1,2,3,4,6,10,11,18|🇨🇦_CA_加拿大_2_9
+  name: 1,2,3,4,6,10,11,17|🇨🇦_CA_加拿大_2_9
   network: ws
   port: 38767
   server: 45.138.70.247
@@ -47,7 +47,7 @@ proxies:
   servername: ca04.abpilot.xyz
   tls: true
   type: vmess
-  uuid: 7be255ef-efab-4521-a0f1-b2d9dc0b2476
+  uuid: 596e0278-9fc6-4c97-81ff-f5b7ef416dfb
 - alterId: 0
   cipher: auto
   name: 12|🔒 VM-TCP-NA 🇨🇦 CA-198.57.27.21...
@@ -165,4 +165,4 @@ proxies:
   servername: ca04.lovemc.xyz
   tls: true
   type: vmess
-  uuid: ee55803e-855a-4cb6-b5b6-10dad106a3d7
+  uuid: 4ba4f55e-0880-4ba4-923c-84aea3343979
