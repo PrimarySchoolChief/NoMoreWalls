@@ -1,30 +1,4 @@
 proxies:
-- alterId: 0
-  cipher: auto
-  name: 0|🇺🇸 _US_美国->🇫🇷_FR_法国
-  network: ws
-  port: '80'
-  server: fr1e-unmetered.v2freevpn.com
-  tls: false
-  type: vmess
-  uuid: 2a8a10fb-9ca3-367e-a234-cf09f841be4f
-  ws-opts:
-    headers:
-      Host: fr1e-unmetered.v2freevpn.com
-    path: /v133PDXkklxLEcOvD
-- alterId: 0
-  cipher: auto
-  name: 0|🇺🇸 _US_美国->🇩🇪_DE_德国
-  network: ws
-  port: '8080'
-  server: zula.ir
-  tls: false
-  type: vmess
-  uuid: 7b9c828a-27fe-4d61-9174-c138fce3da09
-  ws-opts:
-    headers:
-      Host: free.seyyedmt.shop
-    path: /Telegram:@SeyyedMT-Telegram:@SeyyedMT-Telegram:@SeyyedMT-Telegram:@SeyyedMT-Telegram:@SeyyedMT-Telegram:@SeyyedMT-Telegram:@SeyyedMT-Telegram:@SeyyedMT
 - name: 1|_GI_->_GB_
   network: tcp
   password: 299a6171-b4ce-403a-8157-c3dad55ef3a2
@@ -57,7 +31,7 @@ proxies:
     path: /
 - alterId: 64
   cipher: auto
-  name: 18|🇨🇳_CN_中国->🇩🇪_DE_德国_44
+  name: 17|🇨🇳_CN_中国->🇩🇪_DE_德国_44
   network: ''
   port: 52707
   server: 183.237.20.149
@@ -66,7 +40,7 @@ proxies:
   uuid: 418048af-a293-4b99-9b0c-98ca3580dd24
 - alterId: 0
   cipher: auto
-  name: 18|🇬🇧_GB_英国->🇺🇸_US_美国_45
+  name: 17|🇬🇧_GB_英国->🇺🇸_US_美国_45
   network: ws
   port: 443
   server: 18.openiisee.monster
