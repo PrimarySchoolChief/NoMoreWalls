@@ -8,7 +8,7 @@ proxies:
   servername: sg04.abpilot.xyz
   tls: true
   type: vmess
-  uuid: 8a7d86aa-c14b-4d6d-9bf5-06899a57c26c
+  uuid: b75468c0-a5e7-46d3-b5d1-d40ca72d1511
 - alterId: 0
   cipher: auto
   name: 9|🇸🇬新加坡05
@@ -18,7 +18,7 @@ proxies:
   servername: sg05.abpilot.xyz
   tls: true
   type: vmess
-  uuid: 8a7d86aa-c14b-4d6d-9bf5-06899a57c26c
+  uuid: b75468c0-a5e7-46d3-b5d1-d40ca72d1511
 - alterId: 0
   cipher: auto
   name: 9|🇸🇬新加坡06
@@ -28,7 +28,20 @@ proxies:
   servername: sg06.abpilot.xyz
   tls: true
   type: vmess
-  uuid: 8a7d86aa-c14b-4d6d-9bf5-06899a57c26c
+  uuid: b75468c0-a5e7-46d3-b5d1-d40ca72d1511
+- alterId: 0
+  cipher: auto
+  name: 10|新加坡 DigitalOcean数据中心
+  network: ws
+  port: 80
+  server: sing1.ht4gvpn.com
+  tls: false
+  type: vmess
+  uuid: 2b69324d-5fe2-48c2-923f-049c3093cd56
+  ws-opts:
+    headers:
+      Host: lienquan.garena.vn
+    path: /ht4gvpn.com
 - alterId: 0
   cipher: auto
   name: 12|新加坡 - 新加坡 - HotRoute - 66
@@ -204,7 +217,7 @@ proxies:
   servername: sg04.lovemc.xyz
   tls: true
   type: vmess
-  uuid: 5c4f5f2a-3427-4199-9928-e3f59e550b99
+  uuid: 42bafa55-9b73-4c1a-bb83-9ef500fbdbd2
 - alterId: 0
   cipher: auto
   name: 13|【BGP】新加坡 05 | 1x SG
@@ -214,7 +227,7 @@ proxies:
   servername: sg05.lovemc.xyz
   tls: true
   type: vmess
-  uuid: 5c4f5f2a-3427-4199-9928-e3f59e550b99
+  uuid: 42bafa55-9b73-4c1a-bb83-9ef500fbdbd2
 - alterId: 0
   cipher: auto
   name: 13|【BGP】新加坡 06 | 1x SG
@@ -224,7 +237,7 @@ proxies:
   servername: sg06.lovemc.xyz
   tls: true
   type: vmess
-  uuid: 5c4f5f2a-3427-4199-9928-e3f59e550b99
+  uuid: 42bafa55-9b73-4c1a-bb83-9ef500fbdbd2
 - cipher: chacha20-ietf
   client-fingerprint: chrome
   name: 14|🇸🇬 狮城R|@ripaojiedian
