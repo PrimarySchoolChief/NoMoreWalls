@@ -1,10 +1,11 @@
 proxies:
 - alterId: 0
   cipher: auto
-  name: '0,2,3,4,6,13,17|🇺🇸_US_美国->🇩🇪_DE_德国 #11'
+  name: 0,2,3,4,11|加拿大 324
   network: ws
   port: 2083
   server: 2bbiozh7wbc.servecounterstrike.com
+  servername: ''
   tls: true
   type: vmess
   uuid: 9e9b80f1-5555-4f7d-a209-d23b9d9dc047
@@ -14,7 +15,7 @@ proxies:
     path: /snsk
 - alterId: 0
   cipher: auto
-  name: '0,7,11,12,13|🇺🇸_US_美国->🇺🇦_UA_乌克兰 #1'
+  name: 0,9,10,11|🇺🇸_US_美国->🇺🇦_UA_乌克兰
   network: ws
   port: 80
   server: 104.17.2.183
@@ -28,7 +29,7 @@ proxies:
     path: /
 - alterId: 0
   cipher: auto
-  name: 0,7,11|美国CloudFlare节点 31
+  name: 0,9|美国CloudFlare节点 31
   network: ws
   port: 8080
   server: cover.mac2win.top
@@ -42,7 +43,7 @@ proxies:
     path: /
 - alterId: 0
   cipher: auto
-  name: '0,2,3,4,6,13,17|🇺🇸_US_美国->🇩🇪_DE_德国 #10'
+  name: '0,2,3,4,11|🇺🇸_US_美国->🇩🇪_DE_德国 #6'
   network: ws
   port: 2083
   server: 104.19.154.92
@@ -97,7 +98,7 @@ proxies:
     path: /snsk
 - alterId: 0
   cipher: auto
-  name: '2,3,4,6,11,17|🇺🇸_US_美国->🇬🇧_GB_英国 #4'
+  name: '2,3,4,9|美国 CloudFlare节点 #6'
   network: ws
   port: 80
   server: 104.17.110.63
