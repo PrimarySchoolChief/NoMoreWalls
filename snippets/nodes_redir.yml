@@ -29,11 +29,10 @@ proxies:
     path: /
 - alterId: 0
   cipher: auto
-  name: 0,9|美国CloudFlare节点 31
+  name: '0,9|美国 CloudFlare节点 #14'
   network: ws
   port: 8080
   server: cover.mac2win.top
-  servername: ''
   tls: false
   type: vmess
   uuid: 54d4d640-731c-4572-d0d4-e8a617816470
@@ -98,7 +97,7 @@ proxies:
     path: /snsk
 - alterId: 0
   cipher: auto
-  name: '2,3,4,9|美国 CloudFlare节点 #6'
+  name: '2,3,4|🇺🇸_US_美国->🇬🇧_GB_英国 #2'
   network: ws
   port: 80
   server: 104.17.110.63
