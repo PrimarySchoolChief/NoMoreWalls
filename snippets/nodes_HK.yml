@@ -1,7 +1,33 @@
 proxies:
 - alterId: 0
   cipher: auto
-  name: 11|🔒 VM-TCP-NA 🇭🇰 HK-34.92.50.99:...
+  name: 13|香港vmess⑤
+  network: ws
+  port: '2052'
+  server: kkyx.yydsii.com
+  tls: false
+  type: vmess
+  uuid: 2b0c5996-216f-4933-9aed-92458ff4988f
+  ws-opts:
+    headers:
+      Host: oiichk.yydsii.com
+    path: /
+- alterId: 0
+  cipher: auto
+  name: 13|香港vmess①
+  network: ws
+  port: '2052'
+  server: zfc.windowsupdate1.com
+  tls: false
+  type: vmess
+  uuid: 2b0c5996-216f-4933-9aed-92458ff4988f
+  ws-opts:
+    headers:
+      Host: oiichk.yydsii.com
+    path: /
+- alterId: 0
+  cipher: auto
+  name: 13|🔒 VM-TCP-NA 🇭🇰 HK-34.92.50.99:...
   network: tcp
   port: '26389'
   server: 34.92.50.99
@@ -9,8 +35,34 @@ proxies:
   tls: false
   type: vmess
   uuid: 3415f6ed-0880-43bb-85aa-d6c064cc968c
+- alterId: 0
+  cipher: auto
+  name: 13|香港vmess③
+  network: ws
+  port: '2052'
+  server: scadn.yydsii.com
+  tls: false
+  type: vmess
+  uuid: 2b0c5996-216f-4933-9aed-92458ff4988f
+  ws-opts:
+    headers:
+      Host: oiichk.yydsii.com
+    path: /
+- alterId: 0
+  cipher: auto
+  name: 13|香港vmess②
+  network: ws
+  port: '2052'
+  server: v4.cfnode.eu.org
+  tls: false
+  type: vmess
+  uuid: 2b0c5996-216f-4933-9aed-92458ff4988f
+  ws-opts:
+    headers:
+      Host: oiichk.yydsii.com
+    path: /
 - cipher: aes-128-gcm
-  name: 13|🇭🇰 香港KT|@ripaojiedian
+  name: 15|🇭🇰 香港KT|@ripaojiedian
   password: a-wym4ovY4Yw
   plugin: v2ray-plugin
   plugin-opts:
@@ -24,7 +76,7 @@ proxies:
   server: 1.65.139.54
   type: ss
 - cipher: aes-128-gcm
-  name: 13|🇭🇰 香港KT2|@ripaojiedian
+  name: 15|🇭🇰 香港KT2|@ripaojiedian
   password: a-wym4ovY4Yw
   plugin: obfs
   plugin-opts:
@@ -35,7 +87,7 @@ proxies:
   type: ss
 - alterId: 1
   cipher: auto
-  name: 13|🇯🇵 日本2|@ripaojiedian
+  name: 15|🇯🇵 日本2|@ripaojiedian
   password: 1bc5547d-59d2-45c7-8eec-b7d92cad8a43
   port: 21581
   server: jp03-alt-vm0.entry.srthdw.art
@@ -46,7 +98,7 @@ proxies:
   uuid: fa15e11b-8828-3276-b845-2811aa169f3a
 - alterId: 64
   cipher: auto
-  name: 14|香港|@ripaojiedian
+  name: 16|香港|@ripaojiedian
   network: tcp
   port: '53942'
   server: 183.240.232.93
@@ -56,7 +108,7 @@ proxies:
   uuid: 418048af-a293-4b99-9b0c-98ca3580dd24
 - alterId: 64
   cipher: auto
-  name: 14|香港2|@ripaojiedian
+  name: 16|香港2|@ripaojiedian
   network: tcp
   port: '53300'
   server: 112.28.208.11
