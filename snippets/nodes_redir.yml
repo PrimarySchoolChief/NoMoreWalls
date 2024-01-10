@@ -14,9 +14,9 @@ proxies:
     path: /
 - alterId: 0
   cipher: auto
-  name: 0,12,13|🇺🇸|US|美国|@wxgqlfx|26
+  name: '0,12|github.com/freefq - 美国CloudFla... #8'
   network: ws
-  port: 80
+  port: '80'
   server: cname.volcengine.eu.org
   tls: false
   type: vmess
@@ -54,7 +54,7 @@ proxies:
     path: /
 - alterId: 0
   cipher: auto
-  name: '2,3,4,6,7,11,17|🇺🇸 _US_美国->🇺🇦_UA_乌克兰 #2'
+  name: '2,3,4,6,7,11,12,17|🇺🇸 _US_美国->🇺🇦_UA_乌克兰 #2'
   network: ws
   port: '80'
   server: 104.17.2.183
