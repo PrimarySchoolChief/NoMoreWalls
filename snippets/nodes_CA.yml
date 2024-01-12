@@ -8,7 +8,7 @@ proxies:
   servername: ca04.abpilot.xyz
   tls: true
   type: vmess
-  uuid: 084febeb-f5f1-45c0-a6b1-3c15bd316c4b
+  uuid: a4de1137-2542-4864-9591-bfee0561c0ee
 - alterId: 0
   cipher: auto
   name: 13|🇨🇦加拿大4丨电报群@bp520
@@ -44,4 +44,4 @@ proxies:
   servername: ca04.lovemc.xyz
   tls: true
   type: vmess
-  uuid: bc041dee-9fb1-4397-baf7-23b0b7fecb0c
+  uuid: 5a4d9c9f-3539-467f-b5d8-101e113bccf4
