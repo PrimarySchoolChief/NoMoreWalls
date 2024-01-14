@@ -36,7 +36,21 @@ proxies:
   servername: ca04.abpilot.xyz
   tls: true
   type: vmess
-  uuid: 06f6a640-5456-4683-a15d-cc3ffa439907
+  uuid: 885b46c6-96fd-4340-afb4-db29da0cda80
+- alterId: 0
+  cipher: auto
+  name: '13|Channel id: @ShadowProxy66🇨🇦'
+  network: ws
+  port: '443'
+  server: adenc35.fixedlfoat.top
+  servername: adenc35.fixedlfoat.top
+  tls: true
+  type: vmess
+  uuid: 45f63e92-f782-4cac-84b8-e61cb5a5bfd0
+  ws-opts:
+    headers:
+      Host: adenc35.fixedlfoat.top
+    path: /linkws
 - alterId: 0
   cipher: auto
   name: 14|【BGP】加拿大 02 | 1x CA
@@ -46,4 +60,4 @@ proxies:
   servername: ca04.lovemc.xyz
   tls: true
   type: vmess
-  uuid: 35ebe52a-0d60-4728-84ad-3d3e02b0e66c
+  uuid: 76afc743-a8f7-4e7f-9220-4d3adfed57df
