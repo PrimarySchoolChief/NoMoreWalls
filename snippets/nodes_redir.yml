@@ -28,7 +28,7 @@ proxies:
     path: /
 - alterId: 0
   cipher: auto
-  name: '0,3,4,6,7,11,12,17|🇹🇷 _LY_利比亚->🇹🇷_TR_土耳其 #4'
+  name: '0,3,4,6,7,11,17|🇹🇷 _LY_利比亚->🇹🇷_TR_土耳其 #4'
   network: ws
   port: '80'
   server: 197.215.140.234
@@ -67,7 +67,7 @@ proxies:
     path: /
 - alterId: 0
   cipher: auto
-  name: '0,3,4,6,7,11,13,17|🇮🇱 _IL_以色列->🇳🇱_NL_荷兰 #2'
+  name: '0,3,4,6,7,11,17|🇮🇱 _IL_以色列->🇳🇱_NL_荷兰 #2'
   network: ws
   port: '80'
   server: 5.188.94.5
@@ -306,7 +306,7 @@ proxies:
     path: /@forwardv2ray
 - alterId: 0
   cipher: auto
-  name: 7,11,12|github.com/freefq - 伊拉克  19
+  name: 7,11|伊拉克  22
   network: ws
   port: 80
   server: 130.193.166.2
