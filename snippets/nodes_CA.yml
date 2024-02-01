@@ -12,7 +12,7 @@ proxies:
   uuid: 7de8d7aa-ae4a-4d75-82f4-2e8b46fc0290
 - alterId: 0
   cipher: auto
-  name: '7|🇨🇦_CA_加拿大 #2'
+  name: '7,13|🇨🇦_CA_加拿大 #3'
   network: tcp
   port: 18657
   server: 108.181.5.18
@@ -28,7 +28,7 @@ proxies:
   servername: ca04.abpilot.xyz
   tls: true
   type: vmess
-  uuid: f54902aa-8984-41a5-a5f6-17459a4575dd
+  uuid: e3d7d5e9-7c33-4e54-9d99-35db3fa681a8
 - alterId: 0
   cipher: auto
   name: '13|Channel id: @ShadowProxy66🇨🇦'
@@ -52,4 +52,4 @@ proxies:
   servername: ca04.lovemc.xyz
   tls: true
   type: vmess
-  uuid: 9be92dab-50f3-4ea7-a5f2-97862cd8560b
+  uuid: 56e71832-98e6-4a54-ac24-9f3b5920f482
