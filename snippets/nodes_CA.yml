@@ -8,7 +8,7 @@ proxies:
   servername: ca04.abpilot.xyz
   tls: true
   type: vmess
-  uuid: db8d9e6b-001e-4260-b5ce-dc232601dccb
+  uuid: 547c382c-203d-4931-ab41-c2a0633f2b03
 - alterId: 0
   cipher: auto
   name: 13|🔒 VM-TCP-NA 🇨🇦 CA-198.57.27.21...
@@ -21,6 +21,37 @@ proxies:
   uuid: 04621bae-ab36-11ec-b909-0242ac120002
 - alterId: 0
   cipher: auto
+  client-fingerprint: chrome
+  name: 13,15,16|韩国2|@ripaojiedian
+  network: ws
+  port: '80'
+  server: ip.sb
+  servername: ''
+  skip-cert-verify: false
+  tfo: false
+  tls: false
+  type: vmess
+  uuid: 113a74cc-f13b-48ec-bbb2-2bbab77a2f35
+  ws-opts:
+    headers:
+      Host: kr1.ljyyds.top
+    path: /
+- alterId: 0
+  cipher: auto
+  name: 13|加拿大 021
+  network: ws
+  port: 443
+  server: icook.hk
+  servername: ''
+  tls: true
+  type: vmess
+  uuid: 475e3bfc-cb14-47fd-b6b8-a6c2d27ea259
+  ws-opts:
+    headers:
+      Host: gdsgrenderwestgsg.nihaoaaaa.tk
+    path: /vmess?ed=2048
+- alterId: 0
+  cipher: auto
   name: 14|【BGP】加拿大 02 | 1x CA
   network: tcp
   port: '31701'
@@ -28,4 +59,4 @@ proxies:
   servername: ca04.lovemc.xyz
   tls: true
   type: vmess
-  uuid: 8e4ed0ba-c3f1-419e-b8b5-dc8e1e03a5d5
+  uuid: 7212b24a-e349-4339-9c55-ee246f597531
