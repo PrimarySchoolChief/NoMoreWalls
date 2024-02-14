@@ -8,7 +8,7 @@ proxies:
   servername: sg04.abpilot.xyz
   tls: true
   type: vmess
-  uuid: 8f685ab9-379e-4b12-a6c8-f01531ab94a8
+  uuid: fd5ce0db-7ec5-4c85-b209-2b7af8931fc5
 - alterId: 0
   cipher: auto
   name: 10|🇸🇬新加坡05
@@ -18,7 +18,7 @@ proxies:
   servername: sg05.abpilot.xyz
   tls: true
   type: vmess
-  uuid: 8f685ab9-379e-4b12-a6c8-f01531ab94a8
+  uuid: fd5ce0db-7ec5-4c85-b209-2b7af8931fc5
 - alterId: 0
   cipher: auto
   name: 10|🇸🇬新加坡06
@@ -28,7 +28,7 @@ proxies:
   servername: sg06.abpilot.xyz
   tls: true
   type: vmess
-  uuid: 8f685ab9-379e-4b12-a6c8-f01531ab94a8
+  uuid: fd5ce0db-7ec5-4c85-b209-2b7af8931fc5
 - alterId: 0
   cipher: auto
   name: 13|🔒 VM-WS-NONE 🇸🇬 SG-146.190.105...
