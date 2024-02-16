@@ -1,6 +1,19 @@
 proxies:
 - alterId: 0
   cipher: auto
+  name: '0,3,4,7,13,17|🇨🇦_CA_加拿大 #4'
+  network: ws
+  port: 80
+  server: tg-dns68.shift.cloudns.org
+  tls: false
+  type: vmess
+  uuid: 54133fe6-4578-48bc-ffb0-183ad760bd85
+  ws-opts:
+    headers:
+      Host: tg-dns68.shift.cloudns.org
+    path: /TG@dns68
+- alterId: 0
+  cipher: auto
   name: 1|_CA__1
   network: ws
   port: 80
@@ -24,19 +37,6 @@ proxies:
   udp: true
 - alterId: 0
   cipher: auto
-  name: '4,7,13|🇨🇦_CA_加拿大 #2'
-  network: ws
-  port: 80
-  server: tg-dns68.shift.cloudns.org
-  tls: false
-  type: vmess
-  uuid: 54133fe6-4578-48bc-ffb0-183ad760bd85
-  ws-opts:
-    headers:
-      Host: tg-dns68.shift.cloudns.org
-    path: /TG@dns68
-- alterId: 0
-  cipher: auto
   name: 10|🇨🇦加拿大04
   network: tcp
   port: '36701'
@@ -44,7 +44,7 @@ proxies:
   servername: ca04.abpilot.xyz
   tls: true
   type: vmess
-  uuid: f68ac888-013d-4406-90aa-93758a7c23ec
+  uuid: f8dfd54a-b9b8-409d-931c-87e704d182d4
 - alterId: 0
   cipher: auto
   name: 13|🔒 VM-TCP-NA 🇨🇦 CA-159.203.6.14...
