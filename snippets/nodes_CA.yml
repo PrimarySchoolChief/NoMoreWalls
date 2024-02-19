@@ -8,7 +8,7 @@ proxies:
   servername: ca04.abpilot.xyz
   tls: true
   type: vmess
-  uuid: b6032251-ac85-44fd-be82-1ad9c2bcc3a8
+  uuid: cc8c9f9e-1e10-42d6-aebf-952e2c19f857
 - alterId: 0
   cipher: auto
   name: 13|⚡️@DeamNet 🇨🇦Canada 27
@@ -224,4 +224,4 @@ proxies:
   servername: ca04.lovemc.xyz
   tls: true
   type: vmess
-  uuid: 47812801-4eb2-48d1-9593-f39cd401fcc0
+  uuid: a26b72ab-2a9c-4ec4-b376-0d813be0178c
