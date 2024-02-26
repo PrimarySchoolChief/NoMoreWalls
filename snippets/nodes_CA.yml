@@ -8,7 +8,7 @@ proxies:
   servername: ca04.abpilot.xyz
   tls: true
   type: vmess
-  uuid: 5add9205-9e25-48e0-9554-5cf2cf9171eb
+  uuid: b492107a-f886-4424-8ed2-403766a8cbb2
 - alterId: 0
   cipher: auto
   name: 13|加拿大 013
@@ -95,20 +95,6 @@ proxies:
     path: 9084653a-ee34-4293-979e-7c2b50dffb84-vm
 - alterId: 0
   cipher: auto
-  name: 13|加拿大 132
-  network: ws
-  port: 8080
-  server: 198.41.196.12
-  servername: ''
-  tls: false
-  type: vmess
-  uuid: e6b124d8-7a82-463d-b360-a3a3a19f7dc2
-  ws-opts:
-    headers:
-      Host: pcs-referenced-camera-concerns.trycloudflare.com
-    path: e6b124d8-7a82-463d-b360-a3a3a19f7dc2-vm
-- alterId: 0
-  cipher: auto
   name: 14|【BGP】加拿大 02 | 1x CA
   network: tcp
   port: '31701'
@@ -116,7 +102,7 @@ proxies:
   servername: ca04.lovemc.xyz
   tls: true
   type: vmess
-  uuid: 92f2747b-9fd1-4fbf-843a-5756c1ffbd78
+  uuid: 9a9b513b-051d-4d30-aaae-a74116820391
 - alterId: 0
   cipher: auto
   client-fingerprint: chrome
