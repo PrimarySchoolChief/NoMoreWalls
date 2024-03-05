@@ -8,7 +8,7 @@ proxies:
   servername: jp04.abpilot.xyz
   tls: true
   type: vmess
-  uuid: ffb411ac-3ffc-44df-9c7a-613011eb4b20
+  uuid: 77f01b3f-c1b6-4199-b43a-49f5fbfe9f9e
 - alterId: 0
   cipher: auto
   name: 10|🇯🇵日本05
@@ -18,7 +18,7 @@ proxies:
   servername: jp05.abpilot.xyz
   tls: true
   type: vmess
-  uuid: ffb411ac-3ffc-44df-9c7a-613011eb4b20
+  uuid: 77f01b3f-c1b6-4199-b43a-49f5fbfe9f9e
 - alterId: 0
   cipher: auto
   name: 10|🇯🇵日本06
@@ -28,21 +28,7 @@ proxies:
   servername: jp06.abpilot.xyz
   tls: true
   type: vmess
-  uuid: ffb411ac-3ffc-44df-9c7a-613011eb4b20
-- alterId: 0
-  cipher: auto
-  name: 13|【电报：@ccbaohe|免费机场节点 🇯🇵 日本 - 东京...
-  network: ws
-  port: '80'
-  server: jp01.beitai.online
-  servername: ''
-  tls: false
-  type: vmess
-  uuid: 6be9b3a4-3e67-4cf5-98dc-c643e3fa8626
-  ws-opts:
-    headers:
-      Host: jp01.beitai.online
-    path: /
+  uuid: 77f01b3f-c1b6-4199-b43a-49f5fbfe9f9e
 - alterId: 0
   cipher: auto
   name: 13|日本 002
@@ -66,7 +52,7 @@ proxies:
   servername: jp04.lovemc.xyz
   tls: true
   type: vmess
-  uuid: 5cba1158-cbfd-46b4-9902-afb6a0684a9e
+  uuid: 08683b56-1ace-4dd4-b1ac-97f15d679ab2
 - alterId: 0
   cipher: auto
   name: 14|【BGP】日本 05  | 1x JP
@@ -76,7 +62,7 @@ proxies:
   servername: jp05.lovemc.xyz
   tls: true
   type: vmess
-  uuid: 5cba1158-cbfd-46b4-9902-afb6a0684a9e
+  uuid: 08683b56-1ace-4dd4-b1ac-97f15d679ab2
 - alterId: 0
   cipher: auto
   name: 14|【BGP】日本 06  | 1x JP
@@ -86,7 +72,7 @@ proxies:
   servername: jp06.lovemc.xyz
   tls: true
   type: vmess
-  uuid: 5cba1158-cbfd-46b4-9902-afb6a0684a9e
+  uuid: 08683b56-1ace-4dd4-b1ac-97f15d679ab2
 - cipher: chacha20-ietf-poly1305
   client-fingerprint: chrome
   name: 15|🇯🇵 日本|@ripaojiedian
