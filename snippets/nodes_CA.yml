@@ -1,17 +1,30 @@
 proxies:
 - alterId: 0
   cipher: auto
-  name: 0,11|美国 CloudFlare公司CDN节点(shopify)
+  name: '0,3,4,7,17|🇨🇦_CA_加拿大 #3'
   network: ws
   port: 8080
   server: 23.227.38.23
-  servername: ''
   tls: false
   type: vmess
   uuid: 34c0bb5e-c120-432d-9c58-bd7d82c7397b
   ws-opts:
     headers:
       Host: uh-lawyers-instruments-kernel.trycloudflare.com
+    path: 34c0bb5e-c120-432d-9c58-bd7d82c7397b-vm
+- alterId: 0
+  cipher: auto
+  name: 1|_CA_
+  network: ws
+  port: 8080
+  server: 23.227.38.23
+  skip-cert-verify: true
+  tls: false
+  type: vmess
+  uuid: 34c0bb5e-c120-432d-9c58-bd7d82c7397b
+  ws-opts:
+    headers:
+      host: uh-lawyers-instruments-kernel.trycloudflare.com
     path: 34c0bb5e-c120-432d-9c58-bd7d82c7397b-vm
 - alterId: 0
   cipher: auto
@@ -22,7 +35,7 @@ proxies:
   servername: ca04.abpilot.xyz
   tls: true
   type: vmess
-  uuid: b6dab811-073d-434d-81a0-d61fa0a54df3
+  uuid: 51258066-6956-47df-a646-16951fcbe8b6
 - alterId: 0
   cipher: auto
   name: 13|🇨🇦 加拿大 022
@@ -295,4 +308,4 @@ proxies:
   servername: ca04.lovemc.xyz
   tls: true
   type: vmess
-  uuid: 18346387-abb6-4d39-b0bc-df70c104e739
+  uuid: 1fe8f2d3-e754-43ef-9af4-643f58a0f748
