@@ -94,10 +94,11 @@ proxies:
     path: /1IKYjV0r/
 - alterId: 0
   cipher: auto
-  name: '6,7|🇨🇦_CA_加拿大->🇺🇸_US_美国 #1'
+  name: 6,7,11|美国 CloudFlare公司CDN节点(shopify)
   network: ws
-  port: 8080
+  port: '8080'
   server: 23.227.38.23
+  servername: ''
   tls: false
   type: vmess
   uuid: 34c0bb5e-c120-432d-9c58-bd7d82c7397b
@@ -114,7 +115,7 @@ proxies:
   servername: ca04.abpilot.xyz
   tls: true
   type: vmess
-  uuid: 616c6e47-7753-4488-a118-b6763c87934e
+  uuid: 29208ed6-c2ac-4ebd-b545-34dbfe260cec
 - alterId: 0
   cipher: auto
   name: 13|加拿大 022
@@ -201,6 +202,19 @@ proxies:
     path: /linkiava
 - alterId: 0
   cipher: auto
+  name: 13|🇨🇦 加拿大 024
+  network: ws
+  port: '80'
+  server: beijing.mfa.ee
+  tls: false
+  type: vmess
+  uuid: 66ccb11f-75a7-4282-8a60-31fed447401d
+  ws-opts:
+    headers:
+      Host: open.alipay.ovh
+    path: /aries?ed=2048
+- alterId: 0
+  cipher: auto
   name: 14|【BGP】加拿大 02 | 1x CA
   network: tcp
   port: '31701'
@@ -208,4 +222,4 @@ proxies:
   servername: ca04.lovemc.xyz
   tls: true
   type: vmess
-  uuid: d547be9e-d3b4-451c-93c0-ce0aa339c31c
+  uuid: 2e2b85c2-8a82-491f-a879-e99d38571ebc
