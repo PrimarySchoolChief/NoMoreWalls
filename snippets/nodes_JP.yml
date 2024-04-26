@@ -220,7 +220,7 @@ proxies:
   servername: jp04.lovemc.xyz
   tls: true
   type: vmess
-  uuid: 2a8b0d05-36f1-43b7-bf75-929bbad24315
+  uuid: 24dfab23-8e07-4d55-be9a-bec877ad1b67
 - alterId: 0
   cipher: auto
   name: 14|【BGP】日本 05  | 1x JP
@@ -230,7 +230,7 @@ proxies:
   servername: jp05.lovemc.xyz
   tls: true
   type: vmess
-  uuid: 2a8b0d05-36f1-43b7-bf75-929bbad24315
+  uuid: 24dfab23-8e07-4d55-be9a-bec877ad1b67
 - alterId: 0
   cipher: auto
   name: 14|【BGP】日本 06  | 1x JP
@@ -240,7 +240,7 @@ proxies:
   servername: jp06.lovemc.xyz
   tls: true
   type: vmess
-  uuid: 2a8b0d05-36f1-43b7-bf75-929bbad24315
+  uuid: 24dfab23-8e07-4d55-be9a-bec877ad1b67
 - cipher: aes-256-cfb
   client-fingerprint: chrome
   name: 15|🇯🇵 日本特殊|@ripaojiedian
