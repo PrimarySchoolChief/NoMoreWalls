@@ -69,21 +69,7 @@ proxies:
   servername: ca04.abpilot.xyz
   tls: true
   type: vmess
-  uuid: b6032a85-0477-44ee-8ed0-4146e1294ba9
-- alterId: 0
-  cipher: auto
-  name: 11|加拿大 v2rayfree.eu.org
-  network: ws
-  port: 443
-  server: 158.51.123.111
-  servername: ''
-  tls: true
-  type: vmess
-  uuid: 03fcc618-b93d-6796-6aed-8a38c975d581
-  ws-opts:
-    headers:
-      Host: ''
-    path: /linkvws
+  uuid: 818a0e11-a3b9-43b9-bd49-ef7a27bfe21b
 - alterId: 0
   cipher: auto
   name: 13|加拿大 001
@@ -107,4 +93,4 @@ proxies:
   servername: ca04.lovemc.xyz
   tls: true
   type: vmess
-  uuid: 0504e3af-b117-4767-a377-bc00806ded7e
+  uuid: 6919fbb9-f79a-4b8a-8748-4a63baf030e6
