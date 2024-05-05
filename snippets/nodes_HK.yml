@@ -68,7 +68,7 @@ proxies:
   port: 46001
   server: 183.232.199.28
   skip-cert-verify: false
-  sni: sk01.trojanyyds.xyz
+  sni: 5gzdx.233235.xyz
   tfo: false
   tls: false
   type: vmess
